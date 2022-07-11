@@ -1,5 +1,5 @@
 # Pipeline 
-> Summer 2022 research command line pipeline
+> Summer 2022 research  pipeline
 
 ## Features
 - Parse Data
