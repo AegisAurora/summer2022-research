@@ -1,0 +1,190 @@
+----------------------------------EXPERIMENT NUMBER 1--------------MODEL j1-jumbo--------------------
+Assumption1: I like coffee.
+Proof: I like coffee or I like tea.
+###
+Assumption1: ttttt is asdfg.
+Proof: ttttt is asdfg or dog.
+###
+Assumption1: My computer has Intel CPU.
+Proof: My computer has Intel or AMD CPU.
+###
+Assumption1: Cats have four legs.
+Proof: Cats have four or eight legs.
+###
+Assumption1: My name is Joe.
+Proof: My name is Joe or Bill.
+###
+Assumption1: It is raining.
+Proof: It is raining or snowing.
+Troof: It is raining or it is sunny.
+----------------------------------EXPERIMENT NUMBER 2--------------MODEL j1-jumbo--------------------
+Assumption1: My computer has Intel CPU.
+Proof: My computer has Intel or AMD CPU.
+###
+Assumption1: Jumping is hard.
+Proof: Jumping is easy or hard.
+###
+Assumption1: ttttt is asdfg.
+Proof: ttttt is asdfg or dog.
+###
+Assumption1: Bobby is tall.
+Proof: Bobby is tall or short.
+###
+Assumption1: It is raining.
+Proof: It is raining or it is sunny.
+###
+Assumption1: I have an engineering degree.
+Proof: I have an engineering degree or I have a degree in something else.
+Troof: I have an engineering degree or a mathematics degree.
+----------------------------------EXPERIMENT NUMBER 3--------------MODEL j1-jumbo--------------------
+Assumption1: I like coffee.
+Proof: I like coffee or I like tea.
+###
+Assumption1: It is raining.
+Proof: It is raining or it is sunny.
+###
+Assumption1: Cats have four legs.
+Proof: Cats have four or eight legs.
+###
+Assumption1: Bobby is tall.
+Proof: Bobby is tall or short.
+###
+Assumption1: Jumping is hard.
+Proof: Jumping is easy or hard.
+###
+Assumption1: My name is Joe.
+Proof: My name is Joe or John.
+Troof: My name is Joe or Bill.
+----------------------------------EXPERIMENT NUMBER 4--------------MODEL j1-jumbo--------------------
+Assumption1: It is raining.
+Proof: It is raining or it is sunny.
+###
+Assumption1: My name is Joe.
+Proof: My name is Joe or Bill.
+###
+Assumption1: Bobby is tall.
+Proof: Bobby is tall or short.
+###
+Assumption1: Cats have four legs.
+Proof: Cats have four or eight legs.
+###
+Assumption1: My computer has Intel CPU.
+Proof: My computer has Intel or AMD CPU.
+###
+Assumption1: I am from Georgia.
+Proof: I am from Georgia or California.
+Troof: I am from Georgia or from the USA.
+----------------------------------EXPERIMENT NUMBER 5--------------MODEL j1-jumbo--------------------
+Assumption1: My computer has Intel CPU.
+Proof: My computer has Intel or AMD CPU.
+###
+Assumption1: Jumping is hard.
+Proof: Jumping is easy or hard.
+###
+Assumption1: It is raining.
+Proof: It is raining or it is sunny.
+###
+Assumption1: Cats have four legs.
+Proof: Cats have four or eight legs.
+###
+Assumption1: My name is Joe.
+Proof: My name is Joe or Bill.
+###
+Assumption1: I like coffee.
+Proof: I like coffee or tea.
+Troof: I like coffee or I like tea.
+----------------------------------EXPERIMENT NUMBER 6--------------MODEL j1-jumbo--------------------
+Assumption1: ttttt is asdfg.
+Proof: ttttt is asdfg or dog.
+###
+Assumption1: I am from Georgia.
+Proof: I am from Georgia or from the USA.
+###
+Assumption1: Cats have four legs.
+Proof: Cats have four or eight legs.
+###
+Assumption1: My name is Joe.
+Proof: My name is Joe or Bill.
+###
+Assumption1: Jumping is hard.
+Proof: Jumping is easy or hard.
+###
+Assumption1: Bobby is tall.
+Proof: Bobby is tall or short.
+Troof: Bobby is tall or short.
+----------------------------------EXPERIMENT NUMBER 7--------------MODEL j1-jumbo--------------------
+Assumption1: My name is Joe.
+Proof: My name is Joe or Bill.
+###
+Assumption1: Cats have four legs.
+Proof: Cats have four or eight legs.
+###
+Assumption1: I am from Georgia.
+Proof: I am from Georgia or from the USA.
+###
+Assumption1: Bobby is tall.
+Proof: Bobby is tall or short.
+###
+Assumption1: I have an engineering degree.
+Proof: I have an engineering degree or a mathematics degree.
+###
+Assumption1: Jumping is hard.
+Proof: Jumping is hard or easy.
+Troof: Jumping is easy or hard.
+----------------------------------EXPERIMENT NUMBER 8--------------MODEL j1-jumbo--------------------
+Assumption1: Bobby is tall.
+Proof: Bobby is tall or short.
+###
+Assumption1: I have an engineering degree.
+Proof: I have an engineering degree or a mathematics degree.
+###
+Assumption1: I am from Georgia.
+Proof: I am from Georgia or from the USA.
+###
+Assumption1: ttttt is asdfg.
+Proof: ttttt is asdfg or dog.
+###
+Assumption1: Cats have four legs.
+Proof: Cats have four or eight legs.
+###
+Assumption1: My computer has Intel CPU.
+Proof: My computer has Intel CPU or AMD CPU.
+Troof: My computer has Intel or AMD CPU.
+----------------------------------EXPERIMENT NUMBER 9--------------MODEL j1-jumbo--------------------
+Assumption1: I am from Georgia.
+Proof: I am from Georgia or from the USA.
+###
+Assumption1: It is raining.
+Proof: It is raining or it is sunny.
+###
+Assumption1: Jumping is hard.
+Proof: Jumping is easy or hard.
+###
+Assumption1: I have an engineering degree.
+Proof: I have an engineering degree or a mathematics degree.
+###
+Assumption1: Cats have four legs.
+Proof: Cats have four or eight legs.
+###
+Assumption1: ttttt is asdfg.
+Proof: ttttt is asdfg or ttttt is sdfg.
+Troof: ttttt is asdfg or dog.
+----------------------------------EXPERIMENT NUMBER 10--------------MODEL j1-jumbo--------------------
+Assumption1: I am from Georgia.
+Proof: I am from Georgia or from the USA.
+###
+Assumption1: My computer has Intel CPU.
+Proof: My computer has Intel or AMD CPU.
+###
+Assumption1: My name is Joe.
+Proof: My name is Joe or Bill.
+###
+Assumption1: It is raining.
+Proof: It is raining or it is sunny.
+###
+Assumption1: Bobby is tall.
+Proof: Bobby is tall or short.
+###
+Assumption1: Cats have four legs.
+Proof: Cats have four legs or they have two legs.
+Troof: Cats have four or eight legs.

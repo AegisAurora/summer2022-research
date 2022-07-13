@@ -1,0 +1,404 @@
+----------------------------------EXPERIMENT NUMBER 14--------------MODEL text-davinci-002--------------------
+Assumption1: If you passed a class in X then you know X.
+Assumption2: Mark passed an algorithms class.
+Proof: Mark knows algorithms
+###
+Assumption1: Mark is a good computer scientist.
+Assumprion2: All good computer scientists have a degree in computer science.
+Proof: Mark has a degree in computer science.
+###
+Assumption1: Mark has a degree in computer science.
+Assumption2: If you have a degree in X then you passed all required classes for the X major
+Proof: Mark passed all required classes for the computer science major
+###
+Assumption1: Mark passed all required classes for the computer science major.
+Assumption2: Algorithms is a required class for the computer science major.
+Proof: Mark passed an algorithms class
+###
+Assumption1: Emily's pizza has pepperoni.
+Assumption2: If Emily's pizza has pepperoni, then Emily's pizza also has cheese.
+Proof: Emily's pizza has cheese.
+###
+Assumption1: Every person whose name starts with a letter D has pizza.
+Assumption2: My name is Dimitri.
+Proof: I have pizza.
+###
+Assumption1: Every person with a Mathematics degree knows ten digits of pi.
+Assumption2: Dima has a degree in Biology.
+Proof: Dima might or might not know ten digits of pi.
+###
+Assumption1: Every person that knows ten digits of pi has a degree in Mathematics.
+Assumption2: I know ten digits of pi.
+Proof: I have a degree in Mathematics.
+----------------------------------EXPERIMENT NUMBER 14--------------MODEL text-curie-001--------------------
+Assumption1: If you passed a class in X then you know X.
+Assumption2: Mark passed an algorithms class.
+Proof: Mark knows algorithms
+###
+Assumption1: Mark is a good computer scientist.
+Assumprion2: All good computer scientists have a degree in computer science.
+Proof: Mark has a degree in computer science.
+###
+Assumption1: Mark has a degree in computer science.
+Assumption2: If you have a degree in X then you passed all required classes for the X major
+Proof: Mark passed all required classes for the computer science major
+###
+Assumption1: Mark passed all required classes for the computer science major.
+Assumption2: Algorithms is a required class for the computer science major.
+Proof: Mark passed an algorithms class
+###
+Assumption1: Emily's pizza has pepperoni.
+Assumption2: If Emily's pizza has pepperoni, then Emily's pizza also has cheese.
+Proof: Emily's pizza has cheese.
+###
+Assumption1: Every person whose name starts with a letter D has pizza.
+Assumption2: My name is Dimitri.
+Proof: I have pizza.
+###
+Assumption1: Every person with a Mathematics degree knows ten digits of pi.
+Assumption2: Dima has a degree in Biology.
+Proof: Dima might or might not know ten digits of pi.
+###
+Assumption1: Every person that knows ten digits of pi has a degree in Mathematics.
+Assumption2: I know ten digits of pi.
+Proof: I have a degree in Mathematics.
+----------------------------------EXPERIMENT NUMBER 14--------------MODEL text-babbage-001--------------------
+Assumption1: If you passed a class in X then you know X.
+Assumption2: Mark passed an algorithms class.
+Proof: Mark knows algorithms
+###
+Assumption1: Mark is a good computer scientist.
+Assumprion2: All good computer scientists have a degree in computer science.
+Proof: Mark has a degree in computer science.
+###
+Assumption1: Mark has a degree in computer science.
+Assumption2: If you have a degree in X then you passed all required classes for the X major
+Proof: Mark passed all required classes for the computer science major
+###
+Assumption1: Mark passed all required classes for the computer science major.
+Assumption2: Algorithms is a required class for the computer science major.
+Proof: Mark passed an algorithms class
+###
+Assumption1: Emily's pizza has pepperoni.
+Assumption2: If Emily's pizza has pepperoni, then Emily's pizza also has cheese.
+Proof: Emily's pizza has cheese.
+###
+Assumption1: Every person whose name starts with a letter D has pizza.
+Assumption2: My name is Dimitri.
+Proof: I have pizza.
+###
+Assumption1: Every person with a Mathematics degree knows ten digits of pi.
+Assumption2: Dima has a degree in Biology.
+Proof: Dima might or might not know ten digits of pi.
+###
+Assumption1: Every person that knows ten digits of pi has a degree in Mathematics.
+Assumption2: I know ten digits of pi.
+Proof: I know ten digits of pi.
+----------------------------------EXPERIMENT NUMBER 14--------------MODEL text-ada-001--------------------
+Assumption1: If you passed a class in X then you know X.
+Assumption2: Mark passed an algorithms class.
+Proof: Mark knows algorithms
+###
+Assumption1: Mark is a good computer scientist.
+Assumprion2: All good computer scientists have a degree in computer science.
+Proof: Mark has a degree in computer science.
+###
+Assumption1: Mark has a degree in computer science.
+Assumption2: If you have a degree in X then you passed all required classes for the X major
+Proof: Mark passed all required classes for the computer science major
+###
+Assumption1: Mark passed all required classes for the computer science major.
+Assumption2: Algorithms is a required class for the computer science major.
+Proof: Mark passed an algorithms class
+###
+Assumption1: Emily's pizza has pepperoni.
+Assumption2: If Emily's pizza has pepperoni, then Emily's pizza also has cheese.
+Proof: Emily's pizza has cheese.
+###
+Assumption1: Every person whose name starts with a letter D has pizza.
+Assumption2: My name is Dimitri.
+Proof: I have pizza.
+###
+Assumption1: Every person with a Mathematics degree knows ten digits of pi.
+Assumption2: Dima has a degree in Biology.
+Proof: Dima might or might not know ten digits of pi.
+###
+Assumption1: Every person that knows ten digits of pi has a degree in Mathematics.
+Assumption2: I know ten digits of pi.
+Proof: I have a degree in Mathematics.
+----------------------------------EXPERIMENT NUMBER 16--------------MODEL text-davinci-002--------------------
+Assumption1: If you passed a class in X then you know X.
+Assumption2: Mark passed an algorithms class.
+Proof: Mark knows algorithms
+###
+Assumption1: Mark is a good computer scientist.
+Assumprion2: All good computer scientists have a degree in computer science.
+Proof: Mark has a degree in computer science.
+###
+Assumption1: Mark has a degree in computer science.
+Assumption2: If you have a degree in X then you passed all required classes for the X major
+Proof: Mark passed all required classes for the computer science major
+###
+Assumption1: Mark passed all required classes for the computer science major.
+Assumption2: Algorithms is a required class for the computer science major.
+Proof: Mark passed an algorithms class
+###
+Assumption1: Emily's pizza has pepperoni.
+Assumption2: If Emily's pizza has pepperoni, then Emily's pizza also has cheese.
+Proof: Emily's pizza has cheese.
+###
+Assumption1: Every person whose name starts with a letter D has pizza.
+Assumption2: My name is Dimitri.
+Proof: I have pizza.
+###
+Assumption1: Every person with a Mathematics degree knows ten digits of pi.
+Assumption2: Dima has a degree in Biology.
+Proof: Dima might or might not know ten digits of pi.
+###
+Assumption1: Every person that knows ten digits of pi has a degree in Mathematics.
+Assumption2: Joe knows ten digits of pie.
+Proof: Joe has a degree in Mathematics.
+----------------------------------EXPERIMENT NUMBER 16--------------MODEL text-curie-001--------------------
+Assumption1: If you passed a class in X then you know X.
+Assumption2: Mark passed an algorithms class.
+Proof: Mark knows algorithms
+###
+Assumption1: Mark is a good computer scientist.
+Assumprion2: All good computer scientists have a degree in computer science.
+Proof: Mark has a degree in computer science.
+###
+Assumption1: Mark has a degree in computer science.
+Assumption2: If you have a degree in X then you passed all required classes for the X major
+Proof: Mark passed all required classes for the computer science major
+###
+Assumption1: Mark passed all required classes for the computer science major.
+Assumption2: Algorithms is a required class for the computer science major.
+Proof: Mark passed an algorithms class
+###
+Assumption1: Emily's pizza has pepperoni.
+Assumption2: If Emily's pizza has pepperoni, then Emily's pizza also has cheese.
+Proof: Emily's pizza has cheese.
+###
+Assumption1: Every person whose name starts with a letter D has pizza.
+Assumption2: My name is Dimitri.
+Proof: I have pizza.
+###
+Assumption1: Every person with a Mathematics degree knows ten digits of pi.
+Assumption2: Dima has a degree in Biology.
+Proof: Dima might or might not know ten digits of pi.
+###
+Assumption1: Every person that knows ten digits of pi has a degree in Mathematics.
+Assumption2: Joe knows ten digits of pie.
+Proof: Joe has a degree in Mathematics.
+----------------------------------EXPERIMENT NUMBER 16--------------MODEL text-babbage-001--------------------
+Assumption1: If you passed a class in X then you know X.
+Assumption2: Mark passed an algorithms class.
+Proof: Mark knows algorithms
+###
+Assumption1: Mark is a good computer scientist.
+Assumprion2: All good computer scientists have a degree in computer science.
+Proof: Mark has a degree in computer science.
+###
+Assumption1: Mark has a degree in computer science.
+Assumption2: If you have a degree in X then you passed all required classes for the X major
+Proof: Mark passed all required classes for the computer science major
+###
+Assumption1: Mark passed all required classes for the computer science major.
+Assumption2: Algorithms is a required class for the computer science major.
+Proof: Mark passed an algorithms class
+###
+Assumption1: Emily's pizza has pepperoni.
+Assumption2: If Emily's pizza has pepperoni, then Emily's pizza also has cheese.
+Proof: Emily's pizza has cheese.
+###
+Assumption1: Every person whose name starts with a letter D has pizza.
+Assumption2: My name is Dimitri.
+Proof: I have pizza.
+###
+Assumption1: Every person with a Mathematics degree knows ten digits of pi.
+Assumption2: Dima has a degree in Biology.
+Proof: Dima might or might not know ten digits of pi.
+###
+Assumption1: Every person that knows ten digits of pi has a degree in Mathematics.
+Assumption2: Joe knows ten digits of pie.
+Proof: Joe knows ten digits of pie.
+----------------------------------EXPERIMENT NUMBER 16--------------MODEL text-ada-001--------------------
+Assumption1: If you passed a class in X then you know X.
+Assumption2: Mark passed an algorithms class.
+Proof: Mark knows algorithms
+###
+Assumption1: Mark is a good computer scientist.
+Assumprion2: All good computer scientists have a degree in computer science.
+Proof: Mark has a degree in computer science.
+###
+Assumption1: Mark has a degree in computer science.
+Assumption2: If you have a degree in X then you passed all required classes for the X major
+Proof: Mark passed all required classes for the computer science major
+###
+Assumption1: Mark passed all required classes for the computer science major.
+Assumption2: Algorithms is a required class for the computer science major.
+Proof: Mark passed an algorithms class
+###
+Assumption1: Emily's pizza has pepperoni.
+Assumption2: If Emily's pizza has pepperoni, then Emily's pizza also has cheese.
+Proof: Emily's pizza has cheese.
+###
+Assumption1: Every person whose name starts with a letter D has pizza.
+Assumption2: My name is Dimitri.
+Proof: I have pizza.
+###
+Assumption1: Every person with a Mathematics degree knows ten digits of pi.
+Assumption2: Dima has a degree in Biology.
+Proof: Dima might or might not know ten digits of pi.
+###
+Assumption1: Every person that knows ten digits of pi has a degree in Mathematics.
+Assumption2: Joe knows ten digits of pie.
+Proof: Joe knows 10 digits of pi.
+----------------------------------EXPERIMENT NUMBER 22--------------MODEL text-davinci-002--------------------
+
+Assumption1: If you passed a class in X then you know X.
+Assumption2: Mark passed an algorithms class.
+Proof: Mark knows algorithms
+###
+Assumption1: Mark is a good computer scientist.
+Assumprion2: All good computer scientists have a degree in computer science.
+Proof: Mark has a degree in computer science.
+###
+Assumption1: Mark has a degree in computer science.
+Assumption2: If you have a degree in X then you passed all required classes for the X major
+Proof: Mark passed all required classes for the computer science major
+###
+Assumption1: Mark passed all required classes for the computer science major.
+Assumption2: Algorithms is a required class for the computer science major.
+Proof: Mark passed an algorithms class
+###
+Assumption1: Emily's pizza has pepperoni.
+Assumption2: If Emily's pizza has pepperoni, then Emily's pizza also has cheese.
+Proof: Emily's pizza has cheese.
+###
+Assumption1: Every person whose name starts with a letter D has pizza.
+Assumption2: My name is Dimitri.
+Proof: I have pizza.
+###
+Assumption1: Every person with a Mathematics degree knows ten digits of pi.
+Assumption2: Dima has a degree in Biology.
+Proof: Dima might or might not know ten digits of pi.
+###
+Assumption1: Every person that knows ten digits of pi has a degree in Mathematics.
+Assumption2: Joe knows ten digits of pi.
+Proof: Joe has a degree in Mathematics.
+###
+Assumption1: Rex is a human.
+Assumption2: Humans do not have tails.
+Proof: Rex does not have a tail.
+----------------------------------EXPERIMENT NUMBER 22--------------MODEL text-curie-001--------------------
+
+Assumption1: If you passed a class in X then you know X.
+Assumption2: Mark passed an algorithms class.
+Proof: Mark knows algorithms
+###
+Assumption1: Mark is a good computer scientist.
+Assumprion2: All good computer scientists have a degree in computer science.
+Proof: Mark has a degree in computer science.
+###
+Assumption1: Mark has a degree in computer science.
+Assumption2: If you have a degree in X then you passed all required classes for the X major
+Proof: Mark passed all required classes for the computer science major
+###
+Assumption1: Mark passed all required classes for the computer science major.
+Assumption2: Algorithms is a required class for the computer science major.
+Proof: Mark passed an algorithms class
+###
+Assumption1: Emily's pizza has pepperoni.
+Assumption2: If Emily's pizza has pepperoni, then Emily's pizza also has cheese.
+Proof: Emily's pizza has cheese.
+###
+Assumption1: Every person whose name starts with a letter D has pizza.
+Assumption2: My name is Dimitri.
+Proof: I have pizza.
+###
+Assumption1: Every person with a Mathematics degree knows ten digits of pi.
+Assumption2: Dima has a degree in Biology.
+Proof: Dima might or might not know ten digits of pi.
+###
+Assumption1: Every person that knows ten digits of pi has a degree in Mathematics.
+Assumption2: Joe knows ten digits of pi.
+Proof: Joe has a degree in Mathematics.
+###
+Assumption1: Rex is a human.
+Assumption2: Humans do not have tails.
+Proof: Rex does not have a tail.
+----------------------------------EXPERIMENT NUMBER 22--------------MODEL text-babbage-001--------------------
+
+Assumption1: If you passed a class in X then you know X.
+Assumption2: Mark passed an algorithms class.
+Proof: Mark knows algorithms
+###
+Assumption1: Mark is a good computer scientist.
+Assumprion2: All good computer scientists have a degree in computer science.
+Proof: Mark has a degree in computer science.
+###
+Assumption1: Mark has a degree in computer science.
+Assumption2: If you have a degree in X then you passed all required classes for the X major
+Proof: Mark passed all required classes for the computer science major
+###
+Assumption1: Mark passed all required classes for the computer science major.
+Assumption2: Algorithms is a required class for the computer science major.
+Proof: Mark passed an algorithms class
+###
+Assumption1: Emily's pizza has pepperoni.
+Assumption2: If Emily's pizza has pepperoni, then Emily's pizza also has cheese.
+Proof: Emily's pizza has cheese.
+###
+Assumption1: Every person whose name starts with a letter D has pizza.
+Assumption2: My name is Dimitri.
+Proof: I have pizza.
+###
+Assumption1: Every person with a Mathematics degree knows ten digits of pi.
+Assumption2: Dima has a degree in Biology.
+Proof: Dima might or might not know ten digits of pi.
+###
+Assumption1: Every person that knows ten digits of pi has a degree in Mathematics.
+Assumption2: Joe knows ten digits of pi.
+Proof: Joe has a degree in Mathematics.
+###
+Assumption1: Rex is a human.
+Assumption2: Humans do not have tails.
+Proof: Rex is a human.
+----------------------------------EXPERIMENT NUMBER 22--------------MODEL text-ada-001--------------------
+
+Assumption1: If you passed a class in X then you know X.
+Assumption2: Mark passed an algorithms class.
+Proof: Mark knows algorithms
+###
+Assumption1: Mark is a good computer scientist.
+Assumprion2: All good computer scientists have a degree in computer science.
+Proof: Mark has a degree in computer science.
+###
+Assumption1: Mark has a degree in computer science.
+Assumption2: If you have a degree in X then you passed all required classes for the X major
+Proof: Mark passed all required classes for the computer science major
+###
+Assumption1: Mark passed all required classes for the computer science major.
+Assumption2: Algorithms is a required class for the computer science major.
+Proof: Mark passed an algorithms class
+###
+Assumption1: Emily's pizza has pepperoni.
+Assumption2: If Emily's pizza has pepperoni, then Emily's pizza also has cheese.
+Proof: Emily's pizza has cheese.
+###
+Assumption1: Every person whose name starts with a letter D has pizza.
+Assumption2: My name is Dimitri.
+Proof: I have pizza.
+###
+Assumption1: Every person with a Mathematics degree knows ten digits of pi.
+Assumption2: Dima has a degree in Biology.
+Proof: Dima might or might not know ten digits of pi.
+###
+Assumption1: Every person that knows ten digits of pi has a degree in Mathematics.
+Assumption2: Joe knows ten digits of pi.
+Proof: Joe has a degree in Mathematics.
+###
+Assumption1: Rex is a human.
+Assumption2: Humans do not have tails.
+Proof: Rex is not a human.
