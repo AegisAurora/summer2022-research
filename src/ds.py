@@ -13,7 +13,7 @@ class data():
         self.examples = []
 
     def makeSingleExp(self,num = 1):
-        assert num + 1 < self.total(), f"Maximum possible in context examples {self.total() -1}, got {num}"
+        assert num + 1 <= self.total(), f"Maximum possible in context examples {self.total() -1}, got {num}"
         ex = self.examples.copy()
         random.shuffle(ex)
         p = ex.pop()
@@ -26,11 +26,35 @@ class data():
         for ass in p.getAssumptions():
             experiment += ass
         experiment += "Proof:"
-        return experiment
+        return experi(exp= experiment, proof = p.getProof())
+
+    def makeTrials(self,num = 1,trials = 1):
+        assert num + 1 <= self.total(), f"Maximum possible in context examples {self.total() -1}, got {num}"
+        ex = self.examples.copy()
+        experiments = []
+        random.shuffle(ex)
+        p = ex.pop()
+        for _ in range(trials):
+            experiment = ""
+            exa = ex.copy()
+            random.shuffle(exa)
+            for _ in range(num):
+                a = exa.pop()
+                for ass in a.getAssumptions():
+                    experiment+= ass
+                experiment += a.getProof() + "###\n"
+            for ass in p.getAssumptions():
+                experiment += ass
+            experiment += "Proof:"
+            experiments.append(experi(exp = experiment,proof = p.getProof()))
+
+        return experiments
+
+
         
 
     def makeAllExps(self,num = 1):
-        assert num + 1 < self.total(), f"Maximum possible in context examples {self.total() -1}, got {num}"
+        assert num + 1 <= self.total(), f"Maximum possible in context examples {self.total() -1}, got {num}"
         experiments = []
         for exa in self.examples:
             experiment = ""
@@ -45,7 +69,7 @@ class data():
             for ass in exa.getAssumptions():
                 experiment += ass
             experiment += "Proof:"
-            experiments.append(experiment)
+            experiments.append(experi(exp = experiment,proof = exa.getProof()))
         return experiments
 
 class example():
@@ -70,4 +94,15 @@ class example():
 
     def __str__(self):
         return str(self.assumptions) + " " + self.proof
+
+class experi():
+    exp = ""
+    troof = ""
+    def __init__(self,exp,proof):
+        self.exp = exp
+        self.troof = proof.split("Proof: ")[1]
+    def getExp(self):
+        return self.exp
+    def getTroof(self):
+        return self.troof
 

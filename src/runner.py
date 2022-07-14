@@ -66,9 +66,27 @@ class runner():
             a = f"----------------------------------EXPERIMENT NUMBER {n}--------------MODEL {model}--------------------\n"
             with open(self.path,"a") as f:
                 f.write(a)
-                f.write(experiment)
+                f.write(experiment.getExp())
                 if provider == "openAI":
-                    f.write(self.runOpenAI(model,experiment))
-                else:
-                    f.write(self.runAI21(model,experiment))
+                    f.write(self.runOpenAI(model,experiment.getExp()))
+                elif provider == "AI21":
+                    f.write(self.runAI21(model,experiment.getExp()))
+                f.write(f"Troof: {experiment.getTroof()}")
             n += 1
+    
+    def runModels(self):
+        n = 1
+        for experiment in self.experiments[0]:
+            a = f"----------------------------------EXPERIMENT NUMBER {n}--------------MODEL J1-Jumbo--------------------\n"
+            b = f"----------------------------------EXPERIMENT NUMBER {n}--------------MODEL GPT-3--------------------\n"
+            with open(self.path,"a") as f:
+                f.write(a)
+                f.write(experiment.getExp())
+                f.write(self.runAI21("j1-jumbo",experiment.getExp()))
+                f.write(f"Troof: {experiment.getTroof()}")
+                f.write(b)
+                f.write(experiment.getExp())
+                f.write(self.runOpenAI("text-davinci-002",experiment.getExp()))
+                f.write(f"Troof: {experiment.getTroof()}")
+            n += 1
+        

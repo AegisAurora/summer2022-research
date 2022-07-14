@@ -1,0 +1,275 @@
+----------------------------------EXPERIMENT NUMBER 1--------------MODEL j1-jumbo--------------------
+Assumption1: There is a volcano eruption or it is raining.
+Assumption2: There is no volcano eruption.
+Proof: It is raining.
+###
+Assumption1: This group of people are athletes or scientists.
+Assumption2: These people are not athletes.
+Proof: These people are scientists.
+###
+Assumption1: Joe's favourite animals are dogs or cats.
+Assumption2: Joe's favourite animals are not cats.
+Proof: Joe's favourite animals are dogs.
+###
+Assumption1: It is raining or there is a volcano eruption.
+Assumption2: The volcano is dormant.
+Proof: It is raining.
+###
+Assumption1: There are dogs or cats at the exposition.
+Assumption2: There are no dogs at the exposition.
+Proof: There are cats at the exposition.
+###
+Assumption1: I am from the USA or from France.
+Assumption2: I am not from the USA.
+Proof: I am from France.
+Troof: I am from France.
+----------------------------------EXPERIMENT NUMBER 2--------------MODEL j1-jumbo--------------------
+Assumption1: I am from the USA or from France.
+Assumption2: I am not from the USA.
+Proof: I am from France.
+###
+Assumption1: I can jump high or I can not jump at all.
+Assumption2: I have no legs.
+Proof: I can not jump at all.
+###
+Assumption1: Wabash College has men or women.
+Assumption2: Wabash College has no women.
+Proof: Wabash college has men.
+###
+Assumption1: There are dogs or cats at the exposition.
+Assumption2: There are no dogs at the exposition.
+Proof: There are cats at the exposition.
+###
+Assumption1: There is a volcano eruption or it is raining.
+Assumption2: There is no volcano eruption.
+Proof: It is raining.
+###
+Assumption1: Joe's favourite animals are dogs or cats.
+Assumption2: Joe's favourite animals are not cats.
+Proof: Joe's favourite animals are dogs.
+Troof: Joe's favourite animals are dogs.
+----------------------------------EXPERIMENT NUMBER 3--------------MODEL j1-jumbo--------------------
+Assumption1: Bobby is a world chess champion or bobby is the worst player there is.
+Assumption2: Joe is a worse chess player than Bobby.
+Proof: Bobby is a world chess champion.
+###
+Assumption1: Wabash College has men or women.
+Assumption2: Wabash College has no women.
+Proof: Wabash college has men.
+###
+Assumption1: There are dogs or cats at the exposition.
+Assumption2: There are no dogs at the exposition.
+Proof: There are cats at the exposition.
+###
+Assumption1: I can jump high or I can not jump at all.
+Assumption2: I have no legs.
+Proof: I can not jump at all.
+###
+Assumption1: I am from the USA or from France.
+Assumption2: I am not from the USA.
+Proof: I am from France.
+###
+Assumption1: It is raining or there is a volcano eruption.
+Assumption2: The volcano is dormant.
+Proof: It is raining.
+Troof: It is raining.
+----------------------------------EXPERIMENT NUMBER 4--------------MODEL j1-jumbo--------------------
+Assumption1: I can jump high or I can not jump at all.
+Assumption2: I have no legs.
+Proof: I can not jump at all.
+###
+Assumption1: I am from the USA or from France.
+Assumption2: I am not from the USA.
+Proof: I am from France.
+###
+Assumption1: Wabash College has men or women.
+Assumption2: Wabash College has no women.
+Proof: Wabash college has men.
+###
+Assumption1: This group of people are athletes or scientists.
+Assumption2: These people are not athletes.
+Proof: These people are scientists.
+###
+Assumption1: I can play table tennis or I can regular tennis.
+Assumption2: I can not run a lot, therefore I can not play regular tennis.
+Proof: I can play table tennis.
+###
+Assumption1: There is a volcano eruption or it is raining.
+Assumption2: There is no volcano eruption.
+Proof: It is raining.
+Troof: It is raining.
+----------------------------------EXPERIMENT NUMBER 5--------------MODEL j1-jumbo--------------------
+Assumption1: Wabash College has men or women.
+Assumption2: Wabash College has no women.
+Proof: Wabash college has men.
+###
+Assumption1: I can jump high or I can not jump at all.
+Assumption2: I have no legs.
+Proof: I can not jump at all.
+###
+Assumption1: People who speak French are from Canada or France.
+Assumption2: People who speak French are not from France.
+Proof: People who speak French are from Canada.
+###
+Assumption1: There are dogs or cats at the exposition.
+Assumption2: There are no dogs at the exposition.
+Proof: There are cats at the exposition.
+###
+Assumption1: Joe's favourite animals are dogs or cats.
+Assumption2: Joe's favourite animals are not cats.
+Proof: Joe's favourite animals are dogs.
+###
+Assumption1: This group of people are athletes or scientists.
+Assumption2: These people are not athletes.
+Proof: These people are scientists.
+Troof: These people are scientists.
+----------------------------------EXPERIMENT NUMBER 6--------------MODEL j1-jumbo--------------------
+Assumption1: This group of people are athletes or scientists.
+Assumption2: These people are not athletes.
+Proof: These people are scientists.
+###
+Assumption1: I can play table tennis or I can regular tennis.
+Assumption2: I can not run a lot, therefore I can not play regular tennis.
+Proof: I can play table tennis.
+###
+Assumption1: Bobby is a world chess champion or bobby is the worst player there is.
+Assumption2: Joe is a worse chess player than Bobby.
+Proof: Bobby is a world chess champion.
+###
+Assumption1: There are dogs or cats at the exposition.
+Assumption2: There are no dogs at the exposition.
+Proof: There are cats at the exposition.
+###
+Assumption1: I am from the USA or from France.
+Assumption2: I am not from the USA.
+Proof: I am from France.
+###
+Assumption1: People who speak French are from Canada or France.
+Assumption2: People who speak French are not from France.
+Proof: People who speak French are from Canada.
+Troof: People who speak French are from Canada.
+----------------------------------EXPERIMENT NUMBER 7--------------MODEL j1-jumbo--------------------
+Assumption1: People who speak French are from Canada or France.
+Assumption2: People who speak French are not from France.
+Proof: People who speak French are from Canada.
+###
+Assumption1: There is a volcano eruption or it is raining.
+Assumption2: There is no volcano eruption.
+Proof: It is raining.
+###
+Assumption1: Joe's favourite animals are dogs or cats.
+Assumption2: Joe's favourite animals are not cats.
+Proof: Joe's favourite animals are dogs.
+###
+Assumption1: Bobby is a world chess champion or bobby is the worst player there is.
+Assumption2: Joe is a worse chess player than Bobby.
+Proof: Bobby is a world chess champion.
+###
+Assumption1: I can play table tennis or I can regular tennis.
+Assumption2: I can not run a lot, therefore I can not play regular tennis.
+Proof: I can play table tennis.
+###
+Assumption1: Wabash College has men or women.
+Assumption2: Wabash College has no women.
+Proof: Wabash College has men.
+Troof: Wabash college has men.
+----------------------------------EXPERIMENT NUMBER 8--------------MODEL j1-jumbo--------------------
+Assumption1: People who speak French are from Canada or France.
+Assumption2: People who speak French are not from France.
+Proof: People who speak French are from Canada.
+###
+Assumption1: Bobby is a world chess champion or bobby is the worst player there is.
+Assumption2: Joe is a worse chess player than Bobby.
+Proof: Bobby is a world chess champion.
+###
+Assumption1: There is a volcano eruption or it is raining.
+Assumption2: There is no volcano eruption.
+Proof: It is raining.
+###
+Assumption1: I am from the USA or from France.
+Assumption2: I am not from the USA.
+Proof: I am from France.
+###
+Assumption1: I can play table tennis or I can regular tennis.
+Assumption2: I can not run a lot, therefore I can not play regular tennis.
+Proof: I can play table tennis.
+###
+Assumption1: There are dogs or cats at the exposition.
+Assumption2: There are no dogs at the exposition.
+Proof: There are cats at the exposition.
+Troof: There are cats at the exposition.
+----------------------------------EXPERIMENT NUMBER 9--------------MODEL j1-jumbo--------------------
+Assumption1: It is raining or there is a volcano eruption.
+Assumption2: The volcano is dormant.
+Proof: It is raining.
+###
+Assumption1: I can play table tennis or I can regular tennis.
+Assumption2: I can not run a lot, therefore I can not play regular tennis.
+Proof: I can play table tennis.
+###
+Assumption1: There are dogs or cats at the exposition.
+Assumption2: There are no dogs at the exposition.
+Proof: There are cats at the exposition.
+###
+Assumption1: People who speak French are from Canada or France.
+Assumption2: People who speak French are not from France.
+Proof: People who speak French are from Canada.
+###
+Assumption1: I can jump high or I can not jump at all.
+Assumption2: I have no legs.
+Proof: I can not jump at all.
+###
+Assumption1: Bobby is a world chess champion or bobby is the worst player there is.
+Assumption2: Joe is a worse chess player than Bobby.
+Proof: Joe is a worse chess player than Bobby.
+Troof: Bobby is a world chess champion.
+----------------------------------EXPERIMENT NUMBER 10--------------MODEL j1-jumbo--------------------
+Assumption1: I am from the USA or from France.
+Assumption2: I am not from the USA.
+Proof: I am from France.
+###
+Assumption1: I can play table tennis or I can regular tennis.
+Assumption2: I can not run a lot, therefore I can not play regular tennis.
+Proof: I can play table tennis.
+###
+Assumption1: Bobby is a world chess champion or bobby is the worst player there is.
+Assumption2: Joe is a worse chess player than Bobby.
+Proof: Bobby is a world chess champion.
+###
+Assumption1: This group of people are athletes or scientists.
+Assumption2: These people are not athletes.
+Proof: These people are scientists.
+###
+Assumption1: People who speak French are from Canada or France.
+Assumption2: People who speak French are not from France.
+Proof: People who speak French are from Canada.
+###
+Assumption1: I can jump high or I can not jump at all.
+Assumption2: I have no legs.
+Proof: I can not jump at all.
+Troof: I can not jump at all.
+----------------------------------EXPERIMENT NUMBER 11--------------MODEL j1-jumbo--------------------
+Assumption1: People who speak French are from Canada or France.
+Assumption2: People who speak French are not from France.
+Proof: People who speak French are from Canada.
+###
+Assumption1: This group of people are athletes or scientists.
+Assumption2: These people are not athletes.
+Proof: These people are scientists.
+###
+Assumption1: Joe's favourite animals are dogs or cats.
+Assumption2: Joe's favourite animals are not cats.
+Proof: Joe's favourite animals are dogs.
+###
+Assumption1: I can jump high or I can not jump at all.
+Assumption2: I have no legs.
+Proof: I can not jump at all.
+###
+Assumption1: There are dogs or cats at the exposition.
+Assumption2: There are no dogs at the exposition.
+Proof: There are cats at the exposition.
+###
+Assumption1: I can play table tennis or I can regular tennis.
+Assumption2: I can not run a lot, therefore I can not play regular tennis.
+Proof: I can play table tennis.
+Troof: I can play table tennis.
