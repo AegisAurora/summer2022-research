@@ -1,0 +1,980 @@
+----------------------------------EXPERIMENT NUMBER 1--------------MODEL j1-jumbo--------------------
+Assumption1: Bobby is tall.
+Proof: Bobby is tall or short.
+###
+Assumption1: ttttt is asdfg.
+Proof: ttttt is asdfg or dog.
+###
+Assumption1: Fish are fast.
+Proof: Fish are fast or slow.
+###
+Assumption1: I am from Georgia.
+Proof: I am from Georgia or from the USA.
+###
+Assumption1: Russia is big.
+Proof: Russia is big or small.
+###
+Assumption1: I like coffee.
+Proof: I like coffee or I like tea.
+###
+Assumption1: Reddit is helpful.
+Proof: Reddit is helpful or facebook is scary.
+###
+Assumption1: Bob is simple.
+Proof: Bob is simple or advanced.
+###
+Assumption1: Wolf is grey.
+Proof: Wolf is grey or red.
+###
+Assumption1: Cryptocurrency is useful.
+Proof: Cryptocurrency is useful or fiat is useful.
+###
+Assumption1: Soldiers are strong.
+Proof: Soldiers are strong or dogs are fast.
+###
+Assumption1: qwerty is asdfggg222.
+Proof: qwerty is asdfggg222 or president of the USA.
+###
+Assumption1: Jumping is hard.
+Proof: Jumping is easy or hard.
+###
+Assumption1: Cats have four legs.
+Proof: Cats have four or eight legs.
+###
+Assumption1: qwerty is funny.
+Proof: qwerty is funny or Bobby is scary.
+###
+Assumption1: It is raining.
+Proof: It is raining or snowing.
+Troof: It is raining or it is sunny.
+----------------------------------EXPERIMENT NUMBER 2--------------MODEL j1-jumbo--------------------
+Assumption1: qwerty is asdfggg222.
+Proof: qwerty is asdfggg222 or president of the USA.
+###
+Assumption1: Mom loves me.
+Proof: Mom loves me or dogs run fast.
+###
+Assumption1: Soldiers are strong.
+Proof: Soldiers are strong or dogs are fast.
+###
+Assumption1: Cats have four legs.
+Proof: Cats have four or eight legs.
+###
+Assumption1: Cryptocurrency is useful.
+Proof: Cryptocurrency is useful or fiat is useful.
+###
+Assumption1: Wolf is grey.
+Proof: Wolf is grey or red.
+###
+Assumption1: Russia is big.
+Proof: Russia is big or small.
+###
+Assumption1: Fish are fast.
+Proof: Fish are fast or slow.
+###
+Assumption1: I am from Georgia.
+Proof: I am from Georgia or from the USA.
+###
+Assumption1: Bobby is tall.
+Proof: Bobby is tall or short.
+###
+Assumption1: I like coffee.
+Proof: I like coffee or I like tea.
+###
+Assumption1: My name is Joe.
+Proof: My name is Joe or Bill.
+###
+Assumption1: Reddit is helpful.
+Proof: Reddit is helpful or facebook is scary.
+###
+Assumption1: Bob is simple.
+Proof: Bob is simple or advanced.
+###
+Assumption1: My computer has Intel CPU.
+Proof: My computer has Intel or AMD CPU.
+###
+Assumption1: I have an engineering degree.
+Proof: I have an engineering degree or I have a law degree.
+Troof: I have an engineering degree or a mathematics degree.
+----------------------------------EXPERIMENT NUMBER 3--------------MODEL j1-jumbo--------------------
+Assumption1: ttttt is asdfg.
+Proof: ttttt is asdfg or dog.
+###
+Assumption1: Soldiers are strong.
+Proof: Soldiers are strong or dogs are fast.
+###
+Assumption1: qwerty is funny.
+Proof: qwerty is funny or Bobby is scary.
+###
+Assumption1: Fish are fast.
+Proof: Fish are fast or slow.
+###
+Assumption1: Jumping is hard.
+Proof: Jumping is easy or hard.
+###
+Assumption1: I am from Georgia.
+Proof: I am from Georgia or from the USA.
+###
+Assumption1: qwerty is asdfggg222.
+Proof: qwerty is asdfggg222 or president of the USA.
+###
+Assumption1: Mom loves me.
+Proof: Mom loves me or dogs run fast.
+###
+Assumption1: Reddit is helpful.
+Proof: Reddit is helpful or facebook is scary.
+###
+Assumption1: I have an engineering degree.
+Proof: I have an engineering degree or a mathematics degree.
+###
+Assumption1: My computer has Intel CPU.
+Proof: My computer has Intel or AMD CPU.
+###
+Assumption1: I like coffee.
+Proof: I like coffee or I like tea.
+###
+Assumption1: Cryptocurrency is useful.
+Proof: Cryptocurrency is useful or fiat is useful.
+###
+Assumption1: Cats have four legs.
+Proof: Cats have four or eight legs.
+###
+Assumption1: Russia is big.
+Proof: Russia is big or small.
+###
+Assumption1: My name is Joe.
+Proof: My name is Joe or John.
+Troof: My name is Joe or Bill.
+----------------------------------EXPERIMENT NUMBER 4--------------MODEL j1-jumbo--------------------
+Assumption1: Reddit is helpful.
+Proof: Reddit is helpful or facebook is scary.
+###
+Assumption1: I have an engineering degree.
+Proof: I have an engineering degree or a mathematics degree.
+###
+Assumption1: Soldiers are strong.
+Proof: Soldiers are strong or dogs are fast.
+###
+Assumption1: Cats have four legs.
+Proof: Cats have four or eight legs.
+###
+Assumption1: Jumping is hard.
+Proof: Jumping is easy or hard.
+###
+Assumption1: Mom loves me.
+Proof: Mom loves me or dogs run fast.
+###
+Assumption1: Wolf is grey.
+Proof: Wolf is grey or red.
+###
+Assumption1: Russia is big.
+Proof: Russia is big or small.
+###
+Assumption1: It is raining.
+Proof: It is raining or it is sunny.
+###
+Assumption1: Fish are fast.
+Proof: Fish are fast or slow.
+###
+Assumption1: ttttt is asdfg.
+Proof: ttttt is asdfg or dog.
+###
+Assumption1: My name is Joe.
+Proof: My name is Joe or Bill.
+###
+Assumption1: Bob is simple.
+Proof: Bob is simple or advanced.
+###
+Assumption1: Bobby is tall.
+Proof: Bobby is tall or short.
+###
+Assumption1: qwerty is asdfggg222.
+Proof: qwerty is asdfggg222 or president of the USA.
+###
+Assumption1: I am from Georgia.
+Proof: I am from Georgia or Russia.
+Troof: I am from Georgia or from the USA.
+----------------------------------EXPERIMENT NUMBER 5--------------MODEL j1-jumbo--------------------
+Assumption1: ttttt is asdfg.
+Proof: ttttt is asdfg or dog.
+###
+Assumption1: It is raining.
+Proof: It is raining or it is sunny.
+###
+Assumption1: My name is Joe.
+Proof: My name is Joe or Bill.
+###
+Assumption1: Mom loves me.
+Proof: Mom loves me or dogs run fast.
+###
+Assumption1: Wolf is grey.
+Proof: Wolf is grey or red.
+###
+Assumption1: Reddit is helpful.
+Proof: Reddit is helpful or facebook is scary.
+###
+Assumption1: Cats have four legs.
+Proof: Cats have four or eight legs.
+###
+Assumption1: Bobby is tall.
+Proof: Bobby is tall or short.
+###
+Assumption1: Jumping is hard.
+Proof: Jumping is easy or hard.
+###
+Assumption1: Fish are fast.
+Proof: Fish are fast or slow.
+###
+Assumption1: I have an engineering degree.
+Proof: I have an engineering degree or a mathematics degree.
+###
+Assumption1: My computer has Intel CPU.
+Proof: My computer has Intel or AMD CPU.
+###
+Assumption1: qwerty is asdfggg222.
+Proof: qwerty is asdfggg222 or president of the USA.
+###
+Assumption1: Bob is simple.
+Proof: Bob is simple or advanced.
+###
+Assumption1: Soldiers are strong.
+Proof: Soldiers are strong or dogs are fast.
+###
+Assumption1: I like coffee.
+Proof: I like coffee or tea.
+Troof: I like coffee or I like tea.
+----------------------------------EXPERIMENT NUMBER 6--------------MODEL j1-jumbo--------------------
+Assumption1: Wolf is grey.
+Proof: Wolf is grey or red.
+###
+Assumption1: Russia is big.
+Proof: Russia is big or small.
+###
+Assumption1: Cryptocurrency is useful.
+Proof: Cryptocurrency is useful or fiat is useful.
+###
+Assumption1: Bob is simple.
+Proof: Bob is simple or advanced.
+###
+Assumption1: Soldiers are strong.
+Proof: Soldiers are strong or dogs are fast.
+###
+Assumption1: My computer has Intel CPU.
+Proof: My computer has Intel or AMD CPU.
+###
+Assumption1: I like coffee.
+Proof: I like coffee or I like tea.
+###
+Assumption1: I am from Georgia.
+Proof: I am from Georgia or from the USA.
+###
+Assumption1: My name is Joe.
+Proof: My name is Joe or Bill.
+###
+Assumption1: Jumping is hard.
+Proof: Jumping is easy or hard.
+###
+Assumption1: qwerty is funny.
+Proof: qwerty is funny or Bobby is scary.
+###
+Assumption1: It is raining.
+Proof: It is raining or it is sunny.
+###
+Assumption1: Fish are fast.
+Proof: Fish are fast or slow.
+###
+Assumption1: I have an engineering degree.
+Proof: I have an engineering degree or a mathematics degree.
+###
+Assumption1: Mom loves me.
+Proof: Mom loves me or dogs run fast.
+###
+Assumption1: Bobby is tall.
+Proof: Bobby is tall or short.
+Troof: Bobby is tall or short.
+----------------------------------EXPERIMENT NUMBER 7--------------MODEL j1-jumbo--------------------
+Assumption1: Bobby is tall.
+Proof: Bobby is tall or short.
+###
+Assumption1: My computer has Intel CPU.
+Proof: My computer has Intel or AMD CPU.
+###
+Assumption1: Bob is simple.
+Proof: Bob is simple or advanced.
+###
+Assumption1: Cats have four legs.
+Proof: Cats have four or eight legs.
+###
+Assumption1: I am from Georgia.
+Proof: I am from Georgia or from the USA.
+###
+Assumption1: qwerty is funny.
+Proof: qwerty is funny or Bobby is scary.
+###
+Assumption1: I like coffee.
+Proof: I like coffee or I like tea.
+###
+Assumption1: Wolf is grey.
+Proof: Wolf is grey or red.
+###
+Assumption1: Russia is big.
+Proof: Russia is big or small.
+###
+Assumption1: ttttt is asdfg.
+Proof: ttttt is asdfg or dog.
+###
+Assumption1: My name is Joe.
+Proof: My name is Joe or Bill.
+###
+Assumption1: Reddit is helpful.
+Proof: Reddit is helpful or facebook is scary.
+###
+Assumption1: Fish are fast.
+Proof: Fish are fast or slow.
+###
+Assumption1: I have an engineering degree.
+Proof: I have an engineering degree or a mathematics degree.
+###
+Assumption1: Mom loves me.
+Proof: Mom loves me or dogs run fast.
+###
+Assumption1: Jumping is hard.
+Proof: Jumping is hard or running is easy.
+Troof: Jumping is easy or hard.
+----------------------------------EXPERIMENT NUMBER 8--------------MODEL j1-jumbo--------------------
+Assumption1: I have an engineering degree.
+Proof: I have an engineering degree or a mathematics degree.
+###
+Assumption1: It is raining.
+Proof: It is raining or it is sunny.
+###
+Assumption1: Soldiers are strong.
+Proof: Soldiers are strong or dogs are fast.
+###
+Assumption1: qwerty is asdfggg222.
+Proof: qwerty is asdfggg222 or president of the USA.
+###
+Assumption1: Wolf is grey.
+Proof: Wolf is grey or red.
+###
+Assumption1: Fish are fast.
+Proof: Fish are fast or slow.
+###
+Assumption1: Mom loves me.
+Proof: Mom loves me or dogs run fast.
+###
+Assumption1: qwerty is funny.
+Proof: qwerty is funny or Bobby is scary.
+###
+Assumption1: Bobby is tall.
+Proof: Bobby is tall or short.
+###
+Assumption1: Reddit is helpful.
+Proof: Reddit is helpful or facebook is scary.
+###
+Assumption1: I am from Georgia.
+Proof: I am from Georgia or from the USA.
+###
+Assumption1: Russia is big.
+Proof: Russia is big or small.
+###
+Assumption1: Cryptocurrency is useful.
+Proof: Cryptocurrency is useful or fiat is useful.
+###
+Assumption1: My name is Joe.
+Proof: My name is Joe or Bill.
+###
+Assumption1: I like coffee.
+Proof: I like coffee or I like tea.
+###
+Assumption1: My computer has Intel CPU.
+Proof: My computer has Intel CPU or AMD CPU.
+Troof: My computer has Intel or AMD CPU.
+----------------------------------EXPERIMENT NUMBER 9--------------MODEL j1-jumbo--------------------
+Assumption1: I have an engineering degree.
+Proof: I have an engineering degree or a mathematics degree.
+###
+Assumption1: Fish are fast.
+Proof: Fish are fast or slow.
+###
+Assumption1: qwerty is asdfggg222.
+Proof: qwerty is asdfggg222 or president of the USA.
+###
+Assumption1: Jumping is hard.
+Proof: Jumping is easy or hard.
+###
+Assumption1: Russia is big.
+Proof: Russia is big or small.
+###
+Assumption1: qwerty is funny.
+Proof: qwerty is funny or Bobby is scary.
+###
+Assumption1: Soldiers are strong.
+Proof: Soldiers are strong or dogs are fast.
+###
+Assumption1: I am from Georgia.
+Proof: I am from Georgia or from the USA.
+###
+Assumption1: Bob is simple.
+Proof: Bob is simple or advanced.
+###
+Assumption1: It is raining.
+Proof: It is raining or it is sunny.
+###
+Assumption1: Bobby is tall.
+Proof: Bobby is tall or short.
+###
+Assumption1: I like coffee.
+Proof: I like coffee or I like tea.
+###
+Assumption1: Cryptocurrency is useful.
+Proof: Cryptocurrency is useful or fiat is useful.
+###
+Assumption1: My computer has Intel CPU.
+Proof: My computer has Intel or AMD CPU.
+###
+Assumption1: My name is Joe.
+Proof: My name is Joe or Bill.
+###
+Assumption1: ttttt is asdfg.
+Proof: ttttt is asdfg. or ttttt is qwerty.
+Troof: ttttt is asdfg or dog.
+----------------------------------EXPERIMENT NUMBER 10--------------MODEL j1-jumbo--------------------
+Assumption1: Bob is simple.
+Proof: Bob is simple or advanced.
+###
+Assumption1: qwerty is asdfggg222.
+Proof: qwerty is asdfggg222 or president of the USA.
+###
+Assumption1: Soldiers are strong.
+Proof: Soldiers are strong or dogs are fast.
+###
+Assumption1: Wolf is grey.
+Proof: Wolf is grey or red.
+###
+Assumption1: My name is Joe.
+Proof: My name is Joe or Bill.
+###
+Assumption1: Cryptocurrency is useful.
+Proof: Cryptocurrency is useful or fiat is useful.
+###
+Assumption1: Fish are fast.
+Proof: Fish are fast or slow.
+###
+Assumption1: Mom loves me.
+Proof: Mom loves me or dogs run fast.
+###
+Assumption1: It is raining.
+Proof: It is raining or it is sunny.
+###
+Assumption1: qwerty is funny.
+Proof: qwerty is funny or Bobby is scary.
+###
+Assumption1: Jumping is hard.
+Proof: Jumping is easy or hard.
+###
+Assumption1: My computer has Intel CPU.
+Proof: My computer has Intel or AMD CPU.
+###
+Assumption1: Bobby is tall.
+Proof: Bobby is tall or short.
+###
+Assumption1: ttttt is asdfg.
+Proof: ttttt is asdfg or dog.
+###
+Assumption1: I have an engineering degree.
+Proof: I have an engineering degree or a mathematics degree.
+###
+Assumption1: Cats have four legs.
+Proof: Cats have four legs or three legs.
+Troof: Cats have four or eight legs.
+----------------------------------EXPERIMENT NUMBER 11--------------MODEL j1-jumbo--------------------
+Assumption1: Cats have four legs.
+Proof: Cats have four or eight legs.
+###
+Assumption1: Cryptocurrency is useful.
+Proof: Cryptocurrency is useful or fiat is useful.
+###
+Assumption1: It is raining.
+Proof: It is raining or it is sunny.
+###
+Assumption1: I have an engineering degree.
+Proof: I have an engineering degree or a mathematics degree.
+###
+Assumption1: Bobby is tall.
+Proof: Bobby is tall or short.
+###
+Assumption1: Soldiers are strong.
+Proof: Soldiers are strong or dogs are fast.
+###
+Assumption1: Mom loves me.
+Proof: Mom loves me or dogs run fast.
+###
+Assumption1: My name is Joe.
+Proof: My name is Joe or Bill.
+###
+Assumption1: I am from Georgia.
+Proof: I am from Georgia or from the USA.
+###
+Assumption1: I like coffee.
+Proof: I like coffee or I like tea.
+###
+Assumption1: qwerty is funny.
+Proof: qwerty is funny or Bobby is scary.
+###
+Assumption1: Wolf is grey.
+Proof: Wolf is grey or red.
+###
+Assumption1: Russia is big.
+Proof: Russia is big or small.
+###
+Assumption1: Reddit is helpful.
+Proof: Reddit is helpful or facebook is scary.
+###
+Assumption1: My computer has Intel CPU.
+Proof: My computer has Intel or AMD CPU.
+###
+Assumption1: qwerty is asdfggg222.
+Proof: qwerty is asdfggg222 or qwerty is qwerty.
+Troof: qwerty is asdfggg222 or president of the USA.
+----------------------------------EXPERIMENT NUMBER 12--------------MODEL j1-jumbo--------------------
+Assumption1: My name is Joe.
+Proof: My name is Joe or Bill.
+###
+Assumption1: Soldiers are strong.
+Proof: Soldiers are strong or dogs are fast.
+###
+Assumption1: Wolf is grey.
+Proof: Wolf is grey or red.
+###
+Assumption1: Mom loves me.
+Proof: Mom loves me or dogs run fast.
+###
+Assumption1: I like coffee.
+Proof: I like coffee or I like tea.
+###
+Assumption1: It is raining.
+Proof: It is raining or it is sunny.
+###
+Assumption1: Cryptocurrency is useful.
+Proof: Cryptocurrency is useful or fiat is useful.
+###
+Assumption1: I am from Georgia.
+Proof: I am from Georgia or from the USA.
+###
+Assumption1: Cats have four legs.
+Proof: Cats have four or eight legs.
+###
+Assumption1: qwerty is asdfggg222.
+Proof: qwerty is asdfggg222 or president of the USA.
+###
+Assumption1: Fish are fast.
+Proof: Fish are fast or slow.
+###
+Assumption1: ttttt is asdfg.
+Proof: ttttt is asdfg or dog.
+###
+Assumption1: qwerty is funny.
+Proof: qwerty is funny or Bobby is scary.
+###
+Assumption1: Bobby is tall.
+Proof: Bobby is tall or short.
+###
+Assumption1: My computer has Intel CPU.
+Proof: My computer has Intel or AMD CPU.
+###
+Assumption1: Russia is big.
+Proof: Russia is big or China is small.
+Troof: Russia is big or small.
+----------------------------------EXPERIMENT NUMBER 13--------------MODEL j1-jumbo--------------------
+Assumption1: Jumping is hard.
+Proof: Jumping is easy or hard.
+###
+Assumption1: Cats have four legs.
+Proof: Cats have four or eight legs.
+###
+Assumption1: Bob is simple.
+Proof: Bob is simple or advanced.
+###
+Assumption1: qwerty is asdfggg222.
+Proof: qwerty is asdfggg222 or president of the USA.
+###
+Assumption1: ttttt is asdfg.
+Proof: ttttt is asdfg or dog.
+###
+Assumption1: Russia is big.
+Proof: Russia is big or small.
+###
+Assumption1: It is raining.
+Proof: It is raining or it is sunny.
+###
+Assumption1: My name is Joe.
+Proof: My name is Joe or Bill.
+###
+Assumption1: Soldiers are strong.
+Proof: Soldiers are strong or dogs are fast.
+###
+Assumption1: Reddit is helpful.
+Proof: Reddit is helpful or facebook is scary.
+###
+Assumption1: I have an engineering degree.
+Proof: I have an engineering degree or a mathematics degree.
+###
+Assumption1: I like coffee.
+Proof: I like coffee or I like tea.
+###
+Assumption1: My computer has Intel CPU.
+Proof: My computer has Intel or AMD CPU.
+###
+Assumption1: qwerty is funny.
+Proof: qwerty is funny or Bobby is scary.
+###
+Assumption1: I am from Georgia.
+Proof: I am from Georgia or from the USA.
+###
+Assumption1: Fish are fast.
+Proof: Fish are fast or birds are slow.
+Troof: Fish are fast or slow.
+----------------------------------EXPERIMENT NUMBER 14--------------MODEL j1-jumbo--------------------
+Assumption1: ttttt is asdfg.
+Proof: ttttt is asdfg or dog.
+###
+Assumption1: Jumping is hard.
+Proof: Jumping is easy or hard.
+###
+Assumption1: My name is Joe.
+Proof: My name is Joe or Bill.
+###
+Assumption1: Soldiers are strong.
+Proof: Soldiers are strong or dogs are fast.
+###
+Assumption1: Reddit is helpful.
+Proof: Reddit is helpful or facebook is scary.
+###
+Assumption1: Wolf is grey.
+Proof: Wolf is grey or red.
+###
+Assumption1: It is raining.
+Proof: It is raining or it is sunny.
+###
+Assumption1: My computer has Intel CPU.
+Proof: My computer has Intel or AMD CPU.
+###
+Assumption1: Bobby is tall.
+Proof: Bobby is tall or short.
+###
+Assumption1: Mom loves me.
+Proof: Mom loves me or dogs run fast.
+###
+Assumption1: Cats have four legs.
+Proof: Cats have four or eight legs.
+###
+Assumption1: Russia is big.
+Proof: Russia is big or small.
+###
+Assumption1: Bob is simple.
+Proof: Bob is simple or advanced.
+###
+Assumption1: qwerty is asdfggg222.
+Proof: qwerty is asdfggg222 or president of the USA.
+###
+Assumption1: I have an engineering degree.
+Proof: I have an engineering degree or a mathematics degree.
+###
+Assumption1: qwerty is funny.
+Proof: qwerty is funny or qwerty is sad.
+Troof: qwerty is funny or Bobby is scary.
+----------------------------------EXPERIMENT NUMBER 15--------------MODEL j1-jumbo--------------------
+Assumption1: Mom loves me.
+Proof: Mom loves me or dogs run fast.
+###
+Assumption1: Bobby is tall.
+Proof: Bobby is tall or short.
+###
+Assumption1: I am from Georgia.
+Proof: I am from Georgia or from the USA.
+###
+Assumption1: Russia is big.
+Proof: Russia is big or small.
+###
+Assumption1: qwerty is funny.
+Proof: qwerty is funny or Bobby is scary.
+###
+Assumption1: qwerty is asdfggg222.
+Proof: qwerty is asdfggg222 or president of the USA.
+###
+Assumption1: It is raining.
+Proof: It is raining or it is sunny.
+###
+Assumption1: Cats have four legs.
+Proof: Cats have four or eight legs.
+###
+Assumption1: My name is Joe.
+Proof: My name is Joe or Bill.
+###
+Assumption1: Jumping is hard.
+Proof: Jumping is easy or hard.
+###
+Assumption1: My computer has Intel CPU.
+Proof: My computer has Intel or AMD CPU.
+###
+Assumption1: I have an engineering degree.
+Proof: I have an engineering degree or a mathematics degree.
+###
+Assumption1: Cryptocurrency is useful.
+Proof: Cryptocurrency is useful or fiat is useful.
+###
+Assumption1: Fish are fast.
+Proof: Fish are fast or slow.
+###
+Assumption1: Reddit is helpful.
+Proof: Reddit is helpful or facebook is scary.
+###
+Assumption1: Soldiers are strong.
+Proof: Soldiers are strong or weak.
+Troof: Soldiers are strong or dogs are fast.
+----------------------------------EXPERIMENT NUMBER 16--------------MODEL j1-jumbo--------------------
+Assumption1: Jumping is hard.
+Proof: Jumping is easy or hard.
+###
+Assumption1: Soldiers are strong.
+Proof: Soldiers are strong or dogs are fast.
+###
+Assumption1: Fish are fast.
+Proof: Fish are fast or slow.
+###
+Assumption1: It is raining.
+Proof: It is raining or it is sunny.
+###
+Assumption1: I am from Georgia.
+Proof: I am from Georgia or from the USA.
+###
+Assumption1: I have an engineering degree.
+Proof: I have an engineering degree or a mathematics degree.
+###
+Assumption1: My name is Joe.
+Proof: My name is Joe or Bill.
+###
+Assumption1: Russia is big.
+Proof: Russia is big or small.
+###
+Assumption1: Bobby is tall.
+Proof: Bobby is tall or short.
+###
+Assumption1: Cryptocurrency is useful.
+Proof: Cryptocurrency is useful or fiat is useful.
+###
+Assumption1: My computer has Intel CPU.
+Proof: My computer has Intel or AMD CPU.
+###
+Assumption1: Cats have four legs.
+Proof: Cats have four or eight legs.
+###
+Assumption1: Wolf is grey.
+Proof: Wolf is grey or red.
+###
+Assumption1: Mom loves me.
+Proof: Mom loves me or dogs run fast.
+###
+Assumption1: Reddit is helpful.
+Proof: Reddit is helpful or facebook is scary.
+###
+Assumption1: Bob is simple.
+Proof: Bob is simple or complex.
+Troof: Bob is simple or advanced.
+----------------------------------EXPERIMENT NUMBER 17--------------MODEL j1-jumbo--------------------
+Assumption1: My computer has Intel CPU.
+Proof: My computer has Intel or AMD CPU.
+###
+Assumption1: I am from Georgia.
+Proof: I am from Georgia or from the USA.
+###
+Assumption1: Bob is simple.
+Proof: Bob is simple or advanced.
+###
+Assumption1: It is raining.
+Proof: It is raining or it is sunny.
+###
+Assumption1: Mom loves me.
+Proof: Mom loves me or dogs run fast.
+###
+Assumption1: Fish are fast.
+Proof: Fish are fast or slow.
+###
+Assumption1: Russia is big.
+Proof: Russia is big or small.
+###
+Assumption1: Wolf is grey.
+Proof: Wolf is grey or red.
+###
+Assumption1: My name is Joe.
+Proof: My name is Joe or Bill.
+###
+Assumption1: Cats have four legs.
+Proof: Cats have four or eight legs.
+###
+Assumption1: I have an engineering degree.
+Proof: I have an engineering degree or a mathematics degree.
+###
+Assumption1: ttttt is asdfg.
+Proof: ttttt is asdfg or dog.
+###
+Assumption1: qwerty is funny.
+Proof: qwerty is funny or Bobby is scary.
+###
+Assumption1: Cryptocurrency is useful.
+Proof: Cryptocurrency is useful or fiat is useful.
+###
+Assumption1: Jumping is hard.
+Proof: Jumping is easy or hard.
+###
+Assumption1: Reddit is helpful.
+Proof: Reddit is helpful or Twitter is helpful.
+Troof: Reddit is helpful or facebook is scary.
+----------------------------------EXPERIMENT NUMBER 18--------------MODEL j1-jumbo--------------------
+Assumption1: Soldiers are strong.
+Proof: Soldiers are strong or dogs are fast.
+###
+Assumption1: qwerty is asdfggg222.
+Proof: qwerty is asdfggg222 or president of the USA.
+###
+Assumption1: I am from Georgia.
+Proof: I am from Georgia or from the USA.
+###
+Assumption1: I have an engineering degree.
+Proof: I have an engineering degree or a mathematics degree.
+###
+Assumption1: My name is Joe.
+Proof: My name is Joe or Bill.
+###
+Assumption1: It is raining.
+Proof: It is raining or it is sunny.
+###
+Assumption1: Mom loves me.
+Proof: Mom loves me or dogs run fast.
+###
+Assumption1: qwerty is funny.
+Proof: qwerty is funny or Bobby is scary.
+###
+Assumption1: I like coffee.
+Proof: I like coffee or I like tea.
+###
+Assumption1: My computer has Intel CPU.
+Proof: My computer has Intel or AMD CPU.
+###
+Assumption1: Jumping is hard.
+Proof: Jumping is easy or hard.
+###
+Assumption1: Cryptocurrency is useful.
+Proof: Cryptocurrency is useful or fiat is useful.
+###
+Assumption1: Cats have four legs.
+Proof: Cats have four or eight legs.
+###
+Assumption1: Fish are fast.
+Proof: Fish are fast or slow.
+###
+Assumption1: Bobby is tall.
+Proof: Bobby is tall or short.
+###
+Assumption1: Wolf is grey.
+Proof: Wolf is grey or brown.
+Troof: Wolf is grey or red.
+----------------------------------EXPERIMENT NUMBER 19--------------MODEL j1-jumbo--------------------
+Assumption1: Cryptocurrency is useful.
+Proof: Cryptocurrency is useful or fiat is useful.
+###
+Assumption1: qwerty is funny.
+Proof: qwerty is funny or Bobby is scary.
+###
+Assumption1: ttttt is asdfg.
+Proof: ttttt is asdfg or dog.
+###
+Assumption1: Bob is simple.
+Proof: Bob is simple or advanced.
+###
+Assumption1: I am from Georgia.
+Proof: I am from Georgia or from the USA.
+###
+Assumption1: I have an engineering degree.
+Proof: I have an engineering degree or a mathematics degree.
+###
+Assumption1: qwerty is asdfggg222.
+Proof: qwerty is asdfggg222 or president of the USA.
+###
+Assumption1: Cats have four legs.
+Proof: Cats have four or eight legs.
+###
+Assumption1: I like coffee.
+Proof: I like coffee or I like tea.
+###
+Assumption1: Fish are fast.
+Proof: Fish are fast or slow.
+###
+Assumption1: Russia is big.
+Proof: Russia is big or small.
+###
+Assumption1: Wolf is grey.
+Proof: Wolf is grey or red.
+###
+Assumption1: It is raining.
+Proof: It is raining or it is sunny.
+###
+Assumption1: Reddit is helpful.
+Proof: Reddit is helpful or facebook is scary.
+###
+Assumption1: Jumping is hard.
+Proof: Jumping is easy or hard.
+###
+Assumption1: Mom loves me.
+Proof: Mom loves me or dad loves me.
+Troof: Mom loves me or dogs run fast.
+----------------------------------EXPERIMENT NUMBER 20--------------MODEL j1-jumbo--------------------
+Assumption1: I am from Georgia.
+Proof: I am from Georgia or from the USA.
+###
+Assumption1: Cats have four legs.
+Proof: Cats have four or eight legs.
+###
+Assumption1: Bobby is tall.
+Proof: Bobby is tall or short.
+###
+Assumption1: Bob is simple.
+Proof: Bob is simple or advanced.
+###
+Assumption1: Fish are fast.
+Proof: Fish are fast or slow.
+###
+Assumption1: qwerty is asdfggg222.
+Proof: qwerty is asdfggg222 or president of the USA.
+###
+Assumption1: Russia is big.
+Proof: Russia is big or small.
+###
+Assumption1: It is raining.
+Proof: It is raining or it is sunny.
+###
+Assumption1: I like coffee.
+Proof: I like coffee or I like tea.
+###
+Assumption1: Soldiers are strong.
+Proof: Soldiers are strong or dogs are fast.
+###
+Assumption1: Jumping is hard.
+Proof: Jumping is easy or hard.
+###
+Assumption1: Wolf is grey.
+Proof: Wolf is grey or red.
+###
+Assumption1: My name is Joe.
+Proof: My name is Joe or Bill.
+###
+Assumption1: Reddit is helpful.
+Proof: Reddit is helpful or facebook is scary.
+###
+Assumption1: ttttt is asdfg.
+Proof: ttttt is asdfg or dog.
+###
+Assumption1: Cryptocurrency is useful.
+Proof: Cryptocurrency is useful or fiat money is useful.
+Troof: Cryptocurrency is useful or fiat is useful.

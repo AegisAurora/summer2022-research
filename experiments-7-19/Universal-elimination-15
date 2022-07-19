@@ -1,0 +1,1300 @@
+----------------------------------EXPERIMENT NUMBER 1--------------MODEL j1-jumbo--------------------
+Assumption1: All programming languages are useful.
+Assumption2: Lisp is a programming language.
+Proof: Lisp is useful.
+###
+Assumption1: All the ttttts have asdfg.
+Assumption2: qwerty is a ttttt.
+Proof: qwerty has asdfg.
+###
+Assumption1: All the tests are easy.
+Assumption2: SAT is a test.
+Proof: SAT is easy.
+###
+Assumption1: Every US president is important.
+Assumption2: Nixon is a US president.
+Proof: Nixon is important.
+###
+Assumption1: All the Professors are smart.
+Assumption2: McCartin-Lim is a professor.
+Proof: McCartin-Lim is smart.
+###
+Assumption1: All countries have great culture.
+Assumption2: qwerty is a country.
+Proof: qwerty has great culture.
+###
+Assumption1: Every city has beautiful architecture.
+Assumption2: jhgfs is a city.
+Proof: jhgfs has beautiful architecture.
+###
+Assumption1: Every cryptocurrency is useful.
+Assumption2: Bitcoin is a cryptocurrency.
+Proof: Bitcoin is useful.
+###
+Assumption1: All animals are beautiful.
+Assumption2: Duncan the dog is an animal.
+Proof: Duncan the dog is beautiful.
+###
+Assumption1: All the machine learning models are sentient.
+Assumption2: Meta OPT is a machine learning model.
+Proof: Meta OPT is sentient.
+###
+Assumption1: All the actions have a pattern.
+Assumption2: Running is an action.
+Proof: Running has a pattern.
+###
+Assumption1: Computers with any CPU architecture are smart.
+Assumption2: ARM is a CPU architecture.
+Proof: ARM computers are smart.
+###
+Assumption1: All the cat breeds are pretty.
+Assumption2: hhhhhh is a cat breed.
+Proof: hhhhhh is pretty.
+###
+Assumption1: All phones have camera.
+Assumption2: Iphone is a phone.
+Proof: Iphone has camera.
+###
+Assumption1: All continents are huge.
+Assumption2: Europe is a continent.
+Proof: Europe is huge.
+###
+Assumption1: Joe hates all women.
+Assumption2: Joe's mother is a women.
+Proof: Joe hates Joe's mother.
+Troof: Joe hates his mother.
+----------------------------------EXPERIMENT NUMBER 2--------------MODEL j1-jumbo--------------------
+Assumption1: Every city has beautiful architecture.
+Assumption2: jhgfs is a city.
+Proof: jhgfs has beautiful architecture.
+###
+Assumption1: All the majors are hard.
+Assumption2: Computer Science is a major.
+Proof: Computer science is hard.
+###
+Assumption1: Every collage is a great place for education.
+Assumption2: Wabash is a college.
+Proof: Wabash is a great place for education.
+###
+Assumption1: All programming languages are useful.
+Assumption2: Lisp is a programming language.
+Proof: Lisp is useful.
+###
+Assumption1: Every US president is important.
+Assumption2: Nixon is a US president.
+Proof: Nixon is important.
+###
+Assumption1: Every person named Joe is important.
+Assumption2: Bobby is named Joe.
+Proof: Bobby is important.
+###
+Assumption1: Joe hates all women.
+Assumption2: Joe's mother is a women.
+Proof: Joe hates his mother.
+###
+Assumption1: All countries have great culture.
+Assumption2: qwerty is a country.
+Proof: qwerty has great culture.
+###
+Assumption1: All the ttttts have asdfg.
+Assumption2: qwerty is a ttttt.
+Proof: qwerty has asdfg.
+###
+Assumption1: All phones have camera.
+Assumption2: Iphone is a phone.
+Proof: Iphone has camera.
+###
+Assumption1: All the machine learning models are sentient.
+Assumption2: Meta OPT is a machine learning model.
+Proof: Meta OPT is sentient.
+###
+Assumption1: Computers with any CPU architecture are smart.
+Assumption2: ARM is a CPU architecture.
+Proof: ARM computers are smart.
+###
+Assumption1: All the tests are easy.
+Assumption2: SAT is a test.
+Proof: SAT is easy.
+###
+Assumption1: Every cryptocurrency is useful.
+Assumption2: Bitcoin is a cryptocurrency.
+Proof: Bitcoin is useful.
+###
+Assumption1: All the actions have a pattern.
+Assumption2: Running is an action.
+Proof: Running has a pattern.
+###
+Assumption1: All animals are beautiful.
+Assumption2: Duncan the dog is an animal.
+Proof: Duncan the dog is beautiful.
+Troof: Duncan the dog is beautiful.
+----------------------------------EXPERIMENT NUMBER 3--------------MODEL j1-jumbo--------------------
+Assumption1: Joe hates all women.
+Assumption2: Joe's mother is a women.
+Proof: Joe hates his mother.
+###
+Assumption1: Every person named Joe is important.
+Assumption2: Bobby is named Joe.
+Proof: Bobby is important.
+###
+Assumption1: All programming languages are useful.
+Assumption2: Lisp is a programming language.
+Proof: Lisp is useful.
+###
+Assumption1: All continents are huge.
+Assumption2: Europe is a continent.
+Proof: Europe is huge.
+###
+Assumption1: All the tests are easy.
+Assumption2: SAT is a test.
+Proof: SAT is easy.
+###
+Assumption1: All the cat breeds are pretty.
+Assumption2: hhhhhh is a cat breed.
+Proof: hhhhhh is pretty.
+###
+Assumption1: All the machine learning models are sentient.
+Assumption2: Meta OPT is a machine learning model.
+Proof: Meta OPT is sentient.
+###
+Assumption1: All the Professors are smart.
+Assumption2: McCartin-Lim is a professor.
+Proof: McCartin-Lim is smart.
+###
+Assumption1: All the majors are hard.
+Assumption2: Computer Science is a major.
+Proof: Computer science is hard.
+###
+Assumption1: All phones have camera.
+Assumption2: Iphone is a phone.
+Proof: Iphone has camera.
+###
+Assumption1: Every US president is important.
+Assumption2: Nixon is a US president.
+Proof: Nixon is important.
+###
+Assumption1: Every cryptocurrency is useful.
+Assumption2: Bitcoin is a cryptocurrency.
+Proof: Bitcoin is useful.
+###
+Assumption1: People from all the countries are unique.
+Assumption2: Dimitri is from the country Ukraine.
+Proof: Dimitri from Ukraine is unique.
+###
+Assumption1: Every collage is a great place for education.
+Assumption2: Wabash is a college.
+Proof: Wabash is a great place for education.
+###
+Assumption1: All animals are beautiful.
+Assumption2: Duncan the dog is an animal.
+Proof: Duncan the dog is beautiful.
+###
+Assumption1: Computers with any CPU architecture are smart.
+Assumption2: ARM is a CPU architecture.
+Proof: ARM is smart.
+Troof: ARM computers are smart.
+----------------------------------EXPERIMENT NUMBER 4--------------MODEL j1-jumbo--------------------
+Assumption1: Joe hates all women.
+Assumption2: Joe's mother is a women.
+Proof: Joe hates his mother.
+###
+Assumption1: Every US president is important.
+Assumption2: Nixon is a US president.
+Proof: Nixon is important.
+###
+Assumption1: All the Professors are smart.
+Assumption2: McCartin-Lim is a professor.
+Proof: McCartin-Lim is smart.
+###
+Assumption1: All the majors are hard.
+Assumption2: Computer Science is a major.
+Proof: Computer science is hard.
+###
+Assumption1: All animals are beautiful.
+Assumption2: Duncan the dog is an animal.
+Proof: Duncan the dog is beautiful.
+###
+Assumption1: Every collage is a great place for education.
+Assumption2: Wabash is a college.
+Proof: Wabash is a great place for education.
+###
+Assumption1: All phones have camera.
+Assumption2: Iphone is a phone.
+Proof: Iphone has camera.
+###
+Assumption1: Computers with any CPU architecture are smart.
+Assumption2: ARM is a CPU architecture.
+Proof: ARM computers are smart.
+###
+Assumption1: All continents are huge.
+Assumption2: Europe is a continent.
+Proof: Europe is huge.
+###
+Assumption1: All the tests are easy.
+Assumption2: SAT is a test.
+Proof: SAT is easy.
+###
+Assumption1: All the ttttts have asdfg.
+Assumption2: qwerty is a ttttt.
+Proof: qwerty has asdfg.
+###
+Assumption1: All the machine learning models are sentient.
+Assumption2: Meta OPT is a machine learning model.
+Proof: Meta OPT is sentient.
+###
+Assumption1: All the cat breeds are pretty.
+Assumption2: hhhhhh is a cat breed.
+Proof: hhhhhh is pretty.
+###
+Assumption1: Every cryptocurrency is useful.
+Assumption2: Bitcoin is a cryptocurrency.
+Proof: Bitcoin is useful.
+###
+Assumption1: Every person named Joe is important.
+Assumption2: Bobby is named Joe.
+Proof: Bobby is important.
+###
+Assumption1: People from all the countries are unique.
+Assumption2: Dimitri is from the country Ukraine.
+Proof: Dimitri is unique.
+Troof: Dimitri from Ukraine is unique.
+----------------------------------EXPERIMENT NUMBER 5--------------MODEL j1-jumbo--------------------
+Assumption1: Every collage is a great place for education.
+Assumption2: Wabash is a college.
+Proof: Wabash is a great place for education.
+###
+Assumption1: All countries have great culture.
+Assumption2: qwerty is a country.
+Proof: qwerty has great culture.
+###
+Assumption1: Joe hates all women.
+Assumption2: Joe's mother is a women.
+Proof: Joe hates his mother.
+###
+Assumption1: Every person named Joe is important.
+Assumption2: Bobby is named Joe.
+Proof: Bobby is important.
+###
+Assumption1: All animals are beautiful.
+Assumption2: Duncan the dog is an animal.
+Proof: Duncan the dog is beautiful.
+###
+Assumption1: People from all the countries are unique.
+Assumption2: Dimitri is from the country Ukraine.
+Proof: Dimitri from Ukraine is unique.
+###
+Assumption1: Every city has beautiful architecture.
+Assumption2: jhgfs is a city.
+Proof: jhgfs has beautiful architecture.
+###
+Assumption1: All the Professors are smart.
+Assumption2: McCartin-Lim is a professor.
+Proof: McCartin-Lim is smart.
+###
+Assumption1: All the ttttts have asdfg.
+Assumption2: qwerty is a ttttt.
+Proof: qwerty has asdfg.
+###
+Assumption1: All the tests are easy.
+Assumption2: SAT is a test.
+Proof: SAT is easy.
+###
+Assumption1: All programming languages are useful.
+Assumption2: Lisp is a programming language.
+Proof: Lisp is useful.
+###
+Assumption1: Every cryptocurrency is useful.
+Assumption2: Bitcoin is a cryptocurrency.
+Proof: Bitcoin is useful.
+###
+Assumption1: Every US president is important.
+Assumption2: Nixon is a US president.
+Proof: Nixon is important.
+###
+Assumption1: All the majors are hard.
+Assumption2: Computer Science is a major.
+Proof: Computer science is hard.
+###
+Assumption1: All the cat breeds are pretty.
+Assumption2: hhhhhh is a cat breed.
+Proof: hhhhhh is pretty.
+###
+Assumption1: All continents are huge.
+Assumption2: Europe is a continent.
+Proof: Europe is huge.
+Troof: Europe is huge.
+----------------------------------EXPERIMENT NUMBER 6--------------MODEL j1-jumbo--------------------
+Assumption1: People from all the countries are unique.
+Assumption2: Dimitri is from the country Ukraine.
+Proof: Dimitri from Ukraine is unique.
+###
+Assumption1: Every cryptocurrency is useful.
+Assumption2: Bitcoin is a cryptocurrency.
+Proof: Bitcoin is useful.
+###
+Assumption1: All the ttttts have asdfg.
+Assumption2: qwerty is a ttttt.
+Proof: qwerty has asdfg.
+###
+Assumption1: Computers with any CPU architecture are smart.
+Assumption2: ARM is a CPU architecture.
+Proof: ARM computers are smart.
+###
+Assumption1: All phones have camera.
+Assumption2: Iphone is a phone.
+Proof: Iphone has camera.
+###
+Assumption1: All the Professors are smart.
+Assumption2: McCartin-Lim is a professor.
+Proof: McCartin-Lim is smart.
+###
+Assumption1: All animals are beautiful.
+Assumption2: Duncan the dog is an animal.
+Proof: Duncan the dog is beautiful.
+###
+Assumption1: All continents are huge.
+Assumption2: Europe is a continent.
+Proof: Europe is huge.
+###
+Assumption1: Every person named Joe is important.
+Assumption2: Bobby is named Joe.
+Proof: Bobby is important.
+###
+Assumption1: All the actions have a pattern.
+Assumption2: Running is an action.
+Proof: Running has a pattern.
+###
+Assumption1: Every collage is a great place for education.
+Assumption2: Wabash is a college.
+Proof: Wabash is a great place for education.
+###
+Assumption1: Joe hates all women.
+Assumption2: Joe's mother is a women.
+Proof: Joe hates his mother.
+###
+Assumption1: All countries have great culture.
+Assumption2: qwerty is a country.
+Proof: qwerty has great culture.
+###
+Assumption1: Every city has beautiful architecture.
+Assumption2: jhgfs is a city.
+Proof: jhgfs has beautiful architecture.
+###
+Assumption1: All the tests are easy.
+Assumption2: SAT is a test.
+Proof: SAT is easy.
+###
+Assumption1: Every US president is important.
+Assumption2: Nixon is a US president.
+Proof: Nixon is important.
+Troof: Nixon is important.
+----------------------------------EXPERIMENT NUMBER 7--------------MODEL j1-jumbo--------------------
+Assumption1: All the Professors are smart.
+Assumption2: McCartin-Lim is a professor.
+Proof: McCartin-Lim is smart.
+###
+Assumption1: All programming languages are useful.
+Assumption2: Lisp is a programming language.
+Proof: Lisp is useful.
+###
+Assumption1: Computers with any CPU architecture are smart.
+Assumption2: ARM is a CPU architecture.
+Proof: ARM computers are smart.
+###
+Assumption1: All the machine learning models are sentient.
+Assumption2: Meta OPT is a machine learning model.
+Proof: Meta OPT is sentient.
+###
+Assumption1: All the tests are easy.
+Assumption2: SAT is a test.
+Proof: SAT is easy.
+###
+Assumption1: Joe hates all women.
+Assumption2: Joe's mother is a women.
+Proof: Joe hates his mother.
+###
+Assumption1: Every cryptocurrency is useful.
+Assumption2: Bitcoin is a cryptocurrency.
+Proof: Bitcoin is useful.
+###
+Assumption1: All the ttttts have asdfg.
+Assumption2: qwerty is a ttttt.
+Proof: qwerty has asdfg.
+###
+Assumption1: Every US president is important.
+Assumption2: Nixon is a US president.
+Proof: Nixon is important.
+###
+Assumption1: All the cat breeds are pretty.
+Assumption2: hhhhhh is a cat breed.
+Proof: hhhhhh is pretty.
+###
+Assumption1: All the actions have a pattern.
+Assumption2: Running is an action.
+Proof: Running has a pattern.
+###
+Assumption1: All animals are beautiful.
+Assumption2: Duncan the dog is an animal.
+Proof: Duncan the dog is beautiful.
+###
+Assumption1: Every person named Joe is important.
+Assumption2: Bobby is named Joe.
+Proof: Bobby is important.
+###
+Assumption1: People from all the countries are unique.
+Assumption2: Dimitri is from the country Ukraine.
+Proof: Dimitri from Ukraine is unique.
+###
+Assumption1: All phones have camera.
+Assumption2: Iphone is a phone.
+Proof: Iphone has camera.
+###
+Assumption1: All the majors are hard.
+Assumption2: Computer Science is a major.
+Proof: Computer Science is hard.
+Troof: Computer science is hard.
+----------------------------------EXPERIMENT NUMBER 8--------------MODEL j1-jumbo--------------------
+Assumption1: Every US president is important.
+Assumption2: Nixon is a US president.
+Proof: Nixon is important.
+###
+Assumption1: Every city has beautiful architecture.
+Assumption2: jhgfs is a city.
+Proof: jhgfs has beautiful architecture.
+###
+Assumption1: All animals are beautiful.
+Assumption2: Duncan the dog is an animal.
+Proof: Duncan the dog is beautiful.
+###
+Assumption1: Joe hates all women.
+Assumption2: Joe's mother is a women.
+Proof: Joe hates his mother.
+###
+Assumption1: All continents are huge.
+Assumption2: Europe is a continent.
+Proof: Europe is huge.
+###
+Assumption1: All the majors are hard.
+Assumption2: Computer Science is a major.
+Proof: Computer science is hard.
+###
+Assumption1: All the machine learning models are sentient.
+Assumption2: Meta OPT is a machine learning model.
+Proof: Meta OPT is sentient.
+###
+Assumption1: All the actions have a pattern.
+Assumption2: Running is an action.
+Proof: Running has a pattern.
+###
+Assumption1: People from all the countries are unique.
+Assumption2: Dimitri is from the country Ukraine.
+Proof: Dimitri from Ukraine is unique.
+###
+Assumption1: All the cat breeds are pretty.
+Assumption2: hhhhhh is a cat breed.
+Proof: hhhhhh is pretty.
+###
+Assumption1: All programming languages are useful.
+Assumption2: Lisp is a programming language.
+Proof: Lisp is useful.
+###
+Assumption1: All the Professors are smart.
+Assumption2: McCartin-Lim is a professor.
+Proof: McCartin-Lim is smart.
+###
+Assumption1: Every collage is a great place for education.
+Assumption2: Wabash is a college.
+Proof: Wabash is a great place for education.
+###
+Assumption1: Computers with any CPU architecture are smart.
+Assumption2: ARM is a CPU architecture.
+Proof: ARM computers are smart.
+###
+Assumption1: Every person named Joe is important.
+Assumption2: Bobby is named Joe.
+Proof: Bobby is important.
+###
+Assumption1: All the tests are easy.
+Assumption2: SAT is a test.
+Proof: SAT is easy.
+Troof: SAT is easy.
+----------------------------------EXPERIMENT NUMBER 9--------------MODEL j1-jumbo--------------------
+Assumption1: Computers with any CPU architecture are smart.
+Assumption2: ARM is a CPU architecture.
+Proof: ARM computers are smart.
+###
+Assumption1: All programming languages are useful.
+Assumption2: Lisp is a programming language.
+Proof: Lisp is useful.
+###
+Assumption1: All the ttttts have asdfg.
+Assumption2: qwerty is a ttttt.
+Proof: qwerty has asdfg.
+###
+Assumption1: All phones have camera.
+Assumption2: Iphone is a phone.
+Proof: Iphone has camera.
+###
+Assumption1: People from all the countries are unique.
+Assumption2: Dimitri is from the country Ukraine.
+Proof: Dimitri from Ukraine is unique.
+###
+Assumption1: All continents are huge.
+Assumption2: Europe is a continent.
+Proof: Europe is huge.
+###
+Assumption1: Every collage is a great place for education.
+Assumption2: Wabash is a college.
+Proof: Wabash is a great place for education.
+###
+Assumption1: All the machine learning models are sentient.
+Assumption2: Meta OPT is a machine learning model.
+Proof: Meta OPT is sentient.
+###
+Assumption1: All the majors are hard.
+Assumption2: Computer Science is a major.
+Proof: Computer science is hard.
+###
+Assumption1: Every city has beautiful architecture.
+Assumption2: jhgfs is a city.
+Proof: jhgfs has beautiful architecture.
+###
+Assumption1: Every person named Joe is important.
+Assumption2: Bobby is named Joe.
+Proof: Bobby is important.
+###
+Assumption1: All the Professors are smart.
+Assumption2: McCartin-Lim is a professor.
+Proof: McCartin-Lim is smart.
+###
+Assumption1: All animals are beautiful.
+Assumption2: Duncan the dog is an animal.
+Proof: Duncan the dog is beautiful.
+###
+Assumption1: All the tests are easy.
+Assumption2: SAT is a test.
+Proof: SAT is easy.
+###
+Assumption1: Every cryptocurrency is useful.
+Assumption2: Bitcoin is a cryptocurrency.
+Proof: Bitcoin is useful.
+###
+Assumption1: All the actions have a pattern.
+Assumption2: Running is an action.
+Proof: Running has a pattern.
+Troof: Running has a pattern.
+----------------------------------EXPERIMENT NUMBER 10--------------MODEL j1-jumbo--------------------
+Assumption1: All the cat breeds are pretty.
+Assumption2: hhhhhh is a cat breed.
+Proof: hhhhhh is pretty.
+###
+Assumption1: Every person named Joe is important.
+Assumption2: Bobby is named Joe.
+Proof: Bobby is important.
+###
+Assumption1: Every US president is important.
+Assumption2: Nixon is a US president.
+Proof: Nixon is important.
+###
+Assumption1: All continents are huge.
+Assumption2: Europe is a continent.
+Proof: Europe is huge.
+###
+Assumption1: All the majors are hard.
+Assumption2: Computer Science is a major.
+Proof: Computer science is hard.
+###
+Assumption1: All the machine learning models are sentient.
+Assumption2: Meta OPT is a machine learning model.
+Proof: Meta OPT is sentient.
+###
+Assumption1: Every city has beautiful architecture.
+Assumption2: jhgfs is a city.
+Proof: jhgfs has beautiful architecture.
+###
+Assumption1: All animals are beautiful.
+Assumption2: Duncan the dog is an animal.
+Proof: Duncan the dog is beautiful.
+###
+Assumption1: Every collage is a great place for education.
+Assumption2: Wabash is a college.
+Proof: Wabash is a great place for education.
+###
+Assumption1: Computers with any CPU architecture are smart.
+Assumption2: ARM is a CPU architecture.
+Proof: ARM computers are smart.
+###
+Assumption1: All the tests are easy.
+Assumption2: SAT is a test.
+Proof: SAT is easy.
+###
+Assumption1: All the Professors are smart.
+Assumption2: McCartin-Lim is a professor.
+Proof: McCartin-Lim is smart.
+###
+Assumption1: All phones have camera.
+Assumption2: Iphone is a phone.
+Proof: Iphone has camera.
+###
+Assumption1: All countries have great culture.
+Assumption2: qwerty is a country.
+Proof: qwerty has great culture.
+###
+Assumption1: All programming languages are useful.
+Assumption2: Lisp is a programming language.
+Proof: Lisp is useful.
+###
+Assumption1: All the ttttts have asdfg.
+Assumption2: qwerty is a ttttt.
+Proof: qwerty has asdf.
+Troof: qwerty has asdfg.
+----------------------------------EXPERIMENT NUMBER 11--------------MODEL j1-jumbo--------------------
+Assumption1: All animals are beautiful.
+Assumption2: Duncan the dog is an animal.
+Proof: Duncan the dog is beautiful.
+###
+Assumption1: Every cryptocurrency is useful.
+Assumption2: Bitcoin is a cryptocurrency.
+Proof: Bitcoin is useful.
+###
+Assumption1: Computers with any CPU architecture are smart.
+Assumption2: ARM is a CPU architecture.
+Proof: ARM computers are smart.
+###
+Assumption1: Every US president is important.
+Assumption2: Nixon is a US president.
+Proof: Nixon is important.
+###
+Assumption1: All the Professors are smart.
+Assumption2: McCartin-Lim is a professor.
+Proof: McCartin-Lim is smart.
+###
+Assumption1: All the actions have a pattern.
+Assumption2: Running is an action.
+Proof: Running has a pattern.
+###
+Assumption1: Every collage is a great place for education.
+Assumption2: Wabash is a college.
+Proof: Wabash is a great place for education.
+###
+Assumption1: Every person named Joe is important.
+Assumption2: Bobby is named Joe.
+Proof: Bobby is important.
+###
+Assumption1: Joe hates all women.
+Assumption2: Joe's mother is a women.
+Proof: Joe hates his mother.
+###
+Assumption1: All the machine learning models are sentient.
+Assumption2: Meta OPT is a machine learning model.
+Proof: Meta OPT is sentient.
+###
+Assumption1: Every city has beautiful architecture.
+Assumption2: jhgfs is a city.
+Proof: jhgfs has beautiful architecture.
+###
+Assumption1: All programming languages are useful.
+Assumption2: Lisp is a programming language.
+Proof: Lisp is useful.
+###
+Assumption1: All continents are huge.
+Assumption2: Europe is a continent.
+Proof: Europe is huge.
+###
+Assumption1: All countries have great culture.
+Assumption2: qwerty is a country.
+Proof: qwerty has great culture.
+###
+Assumption1: All the ttttts have asdfg.
+Assumption2: qwerty is a ttttt.
+Proof: qwerty has asdfg.
+###
+Assumption1: All phones have camera.
+Assumption2: Iphone is a phone.
+Proof: Iphone has a camera.
+Troof: Iphone has camera.
+----------------------------------EXPERIMENT NUMBER 12--------------MODEL j1-jumbo--------------------
+Assumption1: All the tests are easy.
+Assumption2: SAT is a test.
+Proof: SAT is easy.
+###
+Assumption1: All the cat breeds are pretty.
+Assumption2: hhhhhh is a cat breed.
+Proof: hhhhhh is pretty.
+###
+Assumption1: All countries have great culture.
+Assumption2: qwerty is a country.
+Proof: qwerty has great culture.
+###
+Assumption1: Every US president is important.
+Assumption2: Nixon is a US president.
+Proof: Nixon is important.
+###
+Assumption1: Computers with any CPU architecture are smart.
+Assumption2: ARM is a CPU architecture.
+Proof: ARM computers are smart.
+###
+Assumption1: Every city has beautiful architecture.
+Assumption2: jhgfs is a city.
+Proof: jhgfs has beautiful architecture.
+###
+Assumption1: All continents are huge.
+Assumption2: Europe is a continent.
+Proof: Europe is huge.
+###
+Assumption1: All the machine learning models are sentient.
+Assumption2: Meta OPT is a machine learning model.
+Proof: Meta OPT is sentient.
+###
+Assumption1: All animals are beautiful.
+Assumption2: Duncan the dog is an animal.
+Proof: Duncan the dog is beautiful.
+###
+Assumption1: Every cryptocurrency is useful.
+Assumption2: Bitcoin is a cryptocurrency.
+Proof: Bitcoin is useful.
+###
+Assumption1: All programming languages are useful.
+Assumption2: Lisp is a programming language.
+Proof: Lisp is useful.
+###
+Assumption1: Joe hates all women.
+Assumption2: Joe's mother is a women.
+Proof: Joe hates his mother.
+###
+Assumption1: All the ttttts have asdfg.
+Assumption2: qwerty is a ttttt.
+Proof: qwerty has asdfg.
+###
+Assumption1: All phones have camera.
+Assumption2: Iphone is a phone.
+Proof: Iphone has camera.
+###
+Assumption1: People from all the countries are unique.
+Assumption2: Dimitri is from the country Ukraine.
+Proof: Dimitri from Ukraine is unique.
+###
+Assumption1: All the Professors are smart.
+Assumption2: McCartin-Lim is a professor.
+Proof: McCartin-Lim is smart.
+Troof: McCartin-Lim is smart.
+----------------------------------EXPERIMENT NUMBER 13--------------MODEL j1-jumbo--------------------
+Assumption1: All the machine learning models are sentient.
+Assumption2: Meta OPT is a machine learning model.
+Proof: Meta OPT is sentient.
+###
+Assumption1: All programming languages are useful.
+Assumption2: Lisp is a programming language.
+Proof: Lisp is useful.
+###
+Assumption1: All the ttttts have asdfg.
+Assumption2: qwerty is a ttttt.
+Proof: qwerty has asdfg.
+###
+Assumption1: All the cat breeds are pretty.
+Assumption2: hhhhhh is a cat breed.
+Proof: hhhhhh is pretty.
+###
+Assumption1: All the actions have a pattern.
+Assumption2: Running is an action.
+Proof: Running has a pattern.
+###
+Assumption1: All the majors are hard.
+Assumption2: Computer Science is a major.
+Proof: Computer science is hard.
+###
+Assumption1: All the Professors are smart.
+Assumption2: McCartin-Lim is a professor.
+Proof: McCartin-Lim is smart.
+###
+Assumption1: All the tests are easy.
+Assumption2: SAT is a test.
+Proof: SAT is easy.
+###
+Assumption1: Every US president is important.
+Assumption2: Nixon is a US president.
+Proof: Nixon is important.
+###
+Assumption1: Every city has beautiful architecture.
+Assumption2: jhgfs is a city.
+Proof: jhgfs has beautiful architecture.
+###
+Assumption1: All countries have great culture.
+Assumption2: qwerty is a country.
+Proof: qwerty has great culture.
+###
+Assumption1: People from all the countries are unique.
+Assumption2: Dimitri is from the country Ukraine.
+Proof: Dimitri from Ukraine is unique.
+###
+Assumption1: Every cryptocurrency is useful.
+Assumption2: Bitcoin is a cryptocurrency.
+Proof: Bitcoin is useful.
+###
+Assumption1: Joe hates all women.
+Assumption2: Joe's mother is a women.
+Proof: Joe hates his mother.
+###
+Assumption1: Computers with any CPU architecture are smart.
+Assumption2: ARM is a CPU architecture.
+Proof: ARM computers are smart.
+###
+Assumption1: Every collage is a great place for education.
+Assumption2: Wabash is a college.
+Proof: Wabash is a great place for education.
+Troof: Wabash is a great place for education.
+----------------------------------EXPERIMENT NUMBER 14--------------MODEL j1-jumbo--------------------
+Assumption1: All the Professors are smart.
+Assumption2: McCartin-Lim is a professor.
+Proof: McCartin-Lim is smart.
+###
+Assumption1: All continents are huge.
+Assumption2: Europe is a continent.
+Proof: Europe is huge.
+###
+Assumption1: All the actions have a pattern.
+Assumption2: Running is an action.
+Proof: Running has a pattern.
+###
+Assumption1: Every cryptocurrency is useful.
+Assumption2: Bitcoin is a cryptocurrency.
+Proof: Bitcoin is useful.
+###
+Assumption1: All the majors are hard.
+Assumption2: Computer Science is a major.
+Proof: Computer science is hard.
+###
+Assumption1: Computers with any CPU architecture are smart.
+Assumption2: ARM is a CPU architecture.
+Proof: ARM computers are smart.
+###
+Assumption1: All the ttttts have asdfg.
+Assumption2: qwerty is a ttttt.
+Proof: qwerty has asdfg.
+###
+Assumption1: Every city has beautiful architecture.
+Assumption2: jhgfs is a city.
+Proof: jhgfs has beautiful architecture.
+###
+Assumption1: All the tests are easy.
+Assumption2: SAT is a test.
+Proof: SAT is easy.
+###
+Assumption1: All the machine learning models are sentient.
+Assumption2: Meta OPT is a machine learning model.
+Proof: Meta OPT is sentient.
+###
+Assumption1: Every person named Joe is important.
+Assumption2: Bobby is named Joe.
+Proof: Bobby is important.
+###
+Assumption1: All the cat breeds are pretty.
+Assumption2: hhhhhh is a cat breed.
+Proof: hhhhhh is pretty.
+###
+Assumption1: Joe hates all women.
+Assumption2: Joe's mother is a women.
+Proof: Joe hates his mother.
+###
+Assumption1: Every collage is a great place for education.
+Assumption2: Wabash is a college.
+Proof: Wabash is a great place for education.
+###
+Assumption1: All countries have great culture.
+Assumption2: qwerty is a country.
+Proof: qwerty has great culture.
+###
+Assumption1: All programming languages are useful.
+Assumption2: Lisp is a programming language.
+Proof: Lisp is useful.
+Troof: Lisp is useful.
+----------------------------------EXPERIMENT NUMBER 15--------------MODEL j1-jumbo--------------------
+Assumption1: All the ttttts have asdfg.
+Assumption2: qwerty is a ttttt.
+Proof: qwerty has asdfg.
+###
+Assumption1: Every US president is important.
+Assumption2: Nixon is a US president.
+Proof: Nixon is important.
+###
+Assumption1: People from all the countries are unique.
+Assumption2: Dimitri is from the country Ukraine.
+Proof: Dimitri from Ukraine is unique.
+###
+Assumption1: All the actions have a pattern.
+Assumption2: Running is an action.
+Proof: Running has a pattern.
+###
+Assumption1: Every city has beautiful architecture.
+Assumption2: jhgfs is a city.
+Proof: jhgfs has beautiful architecture.
+###
+Assumption1: All phones have camera.
+Assumption2: Iphone is a phone.
+Proof: Iphone has camera.
+###
+Assumption1: All continents are huge.
+Assumption2: Europe is a continent.
+Proof: Europe is huge.
+###
+Assumption1: All the tests are easy.
+Assumption2: SAT is a test.
+Proof: SAT is easy.
+###
+Assumption1: All the Professors are smart.
+Assumption2: McCartin-Lim is a professor.
+Proof: McCartin-Lim is smart.
+###
+Assumption1: Computers with any CPU architecture are smart.
+Assumption2: ARM is a CPU architecture.
+Proof: ARM computers are smart.
+###
+Assumption1: All the majors are hard.
+Assumption2: Computer Science is a major.
+Proof: Computer science is hard.
+###
+Assumption1: All the machine learning models are sentient.
+Assumption2: Meta OPT is a machine learning model.
+Proof: Meta OPT is sentient.
+###
+Assumption1: Every collage is a great place for education.
+Assumption2: Wabash is a college.
+Proof: Wabash is a great place for education.
+###
+Assumption1: All the cat breeds are pretty.
+Assumption2: hhhhhh is a cat breed.
+Proof: hhhhhh is pretty.
+###
+Assumption1: All programming languages are useful.
+Assumption2: Lisp is a programming language.
+Proof: Lisp is useful.
+###
+Assumption1: All countries have great culture.
+Assumption2: qwerty is a country.
+Proof: qwerty has great culture.
+Troof: qwerty has great culture.
+----------------------------------EXPERIMENT NUMBER 16--------------MODEL j1-jumbo--------------------
+Assumption1: All the ttttts have asdfg.
+Assumption2: qwerty is a ttttt.
+Proof: qwerty has asdfg.
+###
+Assumption1: All programming languages are useful.
+Assumption2: Lisp is a programming language.
+Proof: Lisp is useful.
+###
+Assumption1: All the tests are easy.
+Assumption2: SAT is a test.
+Proof: SAT is easy.
+###
+Assumption1: Every collage is a great place for education.
+Assumption2: Wabash is a college.
+Proof: Wabash is a great place for education.
+###
+Assumption1: All continents are huge.
+Assumption2: Europe is a continent.
+Proof: Europe is huge.
+###
+Assumption1: All animals are beautiful.
+Assumption2: Duncan the dog is an animal.
+Proof: Duncan the dog is beautiful.
+###
+Assumption1: Every person named Joe is important.
+Assumption2: Bobby is named Joe.
+Proof: Bobby is important.
+###
+Assumption1: All phones have camera.
+Assumption2: Iphone is a phone.
+Proof: Iphone has camera.
+###
+Assumption1: All the majors are hard.
+Assumption2: Computer Science is a major.
+Proof: Computer science is hard.
+###
+Assumption1: All countries have great culture.
+Assumption2: qwerty is a country.
+Proof: qwerty has great culture.
+###
+Assumption1: Computers with any CPU architecture are smart.
+Assumption2: ARM is a CPU architecture.
+Proof: ARM computers are smart.
+###
+Assumption1: Every city has beautiful architecture.
+Assumption2: jhgfs is a city.
+Proof: jhgfs has beautiful architecture.
+###
+Assumption1: Joe hates all women.
+Assumption2: Joe's mother is a women.
+Proof: Joe hates his mother.
+###
+Assumption1: Every cryptocurrency is useful.
+Assumption2: Bitcoin is a cryptocurrency.
+Proof: Bitcoin is useful.
+###
+Assumption1: All the Professors are smart.
+Assumption2: McCartin-Lim is a professor.
+Proof: McCartin-Lim is smart.
+###
+Assumption1: All the cat breeds are pretty.
+Assumption2: hhhhhh is a cat breed.
+Proof: hhhhhh is pretty.
+Troof: hhhhhh is pretty.
+----------------------------------EXPERIMENT NUMBER 17--------------MODEL j1-jumbo--------------------
+Assumption1: Every collage is a great place for education.
+Assumption2: Wabash is a college.
+Proof: Wabash is a great place for education.
+###
+Assumption1: All the ttttts have asdfg.
+Assumption2: qwerty is a ttttt.
+Proof: qwerty has asdfg.
+###
+Assumption1: All the machine learning models are sentient.
+Assumption2: Meta OPT is a machine learning model.
+Proof: Meta OPT is sentient.
+###
+Assumption1: All countries have great culture.
+Assumption2: qwerty is a country.
+Proof: qwerty has great culture.
+###
+Assumption1: All the Professors are smart.
+Assumption2: McCartin-Lim is a professor.
+Proof: McCartin-Lim is smart.
+###
+Assumption1: All the tests are easy.
+Assumption2: SAT is a test.
+Proof: SAT is easy.
+###
+Assumption1: Every US president is important.
+Assumption2: Nixon is a US president.
+Proof: Nixon is important.
+###
+Assumption1: Joe hates all women.
+Assumption2: Joe's mother is a women.
+Proof: Joe hates his mother.
+###
+Assumption1: All animals are beautiful.
+Assumption2: Duncan the dog is an animal.
+Proof: Duncan the dog is beautiful.
+###
+Assumption1: All continents are huge.
+Assumption2: Europe is a continent.
+Proof: Europe is huge.
+###
+Assumption1: All the actions have a pattern.
+Assumption2: Running is an action.
+Proof: Running has a pattern.
+###
+Assumption1: Every person named Joe is important.
+Assumption2: Bobby is named Joe.
+Proof: Bobby is important.
+###
+Assumption1: All the cat breeds are pretty.
+Assumption2: hhhhhh is a cat breed.
+Proof: hhhhhh is pretty.
+###
+Assumption1: All the majors are hard.
+Assumption2: Computer Science is a major.
+Proof: Computer science is hard.
+###
+Assumption1: All phones have camera.
+Assumption2: Iphone is a phone.
+Proof: Iphone has camera.
+###
+Assumption1: Every city has beautiful architecture.
+Assumption2: jhgfs is a city.
+Proof: jhgfs has beautiful architecture.
+Troof: jhgfs has beautiful architecture.
+----------------------------------EXPERIMENT NUMBER 18--------------MODEL j1-jumbo--------------------
+Assumption1: All the ttttts have asdfg.
+Assumption2: qwerty is a ttttt.
+Proof: qwerty has asdfg.
+###
+Assumption1: All countries have great culture.
+Assumption2: qwerty is a country.
+Proof: qwerty has great culture.
+###
+Assumption1: All the tests are easy.
+Assumption2: SAT is a test.
+Proof: SAT is easy.
+###
+Assumption1: Computers with any CPU architecture are smart.
+Assumption2: ARM is a CPU architecture.
+Proof: ARM computers are smart.
+###
+Assumption1: Every collage is a great place for education.
+Assumption2: Wabash is a college.
+Proof: Wabash is a great place for education.
+###
+Assumption1: Every city has beautiful architecture.
+Assumption2: jhgfs is a city.
+Proof: jhgfs has beautiful architecture.
+###
+Assumption1: All the majors are hard.
+Assumption2: Computer Science is a major.
+Proof: Computer science is hard.
+###
+Assumption1: All animals are beautiful.
+Assumption2: Duncan the dog is an animal.
+Proof: Duncan the dog is beautiful.
+###
+Assumption1: People from all the countries are unique.
+Assumption2: Dimitri is from the country Ukraine.
+Proof: Dimitri from Ukraine is unique.
+###
+Assumption1: All the cat breeds are pretty.
+Assumption2: hhhhhh is a cat breed.
+Proof: hhhhhh is pretty.
+###
+Assumption1: Every cryptocurrency is useful.
+Assumption2: Bitcoin is a cryptocurrency.
+Proof: Bitcoin is useful.
+###
+Assumption1: All programming languages are useful.
+Assumption2: Lisp is a programming language.
+Proof: Lisp is useful.
+###
+Assumption1: All continents are huge.
+Assumption2: Europe is a continent.
+Proof: Europe is huge.
+###
+Assumption1: Joe hates all women.
+Assumption2: Joe's mother is a women.
+Proof: Joe hates his mother.
+###
+Assumption1: All phones have camera.
+Assumption2: Iphone is a phone.
+Proof: Iphone has camera.
+###
+Assumption1: Every person named Joe is important.
+Assumption2: Bobby is named Joe.
+Proof: Bobby is important.
+Troof: Bobby is important.
+----------------------------------EXPERIMENT NUMBER 19--------------MODEL j1-jumbo--------------------
+Assumption1: All continents are huge.
+Assumption2: Europe is a continent.
+Proof: Europe is huge.
+###
+Assumption1: Every person named Joe is important.
+Assumption2: Bobby is named Joe.
+Proof: Bobby is important.
+###
+Assumption1: Every city has beautiful architecture.
+Assumption2: jhgfs is a city.
+Proof: jhgfs has beautiful architecture.
+###
+Assumption1: Every collage is a great place for education.
+Assumption2: Wabash is a college.
+Proof: Wabash is a great place for education.
+###
+Assumption1: All animals are beautiful.
+Assumption2: Duncan the dog is an animal.
+Proof: Duncan the dog is beautiful.
+###
+Assumption1: All phones have camera.
+Assumption2: Iphone is a phone.
+Proof: Iphone has camera.
+###
+Assumption1: All the majors are hard.
+Assumption2: Computer Science is a major.
+Proof: Computer science is hard.
+###
+Assumption1: Every US president is important.
+Assumption2: Nixon is a US president.
+Proof: Nixon is important.
+###
+Assumption1: All countries have great culture.
+Assumption2: qwerty is a country.
+Proof: qwerty has great culture.
+###
+Assumption1: All the cat breeds are pretty.
+Assumption2: hhhhhh is a cat breed.
+Proof: hhhhhh is pretty.
+###
+Assumption1: All the tests are easy.
+Assumption2: SAT is a test.
+Proof: SAT is easy.
+###
+Assumption1: All the actions have a pattern.
+Assumption2: Running is an action.
+Proof: Running has a pattern.
+###
+Assumption1: All programming languages are useful.
+Assumption2: Lisp is a programming language.
+Proof: Lisp is useful.
+###
+Assumption1: All the ttttts have asdfg.
+Assumption2: qwerty is a ttttt.
+Proof: qwerty has asdfg.
+###
+Assumption1: All the Professors are smart.
+Assumption2: McCartin-Lim is a professor.
+Proof: McCartin-Lim is smart.
+###
+Assumption1: Every cryptocurrency is useful.
+Assumption2: Bitcoin is a cryptocurrency.
+Proof: Bitcoin is useful.
+Troof: Bitcoin is useful.
+----------------------------------EXPERIMENT NUMBER 20--------------MODEL j1-jumbo--------------------
+Assumption1: All countries have great culture.
+Assumption2: qwerty is a country.
+Proof: qwerty has great culture.
+###
+Assumption1: Every city has beautiful architecture.
+Assumption2: jhgfs is a city.
+Proof: jhgfs has beautiful architecture.
+###
+Assumption1: All continents are huge.
+Assumption2: Europe is a continent.
+Proof: Europe is huge.
+###
+Assumption1: Every US president is important.
+Assumption2: Nixon is a US president.
+Proof: Nixon is important.
+###
+Assumption1: All the actions have a pattern.
+Assumption2: Running is an action.
+Proof: Running has a pattern.
+###
+Assumption1: All the tests are easy.
+Assumption2: SAT is a test.
+Proof: SAT is easy.
+###
+Assumption1: Computers with any CPU architecture are smart.
+Assumption2: ARM is a CPU architecture.
+Proof: ARM computers are smart.
+###
+Assumption1: All the cat breeds are pretty.
+Assumption2: hhhhhh is a cat breed.
+Proof: hhhhhh is pretty.
+###
+Assumption1: All the ttttts have asdfg.
+Assumption2: qwerty is a ttttt.
+Proof: qwerty has asdfg.
+###
+Assumption1: All programming languages are useful.
+Assumption2: Lisp is a programming language.
+Proof: Lisp is useful.
+###
+Assumption1: All the Professors are smart.
+Assumption2: McCartin-Lim is a professor.
+Proof: McCartin-Lim is smart.
+###
+Assumption1: Every collage is a great place for education.
+Assumption2: Wabash is a college.
+Proof: Wabash is a great place for education.
+###
+Assumption1: People from all the countries are unique.
+Assumption2: Dimitri is from the country Ukraine.
+Proof: Dimitri from Ukraine is unique.
+###
+Assumption1: Joe hates all women.
+Assumption2: Joe's mother is a women.
+Proof: Joe hates his mother.
+###
+Assumption1: Every person named Joe is important.
+Assumption2: Bobby is named Joe.
+Proof: Bobby is important.
+###
+Assumption1: All the machine learning models are sentient.
+Assumption2: Meta OPT is a machine learning model.
+Proof: Meta OPT is sentient.
+Troof: Meta OPT is sentient.

@@ -1,0 +1,3150 @@
+----------------------------------EXPERIMENT NUMBER 1--------------MODEL j1-jumbo--------------------
+Assumption1: If it is raining, the grass is wet.
+Assumption2: If the grass is wet, insects are happy.
+Proof: If it is raining the insects are happy.
+###
+Assumption1: Illegal things are against the law.
+Assumption2: If it is against the law, then it is bad.
+Proof: Illegal things are bad.
+###
+Assumption1: Bobby is happy if and only if he ate ice cream.
+Assumption2: Bobby eating ice cream implies him doing homework.
+Proof: If bobby is happy, he is doing his homework.
+###
+Assumption1: It rains if and only if it is cloudy.
+Assumption2: Bob is happy if and only if it rains.
+Proof: Bob is happy if it is cloudy.
+###
+Assumption1: Cloudiness is caused by rain.
+Assumption2: Joe's sadness is caused by cloudiness.
+Proof: If it rains, Joe is sad.
+###
+Assumption1: If computer has a good CPU, then it is smart.
+Assumption2: If something is smart, then it can perform addition.
+Proof: If computer has a good CPU, then it can perform addition.
+###
+Assumption1: Being an athlete gives you an ability to run fast.
+Assumption2: If you run fast you are fit.
+Proof: If you are an athlete, you are fit.
+###
+Assumption1: It is ttttt if and only if qwertyu.
+Assumption2: qwertyu if and only if asddfg.
+Proof: ttttt implies asddfg.
+###
+Assumption1: High IQ implies cleverness.
+Assumption2: Cleverness implies sadness.
+Proof: High IQ implies sadness.
+###
+Assumption1: Cryptocurrency mining is implied by high energy costs.
+Assumption2: High profits are implied by cryptocurrency mining.
+Proof: High profits are implied by high energy costs.
+###
+Assumption1: If I do not wake up, then I cannot go to work.
+Assumption2: If I cannot go to work, then I will not get paid.
+Proof: If I do not wake up, then I will not get paid.
+###
+Assumption1: X implies Y.
+Assumption2: Z is implied by Y.
+Proof: If X, then Z
+###
+Assumption1: Strength implies power.
+Assumption2: Power if and only if speed.
+Proof: If strength, then speed.
+###
+Assumption1: I am from USA if and only if I know the anthem.
+Assumption2: Loving McDonalds is caused by knowing the anthem of the USA.
+Proof: If I am from the USA, I love McDonalds.
+###
+Assumption1: asdf implies qwerty.
+Assumption2: qwerty implies high salaries.
+Proof: asdf implies high salaries.
+###
+Assumption1: High IQ is implied by big brain.
+Assumption2: If you have a high IQ, then you have a high salary.
+Proof: If you have a big brain, you have a high salary.
+###
+Assumption1: Being a ttttt means you own a ghjkl.
+Assumption2: If you own a ghjkl you automatically have a ttyyyy.
+Proof: If you are a ttttt you have a ttyyyy.
+###
+Assumption1: qwertyu is caused by ttttt.
+Assumption2: asdfg is caused by qwertyu.
+Proof: asdfg is caused by ttttt.
+###
+Assumption1: If someone is from Mars, then he is foreign.
+Assumption2: If someone is foreign, then he is scary.
+Proof: If someone is from Mars, then he is scary.
+###
+Assumption1: Having a job means you work a lot.
+Assumption2: If you have a job, you make money.
+Proof: If you work a lot you make money.
+###
+Assumption1: Rain causes clouds.
+Assumption2: Dollar rises in value if it is cloudy.
+Proof: Rain causes Dollar to rise.
+###
+Assumption1: CEOs have a big salary.
+Assumption2: People with big salaries are happy.
+Proof: CEOs are happy.
+###
+Assumption1: It is cloudy if it rains.
+Assumption2: There is no sun if it is cloudy.
+Proof: If it rains, then it is cloudy.
+###
+Assumption1: Having Iphone implies having Icloud account.
+Assumption2: If you have an Icloud account, Fed steals all your data.
+Proof: Having Iphone implies Fed stealing all your data.
+###
+Assumption1: qwertyu if it is sunny.
+Assumption2: tttttt if it is qwertyu.
+Proof: If it is sunny, tttttt.
+###
+Assumption1: If Joe has a degree, he went to school.
+Assumption2: If someone went to school, they studied a lot.
+Proof: If Joe has a degree, he studied a lot.
+Troof: If Joe has a degree, he studied a lot.
+----------------------------------EXPERIMENT NUMBER 2--------------MODEL j1-jumbo--------------------
+Assumption1: It is cloudy if it rains.
+Assumption2: There is no sun if it is cloudy.
+Proof: If it rains, then it is cloudy.
+###
+Assumption1: I am from USA if and only if I know the anthem.
+Assumption2: Loving McDonalds is caused by knowing the anthem of the USA.
+Proof: If I am from the USA, I love McDonalds.
+###
+Assumption1: If I do not wake up, then I cannot go to work.
+Assumption2: If I cannot go to work, then I will not get paid.
+Proof: If I do not wake up, then I will not get paid.
+###
+Assumption1: If computer has a good CPU, then it is smart.
+Assumption2: If something is smart, then it can perform addition.
+Proof: If computer has a good CPU, then it can perform addition.
+###
+Assumption1: Having Iphone implies having Icloud account.
+Assumption2: If you have an Icloud account, Fed steals all your data.
+Proof: Having Iphone implies Fed stealing all your data.
+###
+Assumption1: Mining cryptocurrency if and only if you want to get rich.
+Assumption2: If you mine cryptocurrency, then you are anonymous.
+Proof: If you wany to get rich, then you are anonymous.
+###
+Assumption1: asdf implies qwerty.
+Assumption2: qwerty implies high salaries.
+Proof: asdf implies high salaries.
+###
+Assumption1: Illegal things are against the law.
+Assumption2: If it is against the law, then it is bad.
+Proof: Illegal things are bad.
+###
+Assumption1: X implies Y.
+Assumption2: Z is implied by Y.
+Proof: If X, then Z
+###
+Assumption1: Cloudiness is caused by rain.
+Assumption2: Joe's sadness is caused by cloudiness.
+Proof: If it rains, Joe is sad.
+###
+Assumption1: Rain causes clouds.
+Assumption2: Dollar rises in value if it is cloudy.
+Proof: Rain causes Dollar to rise.
+###
+Assumption1: High IQ implies cleverness.
+Assumption2: Cleverness implies sadness.
+Proof: High IQ implies sadness.
+###
+Assumption1: Being a ttttt means you own a ghjkl.
+Assumption2: If you own a ghjkl you automatically have a ttyyyy.
+Proof: If you are a ttttt you have a ttyyyy.
+###
+Assumption1: If Dima drinks coffee he feels satisfied.
+Assumption2: Being satisfied produces dopamine in the brain.
+Proof: If Dima drinks coffee his brain produces dopamine.
+###
+Assumption1: If Joe has a degree, he went to school.
+Assumption2: If someone went to school, they studied a lot.
+Proof: If Joe has a degree, he studied a lot.
+###
+Assumption1: High IQ is implied by big brain.
+Assumption2: If you have a high IQ, then you have a high salary.
+Proof: If you have a big brain, you have a high salary.
+###
+Assumption1: CEOs have a big salary.
+Assumption2: People with big salaries are happy.
+Proof: CEOs are happy.
+###
+Assumption1: Cryptocurrency mining is implied by high energy costs.
+Assumption2: High profits are implied by cryptocurrency mining.
+Proof: High profits are implied by high energy costs.
+###
+Assumption1: Strength implies power.
+Assumption2: Power if and only if speed.
+Proof: If strength, then speed.
+###
+Assumption1: Happy family is implied by happy marriage.
+Assumption2: If you have a happy family, then you have a lot of children.
+Proof: If you have a happy marriage, you have a lot of children.
+###
+Assumption1: Power is implied by connections.
+Assumption2: asdfg is implied by power.
+Proof: asdfg is implied by connections.
+###
+Assumption1: Bobby is happy if and only if he ate ice cream.
+Assumption2: Bobby eating ice cream implies him doing homework.
+Proof: If bobby is happy, he is doing his homework.
+###
+Assumption1: It is ttttt if and only if qwertyu.
+Assumption2: qwertyu if and only if asddfg.
+Proof: ttttt implies asddfg.
+###
+Assumption1: qwertyu is caused by ttttt.
+Assumption2: asdfg is caused by qwertyu.
+Proof: asdfg is caused by ttttt.
+###
+Assumption1: qwertyu if it is sunny.
+Assumption2: tttttt if it is qwertyu.
+Proof: If it is sunny, tttttt.
+###
+Assumption1: If it is raining, the grass is wet.
+Assumption2: If the grass is wet, insects are happy.
+Proof: If it is raining, insects are happy.
+Troof: If it is raining the insects are happy.
+----------------------------------EXPERIMENT NUMBER 3--------------MODEL j1-jumbo--------------------
+Assumption1: If computer has a good CPU, then it is smart.
+Assumption2: If something is smart, then it can perform addition.
+Proof: If computer has a good CPU, then it can perform addition.
+###
+Assumption1: Mining cryptocurrency if and only if you want to get rich.
+Assumption2: If you mine cryptocurrency, then you are anonymous.
+Proof: If you wany to get rich, then you are anonymous.
+###
+Assumption1: If it is raining, the grass is wet.
+Assumption2: If the grass is wet, insects are happy.
+Proof: If it is raining the insects are happy.
+###
+Assumption1: Happy family is implied by happy marriage.
+Assumption2: If you have a happy family, then you have a lot of children.
+Proof: If you have a happy marriage, you have a lot of children.
+###
+Assumption1: Being an athlete gives you an ability to run fast.
+Assumption2: If you run fast you are fit.
+Proof: If you are an athlete, you are fit.
+###
+Assumption1: qwertyu if it is sunny.
+Assumption2: tttttt if it is qwertyu.
+Proof: If it is sunny, tttttt.
+###
+Assumption1: Cloudiness is caused by rain.
+Assumption2: Joe's sadness is caused by cloudiness.
+Proof: If it rains, Joe is sad.
+###
+Assumption1: Bobby is happy if and only if he ate ice cream.
+Assumption2: Bobby eating ice cream implies him doing homework.
+Proof: If bobby is happy, he is doing his homework.
+###
+Assumption1: If Joe has a degree, he went to school.
+Assumption2: If someone went to school, they studied a lot.
+Proof: If Joe has a degree, he studied a lot.
+###
+Assumption1: If I do not wake up, then I cannot go to work.
+Assumption2: If I cannot go to work, then I will not get paid.
+Proof: If I do not wake up, then I will not get paid.
+###
+Assumption1: Cryptocurrency mining is implied by high energy costs.
+Assumption2: High profits are implied by cryptocurrency mining.
+Proof: High profits are implied by high energy costs.
+###
+Assumption1: High IQ implies cleverness.
+Assumption2: Cleverness implies sadness.
+Proof: High IQ implies sadness.
+###
+Assumption1: Power is implied by connections.
+Assumption2: asdfg is implied by power.
+Proof: asdfg is implied by connections.
+###
+Assumption1: High IQ is implied by big brain.
+Assumption2: If you have a high IQ, then you have a high salary.
+Proof: If you have a big brain, you have a high salary.
+###
+Assumption1: CEOs have a big salary.
+Assumption2: People with big salaries are happy.
+Proof: CEOs are happy.
+###
+Assumption1: Illegal things are against the law.
+Assumption2: If it is against the law, then it is bad.
+Proof: Illegal things are bad.
+###
+Assumption1: Rain causes clouds.
+Assumption2: Dollar rises in value if it is cloudy.
+Proof: Rain causes Dollar to rise.
+###
+Assumption1: qwertyu is caused by ttttt.
+Assumption2: asdfg is caused by qwertyu.
+Proof: asdfg is caused by ttttt.
+###
+Assumption1: I am from USA if and only if I know the anthem.
+Assumption2: Loving McDonalds is caused by knowing the anthem of the USA.
+Proof: If I am from the USA, I love McDonalds.
+###
+Assumption1: Being a ttttt means you own a ghjkl.
+Assumption2: If you own a ghjkl you automatically have a ttyyyy.
+Proof: If you are a ttttt you have a ttyyyy.
+###
+Assumption1: It rains if and only if it is cloudy.
+Assumption2: Bob is happy if and only if it rains.
+Proof: Bob is happy if it is cloudy.
+###
+Assumption1: If Dima drinks coffee he feels satisfied.
+Assumption2: Being satisfied produces dopamine in the brain.
+Proof: If Dima drinks coffee his brain produces dopamine.
+###
+Assumption1: X implies Y.
+Assumption2: Z is implied by Y.
+Proof: If X, then Z
+###
+Assumption1: Having Iphone implies having Icloud account.
+Assumption2: If you have an Icloud account, Fed steals all your data.
+Proof: Having Iphone implies Fed stealing all your data.
+###
+Assumption1: It is ttttt if and only if qwertyu.
+Assumption2: qwertyu if and only if asddfg.
+Proof: ttttt implies asddfg.
+###
+Assumption1: Having a job means you work a lot.
+Assumption2: If you have a job, you make money.
+Proof: If you have a job, you make money.
+Troof: If you work a lot you make money.
+----------------------------------EXPERIMENT NUMBER 4--------------MODEL j1-jumbo--------------------
+Assumption1: High IQ is implied by big brain.
+Assumption2: If you have a high IQ, then you have a high salary.
+Proof: If you have a big brain, you have a high salary.
+###
+Assumption1: Rain causes clouds.
+Assumption2: Dollar rises in value if it is cloudy.
+Proof: Rain causes Dollar to rise.
+###
+Assumption1: It is ttttt if and only if qwertyu.
+Assumption2: qwertyu if and only if asddfg.
+Proof: ttttt implies asddfg.
+###
+Assumption1: Having Iphone implies having Icloud account.
+Assumption2: If you have an Icloud account, Fed steals all your data.
+Proof: Having Iphone implies Fed stealing all your data.
+###
+Assumption1: If it is raining, the grass is wet.
+Assumption2: If the grass is wet, insects are happy.
+Proof: If it is raining the insects are happy.
+###
+Assumption1: qwertyu if it is sunny.
+Assumption2: tttttt if it is qwertyu.
+Proof: If it is sunny, tttttt.
+###
+Assumption1: CEOs have a big salary.
+Assumption2: People with big salaries are happy.
+Proof: CEOs are happy.
+###
+Assumption1: qwertyu is caused by ttttt.
+Assumption2: asdfg is caused by qwertyu.
+Proof: asdfg is caused by ttttt.
+###
+Assumption1: Being a ttttt means you own a ghjkl.
+Assumption2: If you own a ghjkl you automatically have a ttyyyy.
+Proof: If you are a ttttt you have a ttyyyy.
+###
+Assumption1: Cryptocurrency mining is implied by high energy costs.
+Assumption2: High profits are implied by cryptocurrency mining.
+Proof: High profits are implied by high energy costs.
+###
+Assumption1: X implies Y.
+Assumption2: Z is implied by Y.
+Proof: If X, then Z
+###
+Assumption1: Having a job means you work a lot.
+Assumption2: If you have a job, you make money.
+Proof: If you work a lot you make money.
+###
+Assumption1: If computer has a good CPU, then it is smart.
+Assumption2: If something is smart, then it can perform addition.
+Proof: If computer has a good CPU, then it can perform addition.
+###
+Assumption1: Happy family is implied by happy marriage.
+Assumption2: If you have a happy family, then you have a lot of children.
+Proof: If you have a happy marriage, you have a lot of children.
+###
+Assumption1: It is cloudy if it rains.
+Assumption2: There is no sun if it is cloudy.
+Proof: If it rains, then it is cloudy.
+###
+Assumption1: If I do not wake up, then I cannot go to work.
+Assumption2: If I cannot go to work, then I will not get paid.
+Proof: If I do not wake up, then I will not get paid.
+###
+Assumption1: Cloudiness is caused by rain.
+Assumption2: Joe's sadness is caused by cloudiness.
+Proof: If it rains, Joe is sad.
+###
+Assumption1: Power is implied by connections.
+Assumption2: asdfg is implied by power.
+Proof: asdfg is implied by connections.
+###
+Assumption1: I am from USA if and only if I know the anthem.
+Assumption2: Loving McDonalds is caused by knowing the anthem of the USA.
+Proof: If I am from the USA, I love McDonalds.
+###
+Assumption1: Mining cryptocurrency if and only if you want to get rich.
+Assumption2: If you mine cryptocurrency, then you are anonymous.
+Proof: If you wany to get rich, then you are anonymous.
+###
+Assumption1: If Dima drinks coffee he feels satisfied.
+Assumption2: Being satisfied produces dopamine in the brain.
+Proof: If Dima drinks coffee his brain produces dopamine.
+###
+Assumption1: Strength implies power.
+Assumption2: Power if and only if speed.
+Proof: If strength, then speed.
+###
+Assumption1: If Joe has a degree, he went to school.
+Assumption2: If someone went to school, they studied a lot.
+Proof: If Joe has a degree, he studied a lot.
+###
+Assumption1: If someone is from Mars, then he is foreign.
+Assumption2: If someone is foreign, then he is scary.
+Proof: If someone is from Mars, then he is scary.
+###
+Assumption1: It rains if and only if it is cloudy.
+Assumption2: Bob is happy if and only if it rains.
+Proof: Bob is happy if it is cloudy.
+###
+Assumption1: Being an athlete gives you an ability to run fast.
+Assumption2: If you run fast you are fit.
+Proof: If you are fit, you are an athlete.
+Troof: If you are an athlete, you are fit.
+----------------------------------EXPERIMENT NUMBER 5--------------MODEL j1-jumbo--------------------
+Assumption1: Power is implied by connections.
+Assumption2: asdfg is implied by power.
+Proof: asdfg is implied by connections.
+###
+Assumption1: asdf implies qwerty.
+Assumption2: qwerty implies high salaries.
+Proof: asdf implies high salaries.
+###
+Assumption1: Rain causes clouds.
+Assumption2: Dollar rises in value if it is cloudy.
+Proof: Rain causes Dollar to rise.
+###
+Assumption1: I am from USA if and only if I know the anthem.
+Assumption2: Loving McDonalds is caused by knowing the anthem of the USA.
+Proof: If I am from the USA, I love McDonalds.
+###
+Assumption1: Mining cryptocurrency if and only if you want to get rich.
+Assumption2: If you mine cryptocurrency, then you are anonymous.
+Proof: If you wany to get rich, then you are anonymous.
+###
+Assumption1: Happy family is implied by happy marriage.
+Assumption2: If you have a happy family, then you have a lot of children.
+Proof: If you have a happy marriage, you have a lot of children.
+###
+Assumption1: High IQ is implied by big brain.
+Assumption2: If you have a high IQ, then you have a high salary.
+Proof: If you have a big brain, you have a high salary.
+###
+Assumption1: If someone is from Mars, then he is foreign.
+Assumption2: If someone is foreign, then he is scary.
+Proof: If someone is from Mars, then he is scary.
+###
+Assumption1: If it is raining, the grass is wet.
+Assumption2: If the grass is wet, insects are happy.
+Proof: If it is raining the insects are happy.
+###
+Assumption1: qwertyu is caused by ttttt.
+Assumption2: asdfg is caused by qwertyu.
+Proof: asdfg is caused by ttttt.
+###
+Assumption1: If I do not wake up, then I cannot go to work.
+Assumption2: If I cannot go to work, then I will not get paid.
+Proof: If I do not wake up, then I will not get paid.
+###
+Assumption1: Being an athlete gives you an ability to run fast.
+Assumption2: If you run fast you are fit.
+Proof: If you are an athlete, you are fit.
+###
+Assumption1: Having a job means you work a lot.
+Assumption2: If you have a job, you make money.
+Proof: If you work a lot you make money.
+###
+Assumption1: Cryptocurrency mining is implied by high energy costs.
+Assumption2: High profits are implied by cryptocurrency mining.
+Proof: High profits are implied by high energy costs.
+###
+Assumption1: If Joe has a degree, he went to school.
+Assumption2: If someone went to school, they studied a lot.
+Proof: If Joe has a degree, he studied a lot.
+###
+Assumption1: Illegal things are against the law.
+Assumption2: If it is against the law, then it is bad.
+Proof: Illegal things are bad.
+###
+Assumption1: It is ttttt if and only if qwertyu.
+Assumption2: qwertyu if and only if asddfg.
+Proof: ttttt implies asddfg.
+###
+Assumption1: Being a ttttt means you own a ghjkl.
+Assumption2: If you own a ghjkl you automatically have a ttyyyy.
+Proof: If you are a ttttt you have a ttyyyy.
+###
+Assumption1: If computer has a good CPU, then it is smart.
+Assumption2: If something is smart, then it can perform addition.
+Proof: If computer has a good CPU, then it can perform addition.
+###
+Assumption1: Strength implies power.
+Assumption2: Power if and only if speed.
+Proof: If strength, then speed.
+###
+Assumption1: High IQ implies cleverness.
+Assumption2: Cleverness implies sadness.
+Proof: High IQ implies sadness.
+###
+Assumption1: X implies Y.
+Assumption2: Z is implied by Y.
+Proof: If X, then Z
+###
+Assumption1: It rains if and only if it is cloudy.
+Assumption2: Bob is happy if and only if it rains.
+Proof: Bob is happy if it is cloudy.
+###
+Assumption1: Bobby is happy if and only if he ate ice cream.
+Assumption2: Bobby eating ice cream implies him doing homework.
+Proof: If bobby is happy, he is doing his homework.
+###
+Assumption1: qwertyu if it is sunny.
+Assumption2: tttttt if it is qwertyu.
+Proof: If it is sunny, tttttt.
+###
+Assumption1: CEOs have a big salary.
+Assumption2: People with big salaries are happy.
+Proof: CEOs are happy.
+Troof: CEOs are happy.
+----------------------------------EXPERIMENT NUMBER 6--------------MODEL j1-jumbo--------------------
+Assumption1: Mining cryptocurrency if and only if you want to get rich.
+Assumption2: If you mine cryptocurrency, then you are anonymous.
+Proof: If you wany to get rich, then you are anonymous.
+###
+Assumption1: Cryptocurrency mining is implied by high energy costs.
+Assumption2: High profits are implied by cryptocurrency mining.
+Proof: High profits are implied by high energy costs.
+###
+Assumption1: qwertyu if it is sunny.
+Assumption2: tttttt if it is qwertyu.
+Proof: If it is sunny, tttttt.
+###
+Assumption1: High IQ implies cleverness.
+Assumption2: Cleverness implies sadness.
+Proof: High IQ implies sadness.
+###
+Assumption1: If computer has a good CPU, then it is smart.
+Assumption2: If something is smart, then it can perform addition.
+Proof: If computer has a good CPU, then it can perform addition.
+###
+Assumption1: High IQ is implied by big brain.
+Assumption2: If you have a high IQ, then you have a high salary.
+Proof: If you have a big brain, you have a high salary.
+###
+Assumption1: Bobby is happy if and only if he ate ice cream.
+Assumption2: Bobby eating ice cream implies him doing homework.
+Proof: If bobby is happy, he is doing his homework.
+###
+Assumption1: If Joe has a degree, he went to school.
+Assumption2: If someone went to school, they studied a lot.
+Proof: If Joe has a degree, he studied a lot.
+###
+Assumption1: If it is raining, the grass is wet.
+Assumption2: If the grass is wet, insects are happy.
+Proof: If it is raining the insects are happy.
+###
+Assumption1: Rain causes clouds.
+Assumption2: Dollar rises in value if it is cloudy.
+Proof: Rain causes Dollar to rise.
+###
+Assumption1: X implies Y.
+Assumption2: Z is implied by Y.
+Proof: If X, then Z
+###
+Assumption1: Cloudiness is caused by rain.
+Assumption2: Joe's sadness is caused by cloudiness.
+Proof: If it rains, Joe is sad.
+###
+Assumption1: Power is implied by connections.
+Assumption2: asdfg is implied by power.
+Proof: asdfg is implied by connections.
+###
+Assumption1: Illegal things are against the law.
+Assumption2: If it is against the law, then it is bad.
+Proof: Illegal things are bad.
+###
+Assumption1: I am from USA if and only if I know the anthem.
+Assumption2: Loving McDonalds is caused by knowing the anthem of the USA.
+Proof: If I am from the USA, I love McDonalds.
+###
+Assumption1: Happy family is implied by happy marriage.
+Assumption2: If you have a happy family, then you have a lot of children.
+Proof: If you have a happy marriage, you have a lot of children.
+###
+Assumption1: If someone is from Mars, then he is foreign.
+Assumption2: If someone is foreign, then he is scary.
+Proof: If someone is from Mars, then he is scary.
+###
+Assumption1: If I do not wake up, then I cannot go to work.
+Assumption2: If I cannot go to work, then I will not get paid.
+Proof: If I do not wake up, then I will not get paid.
+###
+Assumption1: Having Iphone implies having Icloud account.
+Assumption2: If you have an Icloud account, Fed steals all your data.
+Proof: Having Iphone implies Fed stealing all your data.
+###
+Assumption1: qwertyu is caused by ttttt.
+Assumption2: asdfg is caused by qwertyu.
+Proof: asdfg is caused by ttttt.
+###
+Assumption1: Having a job means you work a lot.
+Assumption2: If you have a job, you make money.
+Proof: If you work a lot you make money.
+###
+Assumption1: If Dima drinks coffee he feels satisfied.
+Assumption2: Being satisfied produces dopamine in the brain.
+Proof: If Dima drinks coffee his brain produces dopamine.
+###
+Assumption1: Being an athlete gives you an ability to run fast.
+Assumption2: If you run fast you are fit.
+Proof: If you are an athlete, you are fit.
+###
+Assumption1: asdf implies qwerty.
+Assumption2: qwerty implies high salaries.
+Proof: asdf implies high salaries.
+###
+Assumption1: It is ttttt if and only if qwertyu.
+Assumption2: qwertyu if and only if asddfg.
+Proof: ttttt implies asddfg.
+###
+Assumption1: Being a ttttt means you own a ghjkl.
+Assumption2: If you own a ghjkl you automatically have a ttyyyy.
+Proof: Being a ttttt means you own a ttyyyy.
+Troof: If you are a ttttt you have a ttyyyy.
+----------------------------------EXPERIMENT NUMBER 7--------------MODEL j1-jumbo--------------------
+Assumption1: Rain causes clouds.
+Assumption2: Dollar rises in value if it is cloudy.
+Proof: Rain causes Dollar to rise.
+###
+Assumption1: qwertyu is caused by ttttt.
+Assumption2: asdfg is caused by qwertyu.
+Proof: asdfg is caused by ttttt.
+###
+Assumption1: qwertyu if it is sunny.
+Assumption2: tttttt if it is qwertyu.
+Proof: If it is sunny, tttttt.
+###
+Assumption1: Being a ttttt means you own a ghjkl.
+Assumption2: If you own a ghjkl you automatically have a ttyyyy.
+Proof: If you are a ttttt you have a ttyyyy.
+###
+Assumption1: Being an athlete gives you an ability to run fast.
+Assumption2: If you run fast you are fit.
+Proof: If you are an athlete, you are fit.
+###
+Assumption1: Mining cryptocurrency if and only if you want to get rich.
+Assumption2: If you mine cryptocurrency, then you are anonymous.
+Proof: If you wany to get rich, then you are anonymous.
+###
+Assumption1: asdf implies qwerty.
+Assumption2: qwerty implies high salaries.
+Proof: asdf implies high salaries.
+###
+Assumption1: Strength implies power.
+Assumption2: Power if and only if speed.
+Proof: If strength, then speed.
+###
+Assumption1: It is ttttt if and only if qwertyu.
+Assumption2: qwertyu if and only if asddfg.
+Proof: ttttt implies asddfg.
+###
+Assumption1: It rains if and only if it is cloudy.
+Assumption2: Bob is happy if and only if it rains.
+Proof: Bob is happy if it is cloudy.
+###
+Assumption1: X implies Y.
+Assumption2: Z is implied by Y.
+Proof: If X, then Z
+###
+Assumption1: Bobby is happy if and only if he ate ice cream.
+Assumption2: Bobby eating ice cream implies him doing homework.
+Proof: If bobby is happy, he is doing his homework.
+###
+Assumption1: High IQ implies cleverness.
+Assumption2: Cleverness implies sadness.
+Proof: High IQ implies sadness.
+###
+Assumption1: It is cloudy if it rains.
+Assumption2: There is no sun if it is cloudy.
+Proof: If it rains, then it is cloudy.
+###
+Assumption1: Power is implied by connections.
+Assumption2: asdfg is implied by power.
+Proof: asdfg is implied by connections.
+###
+Assumption1: If computer has a good CPU, then it is smart.
+Assumption2: If something is smart, then it can perform addition.
+Proof: If computer has a good CPU, then it can perform addition.
+###
+Assumption1: Having a job means you work a lot.
+Assumption2: If you have a job, you make money.
+Proof: If you work a lot you make money.
+###
+Assumption1: If I do not wake up, then I cannot go to work.
+Assumption2: If I cannot go to work, then I will not get paid.
+Proof: If I do not wake up, then I will not get paid.
+###
+Assumption1: I am from USA if and only if I know the anthem.
+Assumption2: Loving McDonalds is caused by knowing the anthem of the USA.
+Proof: If I am from the USA, I love McDonalds.
+###
+Assumption1: Cloudiness is caused by rain.
+Assumption2: Joe's sadness is caused by cloudiness.
+Proof: If it rains, Joe is sad.
+###
+Assumption1: Cryptocurrency mining is implied by high energy costs.
+Assumption2: High profits are implied by cryptocurrency mining.
+Proof: High profits are implied by high energy costs.
+###
+Assumption1: If someone is from Mars, then he is foreign.
+Assumption2: If someone is foreign, then he is scary.
+Proof: If someone is from Mars, then he is scary.
+###
+Assumption1: CEOs have a big salary.
+Assumption2: People with big salaries are happy.
+Proof: CEOs are happy.
+###
+Assumption1: Having Iphone implies having Icloud account.
+Assumption2: If you have an Icloud account, Fed steals all your data.
+Proof: Having Iphone implies Fed stealing all your data.
+###
+Assumption1: High IQ is implied by big brain.
+Assumption2: If you have a high IQ, then you have a high salary.
+Proof: If you have a big brain, you have a high salary.
+###
+Assumption1: Illegal things are against the law.
+Assumption2: If it is against the law, then it is bad.
+Proof: If it is illegal, then it is bad.
+Troof: Illegal things are bad.
+----------------------------------EXPERIMENT NUMBER 8--------------MODEL j1-jumbo--------------------
+Assumption1: qwertyu if it is sunny.
+Assumption2: tttttt if it is qwertyu.
+Proof: If it is sunny, tttttt.
+###
+Assumption1: If someone is from Mars, then he is foreign.
+Assumption2: If someone is foreign, then he is scary.
+Proof: If someone is from Mars, then he is scary.
+###
+Assumption1: X implies Y.
+Assumption2: Z is implied by Y.
+Proof: If X, then Z
+###
+Assumption1: Having a job means you work a lot.
+Assumption2: If you have a job, you make money.
+Proof: If you work a lot you make money.
+###
+Assumption1: Having Iphone implies having Icloud account.
+Assumption2: If you have an Icloud account, Fed steals all your data.
+Proof: Having Iphone implies Fed stealing all your data.
+###
+Assumption1: If Joe has a degree, he went to school.
+Assumption2: If someone went to school, they studied a lot.
+Proof: If Joe has a degree, he studied a lot.
+###
+Assumption1: Being an athlete gives you an ability to run fast.
+Assumption2: If you run fast you are fit.
+Proof: If you are an athlete, you are fit.
+###
+Assumption1: Bobby is happy if and only if he ate ice cream.
+Assumption2: Bobby eating ice cream implies him doing homework.
+Proof: If bobby is happy, he is doing his homework.
+###
+Assumption1: It is ttttt if and only if qwertyu.
+Assumption2: qwertyu if and only if asddfg.
+Proof: ttttt implies asddfg.
+###
+Assumption1: Illegal things are against the law.
+Assumption2: If it is against the law, then it is bad.
+Proof: Illegal things are bad.
+###
+Assumption1: Cryptocurrency mining is implied by high energy costs.
+Assumption2: High profits are implied by cryptocurrency mining.
+Proof: High profits are implied by high energy costs.
+###
+Assumption1: If I do not wake up, then I cannot go to work.
+Assumption2: If I cannot go to work, then I will not get paid.
+Proof: If I do not wake up, then I will not get paid.
+###
+Assumption1: Cloudiness is caused by rain.
+Assumption2: Joe's sadness is caused by cloudiness.
+Proof: If it rains, Joe is sad.
+###
+Assumption1: asdf implies qwerty.
+Assumption2: qwerty implies high salaries.
+Proof: asdf implies high salaries.
+###
+Assumption1: CEOs have a big salary.
+Assumption2: People with big salaries are happy.
+Proof: CEOs are happy.
+###
+Assumption1: High IQ implies cleverness.
+Assumption2: Cleverness implies sadness.
+Proof: High IQ implies sadness.
+###
+Assumption1: Rain causes clouds.
+Assumption2: Dollar rises in value if it is cloudy.
+Proof: Rain causes Dollar to rise.
+###
+Assumption1: qwertyu is caused by ttttt.
+Assumption2: asdfg is caused by qwertyu.
+Proof: asdfg is caused by ttttt.
+###
+Assumption1: Power is implied by connections.
+Assumption2: asdfg is implied by power.
+Proof: asdfg is implied by connections.
+###
+Assumption1: Strength implies power.
+Assumption2: Power if and only if speed.
+Proof: If strength, then speed.
+###
+Assumption1: Mining cryptocurrency if and only if you want to get rich.
+Assumption2: If you mine cryptocurrency, then you are anonymous.
+Proof: If you wany to get rich, then you are anonymous.
+###
+Assumption1: Happy family is implied by happy marriage.
+Assumption2: If you have a happy family, then you have a lot of children.
+Proof: If you have a happy marriage, you have a lot of children.
+###
+Assumption1: I am from USA if and only if I know the anthem.
+Assumption2: Loving McDonalds is caused by knowing the anthem of the USA.
+Proof: If I am from the USA, I love McDonalds.
+###
+Assumption1: High IQ is implied by big brain.
+Assumption2: If you have a high IQ, then you have a high salary.
+Proof: If you have a big brain, you have a high salary.
+###
+Assumption1: It rains if and only if it is cloudy.
+Assumption2: Bob is happy if and only if it rains.
+Proof: Bob is happy if it is cloudy.
+###
+Assumption1: If Dima drinks coffee he feels satisfied.
+Assumption2: Being satisfied produces dopamine in the brain.
+Proof: If Dima drinks coffee, he feels satisfied.
+Troof: If Dima drinks coffee his brain produces dopamine.
+----------------------------------EXPERIMENT NUMBER 9--------------MODEL j1-jumbo--------------------
+Assumption1: Having Iphone implies having Icloud account.
+Assumption2: If you have an Icloud account, Fed steals all your data.
+Proof: Having Iphone implies Fed stealing all your data.
+###
+Assumption1: asdf implies qwerty.
+Assumption2: qwerty implies high salaries.
+Proof: asdf implies high salaries.
+###
+Assumption1: If Dima drinks coffee he feels satisfied.
+Assumption2: Being satisfied produces dopamine in the brain.
+Proof: If Dima drinks coffee his brain produces dopamine.
+###
+Assumption1: Bobby is happy if and only if he ate ice cream.
+Assumption2: Bobby eating ice cream implies him doing homework.
+Proof: If bobby is happy, he is doing his homework.
+###
+Assumption1: Having a job means you work a lot.
+Assumption2: If you have a job, you make money.
+Proof: If you work a lot you make money.
+###
+Assumption1: qwertyu if it is sunny.
+Assumption2: tttttt if it is qwertyu.
+Proof: If it is sunny, tttttt.
+###
+Assumption1: If computer has a good CPU, then it is smart.
+Assumption2: If something is smart, then it can perform addition.
+Proof: If computer has a good CPU, then it can perform addition.
+###
+Assumption1: Rain causes clouds.
+Assumption2: Dollar rises in value if it is cloudy.
+Proof: Rain causes Dollar to rise.
+###
+Assumption1: If someone is from Mars, then he is foreign.
+Assumption2: If someone is foreign, then he is scary.
+Proof: If someone is from Mars, then he is scary.
+###
+Assumption1: High IQ is implied by big brain.
+Assumption2: If you have a high IQ, then you have a high salary.
+Proof: If you have a big brain, you have a high salary.
+###
+Assumption1: If it is raining, the grass is wet.
+Assumption2: If the grass is wet, insects are happy.
+Proof: If it is raining the insects are happy.
+###
+Assumption1: Being an athlete gives you an ability to run fast.
+Assumption2: If you run fast you are fit.
+Proof: If you are an athlete, you are fit.
+###
+Assumption1: X implies Y.
+Assumption2: Z is implied by Y.
+Proof: If X, then Z
+###
+Assumption1: High IQ implies cleverness.
+Assumption2: Cleverness implies sadness.
+Proof: High IQ implies sadness.
+###
+Assumption1: Cloudiness is caused by rain.
+Assumption2: Joe's sadness is caused by cloudiness.
+Proof: If it rains, Joe is sad.
+###
+Assumption1: Cryptocurrency mining is implied by high energy costs.
+Assumption2: High profits are implied by cryptocurrency mining.
+Proof: High profits are implied by high energy costs.
+###
+Assumption1: Being a ttttt means you own a ghjkl.
+Assumption2: If you own a ghjkl you automatically have a ttyyyy.
+Proof: If you are a ttttt you have a ttyyyy.
+###
+Assumption1: CEOs have a big salary.
+Assumption2: People with big salaries are happy.
+Proof: CEOs are happy.
+###
+Assumption1: qwertyu is caused by ttttt.
+Assumption2: asdfg is caused by qwertyu.
+Proof: asdfg is caused by ttttt.
+###
+Assumption1: Power is implied by connections.
+Assumption2: asdfg is implied by power.
+Proof: asdfg is implied by connections.
+###
+Assumption1: Strength implies power.
+Assumption2: Power if and only if speed.
+Proof: If strength, then speed.
+###
+Assumption1: Illegal things are against the law.
+Assumption2: If it is against the law, then it is bad.
+Proof: Illegal things are bad.
+###
+Assumption1: If Joe has a degree, he went to school.
+Assumption2: If someone went to school, they studied a lot.
+Proof: If Joe has a degree, he studied a lot.
+###
+Assumption1: It is ttttt if and only if qwertyu.
+Assumption2: qwertyu if and only if asddfg.
+Proof: ttttt implies asddfg.
+###
+Assumption1: I am from USA if and only if I know the anthem.
+Assumption2: Loving McDonalds is caused by knowing the anthem of the USA.
+Proof: If I am from the USA, I love McDonalds.
+###
+Assumption1: If I do not wake up, then I cannot go to work.
+Assumption2: If I cannot go to work, then I will not get paid.
+Proof: If I do not wake up, I will not get paid.
+Troof: If I do not wake up, then I will not get paid.
+----------------------------------EXPERIMENT NUMBER 10--------------MODEL j1-jumbo--------------------
+Assumption1: It rains if and only if it is cloudy.
+Assumption2: Bob is happy if and only if it rains.
+Proof: Bob is happy if it is cloudy.
+###
+Assumption1: qwertyu if it is sunny.
+Assumption2: tttttt if it is qwertyu.
+Proof: If it is sunny, tttttt.
+###
+Assumption1: Strength implies power.
+Assumption2: Power if and only if speed.
+Proof: If strength, then speed.
+###
+Assumption1: X implies Y.
+Assumption2: Z is implied by Y.
+Proof: If X, then Z
+###
+Assumption1: Bobby is happy if and only if he ate ice cream.
+Assumption2: Bobby eating ice cream implies him doing homework.
+Proof: If bobby is happy, he is doing his homework.
+###
+Assumption1: Being an athlete gives you an ability to run fast.
+Assumption2: If you run fast you are fit.
+Proof: If you are an athlete, you are fit.
+###
+Assumption1: It is cloudy if it rains.
+Assumption2: There is no sun if it is cloudy.
+Proof: If it rains, then it is cloudy.
+###
+Assumption1: If someone is from Mars, then he is foreign.
+Assumption2: If someone is foreign, then he is scary.
+Proof: If someone is from Mars, then he is scary.
+###
+Assumption1: qwertyu is caused by ttttt.
+Assumption2: asdfg is caused by qwertyu.
+Proof: asdfg is caused by ttttt.
+###
+Assumption1: Power is implied by connections.
+Assumption2: asdfg is implied by power.
+Proof: asdfg is implied by connections.
+###
+Assumption1: Having a job means you work a lot.
+Assumption2: If you have a job, you make money.
+Proof: If you work a lot you make money.
+###
+Assumption1: CEOs have a big salary.
+Assumption2: People with big salaries are happy.
+Proof: CEOs are happy.
+###
+Assumption1: High IQ implies cleverness.
+Assumption2: Cleverness implies sadness.
+Proof: High IQ implies sadness.
+###
+Assumption1: If I do not wake up, then I cannot go to work.
+Assumption2: If I cannot go to work, then I will not get paid.
+Proof: If I do not wake up, then I will not get paid.
+###
+Assumption1: Illegal things are against the law.
+Assumption2: If it is against the law, then it is bad.
+Proof: Illegal things are bad.
+###
+Assumption1: I am from USA if and only if I know the anthem.
+Assumption2: Loving McDonalds is caused by knowing the anthem of the USA.
+Proof: If I am from the USA, I love McDonalds.
+###
+Assumption1: Cryptocurrency mining is implied by high energy costs.
+Assumption2: High profits are implied by cryptocurrency mining.
+Proof: High profits are implied by high energy costs.
+###
+Assumption1: Being a ttttt means you own a ghjkl.
+Assumption2: If you own a ghjkl you automatically have a ttyyyy.
+Proof: If you are a ttttt you have a ttyyyy.
+###
+Assumption1: If it is raining, the grass is wet.
+Assumption2: If the grass is wet, insects are happy.
+Proof: If it is raining the insects are happy.
+###
+Assumption1: Rain causes clouds.
+Assumption2: Dollar rises in value if it is cloudy.
+Proof: Rain causes Dollar to rise.
+###
+Assumption1: asdf implies qwerty.
+Assumption2: qwerty implies high salaries.
+Proof: asdf implies high salaries.
+###
+Assumption1: If Dima drinks coffee he feels satisfied.
+Assumption2: Being satisfied produces dopamine in the brain.
+Proof: If Dima drinks coffee his brain produces dopamine.
+###
+Assumption1: It is ttttt if and only if qwertyu.
+Assumption2: qwertyu if and only if asddfg.
+Proof: ttttt implies asddfg.
+###
+Assumption1: Cloudiness is caused by rain.
+Assumption2: Joe's sadness is caused by cloudiness.
+Proof: If it rains, Joe is sad.
+###
+Assumption1: Happy family is implied by happy marriage.
+Assumption2: If you have a happy family, then you have a lot of children.
+Proof: If you have a happy marriage, you have a lot of children.
+###
+Assumption1: If computer has a good CPU, then it is smart.
+Assumption2: If something is smart, then it can perform addition.
+Proof: If computer has a good CPU, it can perform addition.
+Troof: If computer has a good CPU, then it can perform addition.
+----------------------------------EXPERIMENT NUMBER 11--------------MODEL j1-jumbo--------------------
+Assumption1: asdf implies qwerty.
+Assumption2: qwerty implies high salaries.
+Proof: asdf implies high salaries.
+###
+Assumption1: X implies Y.
+Assumption2: Z is implied by Y.
+Proof: If X, then Z
+###
+Assumption1: It is ttttt if and only if qwertyu.
+Assumption2: qwertyu if and only if asddfg.
+Proof: ttttt implies asddfg.
+###
+Assumption1: If I do not wake up, then I cannot go to work.
+Assumption2: If I cannot go to work, then I will not get paid.
+Proof: If I do not wake up, then I will not get paid.
+###
+Assumption1: It rains if and only if it is cloudy.
+Assumption2: Bob is happy if and only if it rains.
+Proof: Bob is happy if it is cloudy.
+###
+Assumption1: Strength implies power.
+Assumption2: Power if and only if speed.
+Proof: If strength, then speed.
+###
+Assumption1: It is cloudy if it rains.
+Assumption2: There is no sun if it is cloudy.
+Proof: If it rains, then it is cloudy.
+###
+Assumption1: Cloudiness is caused by rain.
+Assumption2: Joe's sadness is caused by cloudiness.
+Proof: If it rains, Joe is sad.
+###
+Assumption1: qwertyu if it is sunny.
+Assumption2: tttttt if it is qwertyu.
+Proof: If it is sunny, tttttt.
+###
+Assumption1: Bobby is happy if and only if he ate ice cream.
+Assumption2: Bobby eating ice cream implies him doing homework.
+Proof: If bobby is happy, he is doing his homework.
+###
+Assumption1: Being a ttttt means you own a ghjkl.
+Assumption2: If you own a ghjkl you automatically have a ttyyyy.
+Proof: If you are a ttttt you have a ttyyyy.
+###
+Assumption1: High IQ implies cleverness.
+Assumption2: Cleverness implies sadness.
+Proof: High IQ implies sadness.
+###
+Assumption1: High IQ is implied by big brain.
+Assumption2: If you have a high IQ, then you have a high salary.
+Proof: If you have a big brain, you have a high salary.
+###
+Assumption1: Cryptocurrency mining is implied by high energy costs.
+Assumption2: High profits are implied by cryptocurrency mining.
+Proof: High profits are implied by high energy costs.
+###
+Assumption1: If Dima drinks coffee he feels satisfied.
+Assumption2: Being satisfied produces dopamine in the brain.
+Proof: If Dima drinks coffee his brain produces dopamine.
+###
+Assumption1: Power is implied by connections.
+Assumption2: asdfg is implied by power.
+Proof: asdfg is implied by connections.
+###
+Assumption1: If it is raining, the grass is wet.
+Assumption2: If the grass is wet, insects are happy.
+Proof: If it is raining the insects are happy.
+###
+Assumption1: If computer has a good CPU, then it is smart.
+Assumption2: If something is smart, then it can perform addition.
+Proof: If computer has a good CPU, then it can perform addition.
+###
+Assumption1: Illegal things are against the law.
+Assumption2: If it is against the law, then it is bad.
+Proof: Illegal things are bad.
+###
+Assumption1: If Joe has a degree, he went to school.
+Assumption2: If someone went to school, they studied a lot.
+Proof: If Joe has a degree, he studied a lot.
+###
+Assumption1: Rain causes clouds.
+Assumption2: Dollar rises in value if it is cloudy.
+Proof: Rain causes Dollar to rise.
+###
+Assumption1: I am from USA if and only if I know the anthem.
+Assumption2: Loving McDonalds is caused by knowing the anthem of the USA.
+Proof: If I am from the USA, I love McDonalds.
+###
+Assumption1: CEOs have a big salary.
+Assumption2: People with big salaries are happy.
+Proof: CEOs are happy.
+###
+Assumption1: Happy family is implied by happy marriage.
+Assumption2: If you have a happy family, then you have a lot of children.
+Proof: If you have a happy marriage, you have a lot of children.
+###
+Assumption1: Mining cryptocurrency if and only if you want to get rich.
+Assumption2: If you mine cryptocurrency, then you are anonymous.
+Proof: If you wany to get rich, then you are anonymous.
+###
+Assumption1: If someone is from Mars, then he is foreign.
+Assumption2: If someone is foreign, then he is scary.
+Proof: If someone is from Mars, he is scary.
+Troof: If someone is from Mars, then he is scary.
+----------------------------------EXPERIMENT NUMBER 12--------------MODEL j1-jumbo--------------------
+Assumption1: Rain causes clouds.
+Assumption2: Dollar rises in value if it is cloudy.
+Proof: Rain causes Dollar to rise.
+###
+Assumption1: Being an athlete gives you an ability to run fast.
+Assumption2: If you run fast you are fit.
+Proof: If you are an athlete, you are fit.
+###
+Assumption1: If it is raining, the grass is wet.
+Assumption2: If the grass is wet, insects are happy.
+Proof: If it is raining the insects are happy.
+###
+Assumption1: CEOs have a big salary.
+Assumption2: People with big salaries are happy.
+Proof: CEOs are happy.
+###
+Assumption1: Illegal things are against the law.
+Assumption2: If it is against the law, then it is bad.
+Proof: Illegal things are bad.
+###
+Assumption1: Cryptocurrency mining is implied by high energy costs.
+Assumption2: High profits are implied by cryptocurrency mining.
+Proof: High profits are implied by high energy costs.
+###
+Assumption1: Being a ttttt means you own a ghjkl.
+Assumption2: If you own a ghjkl you automatically have a ttyyyy.
+Proof: If you are a ttttt you have a ttyyyy.
+###
+Assumption1: It is ttttt if and only if qwertyu.
+Assumption2: qwertyu if and only if asddfg.
+Proof: ttttt implies asddfg.
+###
+Assumption1: If Joe has a degree, he went to school.
+Assumption2: If someone went to school, they studied a lot.
+Proof: If Joe has a degree, he studied a lot.
+###
+Assumption1: Power is implied by connections.
+Assumption2: asdfg is implied by power.
+Proof: asdfg is implied by connections.
+###
+Assumption1: If Dima drinks coffee he feels satisfied.
+Assumption2: Being satisfied produces dopamine in the brain.
+Proof: If Dima drinks coffee his brain produces dopamine.
+###
+Assumption1: Bobby is happy if and only if he ate ice cream.
+Assumption2: Bobby eating ice cream implies him doing homework.
+Proof: If bobby is happy, he is doing his homework.
+###
+Assumption1: qwertyu is caused by ttttt.
+Assumption2: asdfg is caused by qwertyu.
+Proof: asdfg is caused by ttttt.
+###
+Assumption1: If computer has a good CPU, then it is smart.
+Assumption2: If something is smart, then it can perform addition.
+Proof: If computer has a good CPU, then it can perform addition.
+###
+Assumption1: Having Iphone implies having Icloud account.
+Assumption2: If you have an Icloud account, Fed steals all your data.
+Proof: Having Iphone implies Fed stealing all your data.
+###
+Assumption1: Having a job means you work a lot.
+Assumption2: If you have a job, you make money.
+Proof: If you work a lot you make money.
+###
+Assumption1: High IQ is implied by big brain.
+Assumption2: If you have a high IQ, then you have a high salary.
+Proof: If you have a big brain, you have a high salary.
+###
+Assumption1: Strength implies power.
+Assumption2: Power if and only if speed.
+Proof: If strength, then speed.
+###
+Assumption1: Happy family is implied by happy marriage.
+Assumption2: If you have a happy family, then you have a lot of children.
+Proof: If you have a happy marriage, you have a lot of children.
+###
+Assumption1: It rains if and only if it is cloudy.
+Assumption2: Bob is happy if and only if it rains.
+Proof: Bob is happy if it is cloudy.
+###
+Assumption1: If I do not wake up, then I cannot go to work.
+Assumption2: If I cannot go to work, then I will not get paid.
+Proof: If I do not wake up, then I will not get paid.
+###
+Assumption1: asdf implies qwerty.
+Assumption2: qwerty implies high salaries.
+Proof: asdf implies high salaries.
+###
+Assumption1: High IQ implies cleverness.
+Assumption2: Cleverness implies sadness.
+Proof: High IQ implies sadness.
+###
+Assumption1: Cloudiness is caused by rain.
+Assumption2: Joe's sadness is caused by cloudiness.
+Proof: If it rains, Joe is sad.
+###
+Assumption1: qwertyu if it is sunny.
+Assumption2: tttttt if it is qwertyu.
+Proof: If it is sunny, tttttt.
+###
+Assumption1: It is cloudy if it rains.
+Assumption2: There is no sun if it is cloudy.
+Proof: If it rains, it is cloudy.
+Troof: If it rains, then it is cloudy.
+----------------------------------EXPERIMENT NUMBER 13--------------MODEL j1-jumbo--------------------
+Assumption1: Happy family is implied by happy marriage.
+Assumption2: If you have a happy family, then you have a lot of children.
+Proof: If you have a happy marriage, you have a lot of children.
+###
+Assumption1: If someone is from Mars, then he is foreign.
+Assumption2: If someone is foreign, then he is scary.
+Proof: If someone is from Mars, then he is scary.
+###
+Assumption1: Cloudiness is caused by rain.
+Assumption2: Joe's sadness is caused by cloudiness.
+Proof: If it rains, Joe is sad.
+###
+Assumption1: Being an athlete gives you an ability to run fast.
+Assumption2: If you run fast you are fit.
+Proof: If you are an athlete, you are fit.
+###
+Assumption1: Power is implied by connections.
+Assumption2: asdfg is implied by power.
+Proof: asdfg is implied by connections.
+###
+Assumption1: Cryptocurrency mining is implied by high energy costs.
+Assumption2: High profits are implied by cryptocurrency mining.
+Proof: High profits are implied by high energy costs.
+###
+Assumption1: Having Iphone implies having Icloud account.
+Assumption2: If you have an Icloud account, Fed steals all your data.
+Proof: Having Iphone implies Fed stealing all your data.
+###
+Assumption1: If I do not wake up, then I cannot go to work.
+Assumption2: If I cannot go to work, then I will not get paid.
+Proof: If I do not wake up, then I will not get paid.
+###
+Assumption1: I am from USA if and only if I know the anthem.
+Assumption2: Loving McDonalds is caused by knowing the anthem of the USA.
+Proof: If I am from the USA, I love McDonalds.
+###
+Assumption1: Being a ttttt means you own a ghjkl.
+Assumption2: If you own a ghjkl you automatically have a ttyyyy.
+Proof: If you are a ttttt you have a ttyyyy.
+###
+Assumption1: qwertyu if it is sunny.
+Assumption2: tttttt if it is qwertyu.
+Proof: If it is sunny, tttttt.
+###
+Assumption1: It rains if and only if it is cloudy.
+Assumption2: Bob is happy if and only if it rains.
+Proof: Bob is happy if it is cloudy.
+###
+Assumption1: If computer has a good CPU, then it is smart.
+Assumption2: If something is smart, then it can perform addition.
+Proof: If computer has a good CPU, then it can perform addition.
+###
+Assumption1: It is cloudy if it rains.
+Assumption2: There is no sun if it is cloudy.
+Proof: If it rains, then it is cloudy.
+###
+Assumption1: Illegal things are against the law.
+Assumption2: If it is against the law, then it is bad.
+Proof: Illegal things are bad.
+###
+Assumption1: Mining cryptocurrency if and only if you want to get rich.
+Assumption2: If you mine cryptocurrency, then you are anonymous.
+Proof: If you wany to get rich, then you are anonymous.
+###
+Assumption1: High IQ is implied by big brain.
+Assumption2: If you have a high IQ, then you have a high salary.
+Proof: If you have a big brain, you have a high salary.
+###
+Assumption1: If Joe has a degree, he went to school.
+Assumption2: If someone went to school, they studied a lot.
+Proof: If Joe has a degree, he studied a lot.
+###
+Assumption1: X implies Y.
+Assumption2: Z is implied by Y.
+Proof: If X, then Z
+###
+Assumption1: Strength implies power.
+Assumption2: Power if and only if speed.
+Proof: If strength, then speed.
+###
+Assumption1: CEOs have a big salary.
+Assumption2: People with big salaries are happy.
+Proof: CEOs are happy.
+###
+Assumption1: Having a job means you work a lot.
+Assumption2: If you have a job, you make money.
+Proof: If you work a lot you make money.
+###
+Assumption1: qwertyu is caused by ttttt.
+Assumption2: asdfg is caused by qwertyu.
+Proof: asdfg is caused by ttttt.
+###
+Assumption1: Bobby is happy if and only if he ate ice cream.
+Assumption2: Bobby eating ice cream implies him doing homework.
+Proof: If bobby is happy, he is doing his homework.
+###
+Assumption1: asdf implies qwerty.
+Assumption2: qwerty implies high salaries.
+Proof: asdf implies high salaries.
+###
+Assumption1: High IQ implies cleverness.
+Assumption2: Cleverness implies sadness.
+Proof: High IQ implies sadness.
+Troof: High IQ implies sadness.
+----------------------------------EXPERIMENT NUMBER 14--------------MODEL j1-jumbo--------------------
+Assumption1: High IQ is implied by big brain.
+Assumption2: If you have a high IQ, then you have a high salary.
+Proof: If you have a big brain, you have a high salary.
+###
+Assumption1: Having Iphone implies having Icloud account.
+Assumption2: If you have an Icloud account, Fed steals all your data.
+Proof: Having Iphone implies Fed stealing all your data.
+###
+Assumption1: Having a job means you work a lot.
+Assumption2: If you have a job, you make money.
+Proof: If you work a lot you make money.
+###
+Assumption1: Rain causes clouds.
+Assumption2: Dollar rises in value if it is cloudy.
+Proof: Rain causes Dollar to rise.
+###
+Assumption1: If it is raining, the grass is wet.
+Assumption2: If the grass is wet, insects are happy.
+Proof: If it is raining the insects are happy.
+###
+Assumption1: Bobby is happy if and only if he ate ice cream.
+Assumption2: Bobby eating ice cream implies him doing homework.
+Proof: If bobby is happy, he is doing his homework.
+###
+Assumption1: Mining cryptocurrency if and only if you want to get rich.
+Assumption2: If you mine cryptocurrency, then you are anonymous.
+Proof: If you wany to get rich, then you are anonymous.
+###
+Assumption1: X implies Y.
+Assumption2: Z is implied by Y.
+Proof: If X, then Z
+###
+Assumption1: If Dima drinks coffee he feels satisfied.
+Assumption2: Being satisfied produces dopamine in the brain.
+Proof: If Dima drinks coffee his brain produces dopamine.
+###
+Assumption1: It is cloudy if it rains.
+Assumption2: There is no sun if it is cloudy.
+Proof: If it rains, then it is cloudy.
+###
+Assumption1: Strength implies power.
+Assumption2: Power if and only if speed.
+Proof: If strength, then speed.
+###
+Assumption1: It is ttttt if and only if qwertyu.
+Assumption2: qwertyu if and only if asddfg.
+Proof: ttttt implies asddfg.
+###
+Assumption1: Being an athlete gives you an ability to run fast.
+Assumption2: If you run fast you are fit.
+Proof: If you are an athlete, you are fit.
+###
+Assumption1: qwertyu is caused by ttttt.
+Assumption2: asdfg is caused by qwertyu.
+Proof: asdfg is caused by ttttt.
+###
+Assumption1: Illegal things are against the law.
+Assumption2: If it is against the law, then it is bad.
+Proof: Illegal things are bad.
+###
+Assumption1: Cryptocurrency mining is implied by high energy costs.
+Assumption2: High profits are implied by cryptocurrency mining.
+Proof: High profits are implied by high energy costs.
+###
+Assumption1: High IQ implies cleverness.
+Assumption2: Cleverness implies sadness.
+Proof: High IQ implies sadness.
+###
+Assumption1: I am from USA if and only if I know the anthem.
+Assumption2: Loving McDonalds is caused by knowing the anthem of the USA.
+Proof: If I am from the USA, I love McDonalds.
+###
+Assumption1: qwertyu if it is sunny.
+Assumption2: tttttt if it is qwertyu.
+Proof: If it is sunny, tttttt.
+###
+Assumption1: Happy family is implied by happy marriage.
+Assumption2: If you have a happy family, then you have a lot of children.
+Proof: If you have a happy marriage, you have a lot of children.
+###
+Assumption1: CEOs have a big salary.
+Assumption2: People with big salaries are happy.
+Proof: CEOs are happy.
+###
+Assumption1: Cloudiness is caused by rain.
+Assumption2: Joe's sadness is caused by cloudiness.
+Proof: If it rains, Joe is sad.
+###
+Assumption1: If I do not wake up, then I cannot go to work.
+Assumption2: If I cannot go to work, then I will not get paid.
+Proof: If I do not wake up, then I will not get paid.
+###
+Assumption1: Power is implied by connections.
+Assumption2: asdfg is implied by power.
+Proof: asdfg is implied by connections.
+###
+Assumption1: If computer has a good CPU, then it is smart.
+Assumption2: If something is smart, then it can perform addition.
+Proof: If computer has a good CPU, then it can perform addition.
+###
+Assumption1: It rains if and only if it is cloudy.
+Assumption2: Bob is happy if and only if it rains.
+Proof: If it rains, Bob is happy.
+Troof: Bob is happy if it is cloudy.
+----------------------------------EXPERIMENT NUMBER 15--------------MODEL j1-jumbo--------------------
+Assumption1: Rain causes clouds.
+Assumption2: Dollar rises in value if it is cloudy.
+Proof: Rain causes Dollar to rise.
+###
+Assumption1: Having Iphone implies having Icloud account.
+Assumption2: If you have an Icloud account, Fed steals all your data.
+Proof: Having Iphone implies Fed stealing all your data.
+###
+Assumption1: If Dima drinks coffee he feels satisfied.
+Assumption2: Being satisfied produces dopamine in the brain.
+Proof: If Dima drinks coffee his brain produces dopamine.
+###
+Assumption1: Illegal things are against the law.
+Assumption2: If it is against the law, then it is bad.
+Proof: Illegal things are bad.
+###
+Assumption1: Mining cryptocurrency if and only if you want to get rich.
+Assumption2: If you mine cryptocurrency, then you are anonymous.
+Proof: If you wany to get rich, then you are anonymous.
+###
+Assumption1: qwertyu if it is sunny.
+Assumption2: tttttt if it is qwertyu.
+Proof: If it is sunny, tttttt.
+###
+Assumption1: Being a ttttt means you own a ghjkl.
+Assumption2: If you own a ghjkl you automatically have a ttyyyy.
+Proof: If you are a ttttt you have a ttyyyy.
+###
+Assumption1: If someone is from Mars, then he is foreign.
+Assumption2: If someone is foreign, then he is scary.
+Proof: If someone is from Mars, then he is scary.
+###
+Assumption1: asdf implies qwerty.
+Assumption2: qwerty implies high salaries.
+Proof: asdf implies high salaries.
+###
+Assumption1: It is cloudy if it rains.
+Assumption2: There is no sun if it is cloudy.
+Proof: If it rains, then it is cloudy.
+###
+Assumption1: Cryptocurrency mining is implied by high energy costs.
+Assumption2: High profits are implied by cryptocurrency mining.
+Proof: High profits are implied by high energy costs.
+###
+Assumption1: I am from USA if and only if I know the anthem.
+Assumption2: Loving McDonalds is caused by knowing the anthem of the USA.
+Proof: If I am from the USA, I love McDonalds.
+###
+Assumption1: If Joe has a degree, he went to school.
+Assumption2: If someone went to school, they studied a lot.
+Proof: If Joe has a degree, he studied a lot.
+###
+Assumption1: Strength implies power.
+Assumption2: Power if and only if speed.
+Proof: If strength, then speed.
+###
+Assumption1: X implies Y.
+Assumption2: Z is implied by Y.
+Proof: If X, then Z
+###
+Assumption1: High IQ is implied by big brain.
+Assumption2: If you have a high IQ, then you have a high salary.
+Proof: If you have a big brain, you have a high salary.
+###
+Assumption1: If computer has a good CPU, then it is smart.
+Assumption2: If something is smart, then it can perform addition.
+Proof: If computer has a good CPU, then it can perform addition.
+###
+Assumption1: If it is raining, the grass is wet.
+Assumption2: If the grass is wet, insects are happy.
+Proof: If it is raining the insects are happy.
+###
+Assumption1: Power is implied by connections.
+Assumption2: asdfg is implied by power.
+Proof: asdfg is implied by connections.
+###
+Assumption1: CEOs have a big salary.
+Assumption2: People with big salaries are happy.
+Proof: CEOs are happy.
+###
+Assumption1: If I do not wake up, then I cannot go to work.
+Assumption2: If I cannot go to work, then I will not get paid.
+Proof: If I do not wake up, then I will not get paid.
+###
+Assumption1: Happy family is implied by happy marriage.
+Assumption2: If you have a happy family, then you have a lot of children.
+Proof: If you have a happy marriage, you have a lot of children.
+###
+Assumption1: Being an athlete gives you an ability to run fast.
+Assumption2: If you run fast you are fit.
+Proof: If you are an athlete, you are fit.
+###
+Assumption1: qwertyu is caused by ttttt.
+Assumption2: asdfg is caused by qwertyu.
+Proof: asdfg is caused by ttttt.
+###
+Assumption1: Having a job means you work a lot.
+Assumption2: If you have a job, you make money.
+Proof: If you work a lot you make money.
+###
+Assumption1: Cloudiness is caused by rain.
+Assumption2: Joe's sadness is caused by cloudiness.
+Proof: Joe's sadness is caused by rain.
+Troof: If it rains, Joe is sad.
+----------------------------------EXPERIMENT NUMBER 16--------------MODEL j1-jumbo--------------------
+Assumption1: If computer has a good CPU, then it is smart.
+Assumption2: If something is smart, then it can perform addition.
+Proof: If computer has a good CPU, then it can perform addition.
+###
+Assumption1: Being an athlete gives you an ability to run fast.
+Assumption2: If you run fast you are fit.
+Proof: If you are an athlete, you are fit.
+###
+Assumption1: Having Iphone implies having Icloud account.
+Assumption2: If you have an Icloud account, Fed steals all your data.
+Proof: Having Iphone implies Fed stealing all your data.
+###
+Assumption1: CEOs have a big salary.
+Assumption2: People with big salaries are happy.
+Proof: CEOs are happy.
+###
+Assumption1: If Dima drinks coffee he feels satisfied.
+Assumption2: Being satisfied produces dopamine in the brain.
+Proof: If Dima drinks coffee his brain produces dopamine.
+###
+Assumption1: Being a ttttt means you own a ghjkl.
+Assumption2: If you own a ghjkl you automatically have a ttyyyy.
+Proof: If you are a ttttt you have a ttyyyy.
+###
+Assumption1: Mining cryptocurrency if and only if you want to get rich.
+Assumption2: If you mine cryptocurrency, then you are anonymous.
+Proof: If you wany to get rich, then you are anonymous.
+###
+Assumption1: High IQ implies cleverness.
+Assumption2: Cleverness implies sadness.
+Proof: High IQ implies sadness.
+###
+Assumption1: It rains if and only if it is cloudy.
+Assumption2: Bob is happy if and only if it rains.
+Proof: Bob is happy if it is cloudy.
+###
+Assumption1: Cryptocurrency mining is implied by high energy costs.
+Assumption2: High profits are implied by cryptocurrency mining.
+Proof: High profits are implied by high energy costs.
+###
+Assumption1: Having a job means you work a lot.
+Assumption2: If you have a job, you make money.
+Proof: If you work a lot you make money.
+###
+Assumption1: asdf implies qwerty.
+Assumption2: qwerty implies high salaries.
+Proof: asdf implies high salaries.
+###
+Assumption1: High IQ is implied by big brain.
+Assumption2: If you have a high IQ, then you have a high salary.
+Proof: If you have a big brain, you have a high salary.
+###
+Assumption1: qwertyu if it is sunny.
+Assumption2: tttttt if it is qwertyu.
+Proof: If it is sunny, tttttt.
+###
+Assumption1: X implies Y.
+Assumption2: Z is implied by Y.
+Proof: If X, then Z
+###
+Assumption1: If Joe has a degree, he went to school.
+Assumption2: If someone went to school, they studied a lot.
+Proof: If Joe has a degree, he studied a lot.
+###
+Assumption1: Power is implied by connections.
+Assumption2: asdfg is implied by power.
+Proof: asdfg is implied by connections.
+###
+Assumption1: Strength implies power.
+Assumption2: Power if and only if speed.
+Proof: If strength, then speed.
+###
+Assumption1: Bobby is happy if and only if he ate ice cream.
+Assumption2: Bobby eating ice cream implies him doing homework.
+Proof: If bobby is happy, he is doing his homework.
+###
+Assumption1: Happy family is implied by happy marriage.
+Assumption2: If you have a happy family, then you have a lot of children.
+Proof: If you have a happy marriage, you have a lot of children.
+###
+Assumption1: Cloudiness is caused by rain.
+Assumption2: Joe's sadness is caused by cloudiness.
+Proof: If it rains, Joe is sad.
+###
+Assumption1: It is ttttt if and only if qwertyu.
+Assumption2: qwertyu if and only if asddfg.
+Proof: ttttt implies asddfg.
+###
+Assumption1: If it is raining, the grass is wet.
+Assumption2: If the grass is wet, insects are happy.
+Proof: If it is raining the insects are happy.
+###
+Assumption1: If I do not wake up, then I cannot go to work.
+Assumption2: If I cannot go to work, then I will not get paid.
+Proof: If I do not wake up, then I will not get paid.
+###
+Assumption1: It is cloudy if it rains.
+Assumption2: There is no sun if it is cloudy.
+Proof: If it rains, then it is cloudy.
+###
+Assumption1: Rain causes clouds.
+Assumption2: Dollar rises in value if it is cloudy.
+Proof: If it rains, the dollar rises in value.
+Troof: Rain causes Dollar to rise.
+----------------------------------EXPERIMENT NUMBER 17--------------MODEL j1-jumbo--------------------
+Assumption1: Cryptocurrency mining is implied by high energy costs.
+Assumption2: High profits are implied by cryptocurrency mining.
+Proof: High profits are implied by high energy costs.
+###
+Assumption1: Illegal things are against the law.
+Assumption2: If it is against the law, then it is bad.
+Proof: Illegal things are bad.
+###
+Assumption1: If Dima drinks coffee he feels satisfied.
+Assumption2: Being satisfied produces dopamine in the brain.
+Proof: If Dima drinks coffee his brain produces dopamine.
+###
+Assumption1: If I do not wake up, then I cannot go to work.
+Assumption2: If I cannot go to work, then I will not get paid.
+Proof: If I do not wake up, then I will not get paid.
+###
+Assumption1: Cloudiness is caused by rain.
+Assumption2: Joe's sadness is caused by cloudiness.
+Proof: If it rains, Joe is sad.
+###
+Assumption1: Having a job means you work a lot.
+Assumption2: If you have a job, you make money.
+Proof: If you work a lot you make money.
+###
+Assumption1: Rain causes clouds.
+Assumption2: Dollar rises in value if it is cloudy.
+Proof: Rain causes Dollar to rise.
+###
+Assumption1: qwertyu if it is sunny.
+Assumption2: tttttt if it is qwertyu.
+Proof: If it is sunny, tttttt.
+###
+Assumption1: Power is implied by connections.
+Assumption2: asdfg is implied by power.
+Proof: asdfg is implied by connections.
+###
+Assumption1: Being a ttttt means you own a ghjkl.
+Assumption2: If you own a ghjkl you automatically have a ttyyyy.
+Proof: If you are a ttttt you have a ttyyyy.
+###
+Assumption1: If someone is from Mars, then he is foreign.
+Assumption2: If someone is foreign, then he is scary.
+Proof: If someone is from Mars, then he is scary.
+###
+Assumption1: Bobby is happy if and only if he ate ice cream.
+Assumption2: Bobby eating ice cream implies him doing homework.
+Proof: If bobby is happy, he is doing his homework.
+###
+Assumption1: It is ttttt if and only if qwertyu.
+Assumption2: qwertyu if and only if asddfg.
+Proof: ttttt implies asddfg.
+###
+Assumption1: Happy family is implied by happy marriage.
+Assumption2: If you have a happy family, then you have a lot of children.
+Proof: If you have a happy marriage, you have a lot of children.
+###
+Assumption1: qwertyu is caused by ttttt.
+Assumption2: asdfg is caused by qwertyu.
+Proof: asdfg is caused by ttttt.
+###
+Assumption1: High IQ is implied by big brain.
+Assumption2: If you have a high IQ, then you have a high salary.
+Proof: If you have a big brain, you have a high salary.
+###
+Assumption1: CEOs have a big salary.
+Assumption2: People with big salaries are happy.
+Proof: CEOs are happy.
+###
+Assumption1: It is cloudy if it rains.
+Assumption2: There is no sun if it is cloudy.
+Proof: If it rains, then it is cloudy.
+###
+Assumption1: If it is raining, the grass is wet.
+Assumption2: If the grass is wet, insects are happy.
+Proof: If it is raining the insects are happy.
+###
+Assumption1: Mining cryptocurrency if and only if you want to get rich.
+Assumption2: If you mine cryptocurrency, then you are anonymous.
+Proof: If you wany to get rich, then you are anonymous.
+###
+Assumption1: X implies Y.
+Assumption2: Z is implied by Y.
+Proof: If X, then Z
+###
+Assumption1: Being an athlete gives you an ability to run fast.
+Assumption2: If you run fast you are fit.
+Proof: If you are an athlete, you are fit.
+###
+Assumption1: If Joe has a degree, he went to school.
+Assumption2: If someone went to school, they studied a lot.
+Proof: If Joe has a degree, he studied a lot.
+###
+Assumption1: Strength implies power.
+Assumption2: Power if and only if speed.
+Proof: If strength, then speed.
+###
+Assumption1: High IQ implies cleverness.
+Assumption2: Cleverness implies sadness.
+Proof: High IQ implies sadness.
+###
+Assumption1: asdf implies qwerty.
+Assumption2: qwerty implies high salaries.
+Proof: qwerty implies high salaries.
+Troof: asdf implies high salaries.
+----------------------------------EXPERIMENT NUMBER 18--------------MODEL j1-jumbo--------------------
+Assumption1: If computer has a good CPU, then it is smart.
+Assumption2: If something is smart, then it can perform addition.
+Proof: If computer has a good CPU, then it can perform addition.
+###
+Assumption1: CEOs have a big salary.
+Assumption2: People with big salaries are happy.
+Proof: CEOs are happy.
+###
+Assumption1: If I do not wake up, then I cannot go to work.
+Assumption2: If I cannot go to work, then I will not get paid.
+Proof: If I do not wake up, then I will not get paid.
+###
+Assumption1: It is ttttt if and only if qwertyu.
+Assumption2: qwertyu if and only if asddfg.
+Proof: ttttt implies asddfg.
+###
+Assumption1: Illegal things are against the law.
+Assumption2: If it is against the law, then it is bad.
+Proof: Illegal things are bad.
+###
+Assumption1: X implies Y.
+Assumption2: Z is implied by Y.
+Proof: If X, then Z
+###
+Assumption1: Having Iphone implies having Icloud account.
+Assumption2: If you have an Icloud account, Fed steals all your data.
+Proof: Having Iphone implies Fed stealing all your data.
+###
+Assumption1: Bobby is happy if and only if he ate ice cream.
+Assumption2: Bobby eating ice cream implies him doing homework.
+Proof: If bobby is happy, he is doing his homework.
+###
+Assumption1: Cryptocurrency mining is implied by high energy costs.
+Assumption2: High profits are implied by cryptocurrency mining.
+Proof: High profits are implied by high energy costs.
+###
+Assumption1: Cloudiness is caused by rain.
+Assumption2: Joe's sadness is caused by cloudiness.
+Proof: If it rains, Joe is sad.
+###
+Assumption1: qwertyu is caused by ttttt.
+Assumption2: asdfg is caused by qwertyu.
+Proof: asdfg is caused by ttttt.
+###
+Assumption1: Happy family is implied by happy marriage.
+Assumption2: If you have a happy family, then you have a lot of children.
+Proof: If you have a happy marriage, you have a lot of children.
+###
+Assumption1: If Dima drinks coffee he feels satisfied.
+Assumption2: Being satisfied produces dopamine in the brain.
+Proof: If Dima drinks coffee his brain produces dopamine.
+###
+Assumption1: Being an athlete gives you an ability to run fast.
+Assumption2: If you run fast you are fit.
+Proof: If you are an athlete, you are fit.
+###
+Assumption1: High IQ is implied by big brain.
+Assumption2: If you have a high IQ, then you have a high salary.
+Proof: If you have a big brain, you have a high salary.
+###
+Assumption1: Power is implied by connections.
+Assumption2: asdfg is implied by power.
+Proof: asdfg is implied by connections.
+###
+Assumption1: It is cloudy if it rains.
+Assumption2: There is no sun if it is cloudy.
+Proof: If it rains, then it is cloudy.
+###
+Assumption1: Mining cryptocurrency if and only if you want to get rich.
+Assumption2: If you mine cryptocurrency, then you are anonymous.
+Proof: If you wany to get rich, then you are anonymous.
+###
+Assumption1: I am from USA if and only if I know the anthem.
+Assumption2: Loving McDonalds is caused by knowing the anthem of the USA.
+Proof: If I am from the USA, I love McDonalds.
+###
+Assumption1: If it is raining, the grass is wet.
+Assumption2: If the grass is wet, insects are happy.
+Proof: If it is raining the insects are happy.
+###
+Assumption1: It rains if and only if it is cloudy.
+Assumption2: Bob is happy if and only if it rains.
+Proof: Bob is happy if it is cloudy.
+###
+Assumption1: Rain causes clouds.
+Assumption2: Dollar rises in value if it is cloudy.
+Proof: Rain causes Dollar to rise.
+###
+Assumption1: Being a ttttt means you own a ghjkl.
+Assumption2: If you own a ghjkl you automatically have a ttyyyy.
+Proof: If you are a ttttt you have a ttyyyy.
+###
+Assumption1: Having a job means you work a lot.
+Assumption2: If you have a job, you make money.
+Proof: If you work a lot you make money.
+###
+Assumption1: High IQ implies cleverness.
+Assumption2: Cleverness implies sadness.
+Proof: High IQ implies sadness.
+###
+Assumption1: qwertyu if it is sunny.
+Assumption2: tttttt if it is qwertyu.
+Proof: tttttt if it is sunny.
+Troof: If it is sunny, tttttt.
+----------------------------------EXPERIMENT NUMBER 19--------------MODEL j1-jumbo--------------------
+Assumption1: If Joe has a degree, he went to school.
+Assumption2: If someone went to school, they studied a lot.
+Proof: If Joe has a degree, he studied a lot.
+###
+Assumption1: I am from USA if and only if I know the anthem.
+Assumption2: Loving McDonalds is caused by knowing the anthem of the USA.
+Proof: If I am from the USA, I love McDonalds.
+###
+Assumption1: Power is implied by connections.
+Assumption2: asdfg is implied by power.
+Proof: asdfg is implied by connections.
+###
+Assumption1: High IQ is implied by big brain.
+Assumption2: If you have a high IQ, then you have a high salary.
+Proof: If you have a big brain, you have a high salary.
+###
+Assumption1: Cryptocurrency mining is implied by high energy costs.
+Assumption2: High profits are implied by cryptocurrency mining.
+Proof: High profits are implied by high energy costs.
+###
+Assumption1: Happy family is implied by happy marriage.
+Assumption2: If you have a happy family, then you have a lot of children.
+Proof: If you have a happy marriage, you have a lot of children.
+###
+Assumption1: qwertyu is caused by ttttt.
+Assumption2: asdfg is caused by qwertyu.
+Proof: asdfg is caused by ttttt.
+###
+Assumption1: Cloudiness is caused by rain.
+Assumption2: Joe's sadness is caused by cloudiness.
+Proof: If it rains, Joe is sad.
+###
+Assumption1: If Dima drinks coffee he feels satisfied.
+Assumption2: Being satisfied produces dopamine in the brain.
+Proof: If Dima drinks coffee his brain produces dopamine.
+###
+Assumption1: Rain causes clouds.
+Assumption2: Dollar rises in value if it is cloudy.
+Proof: Rain causes Dollar to rise.
+###
+Assumption1: Having a job means you work a lot.
+Assumption2: If you have a job, you make money.
+Proof: If you work a lot you make money.
+###
+Assumption1: If it is raining, the grass is wet.
+Assumption2: If the grass is wet, insects are happy.
+Proof: If it is raining the insects are happy.
+###
+Assumption1: High IQ implies cleverness.
+Assumption2: Cleverness implies sadness.
+Proof: High IQ implies sadness.
+###
+Assumption1: qwertyu if it is sunny.
+Assumption2: tttttt if it is qwertyu.
+Proof: If it is sunny, tttttt.
+###
+Assumption1: CEOs have a big salary.
+Assumption2: People with big salaries are happy.
+Proof: CEOs are happy.
+###
+Assumption1: Strength implies power.
+Assumption2: Power if and only if speed.
+Proof: If strength, then speed.
+###
+Assumption1: Illegal things are against the law.
+Assumption2: If it is against the law, then it is bad.
+Proof: Illegal things are bad.
+###
+Assumption1: Bobby is happy if and only if he ate ice cream.
+Assumption2: Bobby eating ice cream implies him doing homework.
+Proof: If bobby is happy, he is doing his homework.
+###
+Assumption1: asdf implies qwerty.
+Assumption2: qwerty implies high salaries.
+Proof: asdf implies high salaries.
+###
+Assumption1: Having Iphone implies having Icloud account.
+Assumption2: If you have an Icloud account, Fed steals all your data.
+Proof: Having Iphone implies Fed stealing all your data.
+###
+Assumption1: Being an athlete gives you an ability to run fast.
+Assumption2: If you run fast you are fit.
+Proof: If you are an athlete, you are fit.
+###
+Assumption1: If I do not wake up, then I cannot go to work.
+Assumption2: If I cannot go to work, then I will not get paid.
+Proof: If I do not wake up, then I will not get paid.
+###
+Assumption1: If someone is from Mars, then he is foreign.
+Assumption2: If someone is foreign, then he is scary.
+Proof: If someone is from Mars, then he is scary.
+###
+Assumption1: It is cloudy if it rains.
+Assumption2: There is no sun if it is cloudy.
+Proof: If it rains, then it is cloudy.
+###
+Assumption1: X implies Y.
+Assumption2: Z is implied by Y.
+Proof: If X, then Z
+###
+Assumption1: It is ttttt if and only if qwertyu.
+Assumption2: qwertyu if and only if asddfg.
+Proof: If ttttt, then qwertyu.
+Troof: ttttt implies asddfg.
+----------------------------------EXPERIMENT NUMBER 20--------------MODEL j1-jumbo--------------------
+Assumption1: Power is implied by connections.
+Assumption2: asdfg is implied by power.
+Proof: asdfg is implied by connections.
+###
+Assumption1: qwertyu if it is sunny.
+Assumption2: tttttt if it is qwertyu.
+Proof: If it is sunny, tttttt.
+###
+Assumption1: It is ttttt if and only if qwertyu.
+Assumption2: qwertyu if and only if asddfg.
+Proof: ttttt implies asddfg.
+###
+Assumption1: Illegal things are against the law.
+Assumption2: If it is against the law, then it is bad.
+Proof: Illegal things are bad.
+###
+Assumption1: If computer has a good CPU, then it is smart.
+Assumption2: If something is smart, then it can perform addition.
+Proof: If computer has a good CPU, then it can perform addition.
+###
+Assumption1: asdf implies qwerty.
+Assumption2: qwerty implies high salaries.
+Proof: asdf implies high salaries.
+###
+Assumption1: Being a ttttt means you own a ghjkl.
+Assumption2: If you own a ghjkl you automatically have a ttyyyy.
+Proof: If you are a ttttt you have a ttyyyy.
+###
+Assumption1: Happy family is implied by happy marriage.
+Assumption2: If you have a happy family, then you have a lot of children.
+Proof: If you have a happy marriage, you have a lot of children.
+###
+Assumption1: It is cloudy if it rains.
+Assumption2: There is no sun if it is cloudy.
+Proof: If it rains, then it is cloudy.
+###
+Assumption1: If I do not wake up, then I cannot go to work.
+Assumption2: If I cannot go to work, then I will not get paid.
+Proof: If I do not wake up, then I will not get paid.
+###
+Assumption1: If someone is from Mars, then he is foreign.
+Assumption2: If someone is foreign, then he is scary.
+Proof: If someone is from Mars, then he is scary.
+###
+Assumption1: Rain causes clouds.
+Assumption2: Dollar rises in value if it is cloudy.
+Proof: Rain causes Dollar to rise.
+###
+Assumption1: Having Iphone implies having Icloud account.
+Assumption2: If you have an Icloud account, Fed steals all your data.
+Proof: Having Iphone implies Fed stealing all your data.
+###
+Assumption1: High IQ is implied by big brain.
+Assumption2: If you have a high IQ, then you have a high salary.
+Proof: If you have a big brain, you have a high salary.
+###
+Assumption1: If it is raining, the grass is wet.
+Assumption2: If the grass is wet, insects are happy.
+Proof: If it is raining the insects are happy.
+###
+Assumption1: Mining cryptocurrency if and only if you want to get rich.
+Assumption2: If you mine cryptocurrency, then you are anonymous.
+Proof: If you wany to get rich, then you are anonymous.
+###
+Assumption1: Strength implies power.
+Assumption2: Power if and only if speed.
+Proof: If strength, then speed.
+###
+Assumption1: If Dima drinks coffee he feels satisfied.
+Assumption2: Being satisfied produces dopamine in the brain.
+Proof: If Dima drinks coffee his brain produces dopamine.
+###
+Assumption1: It rains if and only if it is cloudy.
+Assumption2: Bob is happy if and only if it rains.
+Proof: Bob is happy if it is cloudy.
+###
+Assumption1: High IQ implies cleverness.
+Assumption2: Cleverness implies sadness.
+Proof: High IQ implies sadness.
+###
+Assumption1: Being an athlete gives you an ability to run fast.
+Assumption2: If you run fast you are fit.
+Proof: If you are an athlete, you are fit.
+###
+Assumption1: CEOs have a big salary.
+Assumption2: People with big salaries are happy.
+Proof: CEOs are happy.
+###
+Assumption1: X implies Y.
+Assumption2: Z is implied by Y.
+Proof: If X, then Z
+###
+Assumption1: I am from USA if and only if I know the anthem.
+Assumption2: Loving McDonalds is caused by knowing the anthem of the USA.
+Proof: If I am from the USA, I love McDonalds.
+###
+Assumption1: Cloudiness is caused by rain.
+Assumption2: Joe's sadness is caused by cloudiness.
+Proof: If it rains, Joe is sad.
+###
+Assumption1: qwertyu is caused by ttttt.
+Assumption2: asdfg is caused by qwertyu.
+Proof: If ttttt, then asdfg
+Troof: asdfg is caused by ttttt.
+----------------------------------EXPERIMENT NUMBER 21--------------MODEL j1-jumbo--------------------
+Assumption1: Power is implied by connections.
+Assumption2: asdfg is implied by power.
+Proof: asdfg is implied by connections.
+###
+Assumption1: It rains if and only if it is cloudy.
+Assumption2: Bob is happy if and only if it rains.
+Proof: Bob is happy if it is cloudy.
+###
+Assumption1: Happy family is implied by happy marriage.
+Assumption2: If you have a happy family, then you have a lot of children.
+Proof: If you have a happy marriage, you have a lot of children.
+###
+Assumption1: Being a ttttt means you own a ghjkl.
+Assumption2: If you own a ghjkl you automatically have a ttyyyy.
+Proof: If you are a ttttt you have a ttyyyy.
+###
+Assumption1: If it is raining, the grass is wet.
+Assumption2: If the grass is wet, insects are happy.
+Proof: If it is raining the insects are happy.
+###
+Assumption1: If I do not wake up, then I cannot go to work.
+Assumption2: If I cannot go to work, then I will not get paid.
+Proof: If I do not wake up, then I will not get paid.
+###
+Assumption1: Cryptocurrency mining is implied by high energy costs.
+Assumption2: High profits are implied by cryptocurrency mining.
+Proof: High profits are implied by high energy costs.
+###
+Assumption1: Being an athlete gives you an ability to run fast.
+Assumption2: If you run fast you are fit.
+Proof: If you are an athlete, you are fit.
+###
+Assumption1: Illegal things are against the law.
+Assumption2: If it is against the law, then it is bad.
+Proof: Illegal things are bad.
+###
+Assumption1: Rain causes clouds.
+Assumption2: Dollar rises in value if it is cloudy.
+Proof: Rain causes Dollar to rise.
+###
+Assumption1: It is ttttt if and only if qwertyu.
+Assumption2: qwertyu if and only if asddfg.
+Proof: ttttt implies asddfg.
+###
+Assumption1: Having a job means you work a lot.
+Assumption2: If you have a job, you make money.
+Proof: If you work a lot you make money.
+###
+Assumption1: Mining cryptocurrency if and only if you want to get rich.
+Assumption2: If you mine cryptocurrency, then you are anonymous.
+Proof: If you wany to get rich, then you are anonymous.
+###
+Assumption1: If computer has a good CPU, then it is smart.
+Assumption2: If something is smart, then it can perform addition.
+Proof: If computer has a good CPU, then it can perform addition.
+###
+Assumption1: X implies Y.
+Assumption2: Z is implied by Y.
+Proof: If X, then Z
+###
+Assumption1: High IQ is implied by big brain.
+Assumption2: If you have a high IQ, then you have a high salary.
+Proof: If you have a big brain, you have a high salary.
+###
+Assumption1: Cloudiness is caused by rain.
+Assumption2: Joe's sadness is caused by cloudiness.
+Proof: If it rains, Joe is sad.
+###
+Assumption1: If someone is from Mars, then he is foreign.
+Assumption2: If someone is foreign, then he is scary.
+Proof: If someone is from Mars, then he is scary.
+###
+Assumption1: asdf implies qwerty.
+Assumption2: qwerty implies high salaries.
+Proof: asdf implies high salaries.
+###
+Assumption1: qwertyu if it is sunny.
+Assumption2: tttttt if it is qwertyu.
+Proof: If it is sunny, tttttt.
+###
+Assumption1: qwertyu is caused by ttttt.
+Assumption2: asdfg is caused by qwertyu.
+Proof: asdfg is caused by ttttt.
+###
+Assumption1: If Joe has a degree, he went to school.
+Assumption2: If someone went to school, they studied a lot.
+Proof: If Joe has a degree, he studied a lot.
+###
+Assumption1: I am from USA if and only if I know the anthem.
+Assumption2: Loving McDonalds is caused by knowing the anthem of the USA.
+Proof: If I am from the USA, I love McDonalds.
+###
+Assumption1: Strength implies power.
+Assumption2: Power if and only if speed.
+Proof: If strength, then speed.
+###
+Assumption1: If Dima drinks coffee he feels satisfied.
+Assumption2: Being satisfied produces dopamine in the brain.
+Proof: If Dima drinks coffee his brain produces dopamine.
+###
+Assumption1: Bobby is happy if and only if he ate ice cream.
+Assumption2: Bobby eating ice cream implies him doing homework.
+Proof: Bobby is happy if and only if he did homework.
+Troof: If bobby is happy, he is doing his homework.
+----------------------------------EXPERIMENT NUMBER 22--------------MODEL j1-jumbo--------------------
+Assumption1: High IQ is implied by big brain.
+Assumption2: If you have a high IQ, then you have a high salary.
+Proof: If you have a big brain, you have a high salary.
+###
+Assumption1: qwertyu if it is sunny.
+Assumption2: tttttt if it is qwertyu.
+Proof: If it is sunny, tttttt.
+###
+Assumption1: Cloudiness is caused by rain.
+Assumption2: Joe's sadness is caused by cloudiness.
+Proof: If it rains, Joe is sad.
+###
+Assumption1: Power is implied by connections.
+Assumption2: asdfg is implied by power.
+Proof: asdfg is implied by connections.
+###
+Assumption1: It is cloudy if it rains.
+Assumption2: There is no sun if it is cloudy.
+Proof: If it rains, then it is cloudy.
+###
+Assumption1: If Dima drinks coffee he feels satisfied.
+Assumption2: Being satisfied produces dopamine in the brain.
+Proof: If Dima drinks coffee his brain produces dopamine.
+###
+Assumption1: It is ttttt if and only if qwertyu.
+Assumption2: qwertyu if and only if asddfg.
+Proof: ttttt implies asddfg.
+###
+Assumption1: Rain causes clouds.
+Assumption2: Dollar rises in value if it is cloudy.
+Proof: Rain causes Dollar to rise.
+###
+Assumption1: Being an athlete gives you an ability to run fast.
+Assumption2: If you run fast you are fit.
+Proof: If you are an athlete, you are fit.
+###
+Assumption1: Strength implies power.
+Assumption2: Power if and only if speed.
+Proof: If strength, then speed.
+###
+Assumption1: If it is raining, the grass is wet.
+Assumption2: If the grass is wet, insects are happy.
+Proof: If it is raining the insects are happy.
+###
+Assumption1: If Joe has a degree, he went to school.
+Assumption2: If someone went to school, they studied a lot.
+Proof: If Joe has a degree, he studied a lot.
+###
+Assumption1: If someone is from Mars, then he is foreign.
+Assumption2: If someone is foreign, then he is scary.
+Proof: If someone is from Mars, then he is scary.
+###
+Assumption1: Mining cryptocurrency if and only if you want to get rich.
+Assumption2: If you mine cryptocurrency, then you are anonymous.
+Proof: If you wany to get rich, then you are anonymous.
+###
+Assumption1: Being a ttttt means you own a ghjkl.
+Assumption2: If you own a ghjkl you automatically have a ttyyyy.
+Proof: If you are a ttttt you have a ttyyyy.
+###
+Assumption1: Cryptocurrency mining is implied by high energy costs.
+Assumption2: High profits are implied by cryptocurrency mining.
+Proof: High profits are implied by high energy costs.
+###
+Assumption1: If computer has a good CPU, then it is smart.
+Assumption2: If something is smart, then it can perform addition.
+Proof: If computer has a good CPU, then it can perform addition.
+###
+Assumption1: qwertyu is caused by ttttt.
+Assumption2: asdfg is caused by qwertyu.
+Proof: asdfg is caused by ttttt.
+###
+Assumption1: Having Iphone implies having Icloud account.
+Assumption2: If you have an Icloud account, Fed steals all your data.
+Proof: Having Iphone implies Fed stealing all your data.
+###
+Assumption1: X implies Y.
+Assumption2: Z is implied by Y.
+Proof: If X, then Z
+###
+Assumption1: It rains if and only if it is cloudy.
+Assumption2: Bob is happy if and only if it rains.
+Proof: Bob is happy if it is cloudy.
+###
+Assumption1: Illegal things are against the law.
+Assumption2: If it is against the law, then it is bad.
+Proof: Illegal things are bad.
+###
+Assumption1: Happy family is implied by happy marriage.
+Assumption2: If you have a happy family, then you have a lot of children.
+Proof: If you have a happy marriage, you have a lot of children.
+###
+Assumption1: Bobby is happy if and only if he ate ice cream.
+Assumption2: Bobby eating ice cream implies him doing homework.
+Proof: If bobby is happy, he is doing his homework.
+###
+Assumption1: High IQ implies cleverness.
+Assumption2: Cleverness implies sadness.
+Proof: High IQ implies sadness.
+###
+Assumption1: I am from USA if and only if I know the anthem.
+Assumption2: Loving McDonalds is caused by knowing the anthem of the USA.
+Proof: If I know the anthem, I love McDonalds.
+Troof: If I am from the USA, I love McDonalds.
+----------------------------------EXPERIMENT NUMBER 23--------------MODEL j1-jumbo--------------------
+Assumption1: Mining cryptocurrency if and only if you want to get rich.
+Assumption2: If you mine cryptocurrency, then you are anonymous.
+Proof: If you wany to get rich, then you are anonymous.
+###
+Assumption1: If Joe has a degree, he went to school.
+Assumption2: If someone went to school, they studied a lot.
+Proof: If Joe has a degree, he studied a lot.
+###
+Assumption1: Power is implied by connections.
+Assumption2: asdfg is implied by power.
+Proof: asdfg is implied by connections.
+###
+Assumption1: X implies Y.
+Assumption2: Z is implied by Y.
+Proof: If X, then Z
+###
+Assumption1: If computer has a good CPU, then it is smart.
+Assumption2: If something is smart, then it can perform addition.
+Proof: If computer has a good CPU, then it can perform addition.
+###
+Assumption1: It is cloudy if it rains.
+Assumption2: There is no sun if it is cloudy.
+Proof: If it rains, then it is cloudy.
+###
+Assumption1: If I do not wake up, then I cannot go to work.
+Assumption2: If I cannot go to work, then I will not get paid.
+Proof: If I do not wake up, then I will not get paid.
+###
+Assumption1: It is ttttt if and only if qwertyu.
+Assumption2: qwertyu if and only if asddfg.
+Proof: ttttt implies asddfg.
+###
+Assumption1: If it is raining, the grass is wet.
+Assumption2: If the grass is wet, insects are happy.
+Proof: If it is raining the insects are happy.
+###
+Assumption1: qwertyu if it is sunny.
+Assumption2: tttttt if it is qwertyu.
+Proof: If it is sunny, tttttt.
+###
+Assumption1: qwertyu is caused by ttttt.
+Assumption2: asdfg is caused by qwertyu.
+Proof: asdfg is caused by ttttt.
+###
+Assumption1: Bobby is happy if and only if he ate ice cream.
+Assumption2: Bobby eating ice cream implies him doing homework.
+Proof: If bobby is happy, he is doing his homework.
+###
+Assumption1: Being an athlete gives you an ability to run fast.
+Assumption2: If you run fast you are fit.
+Proof: If you are an athlete, you are fit.
+###
+Assumption1: Rain causes clouds.
+Assumption2: Dollar rises in value if it is cloudy.
+Proof: Rain causes Dollar to rise.
+###
+Assumption1: Cloudiness is caused by rain.
+Assumption2: Joe's sadness is caused by cloudiness.
+Proof: If it rains, Joe is sad.
+###
+Assumption1: Being a ttttt means you own a ghjkl.
+Assumption2: If you own a ghjkl you automatically have a ttyyyy.
+Proof: If you are a ttttt you have a ttyyyy.
+###
+Assumption1: Strength implies power.
+Assumption2: Power if and only if speed.
+Proof: If strength, then speed.
+###
+Assumption1: CEOs have a big salary.
+Assumption2: People with big salaries are happy.
+Proof: CEOs are happy.
+###
+Assumption1: Illegal things are against the law.
+Assumption2: If it is against the law, then it is bad.
+Proof: Illegal things are bad.
+###
+Assumption1: High IQ is implied by big brain.
+Assumption2: If you have a high IQ, then you have a high salary.
+Proof: If you have a big brain, you have a high salary.
+###
+Assumption1: asdf implies qwerty.
+Assumption2: qwerty implies high salaries.
+Proof: asdf implies high salaries.
+###
+Assumption1: It rains if and only if it is cloudy.
+Assumption2: Bob is happy if and only if it rains.
+Proof: Bob is happy if it is cloudy.
+###
+Assumption1: I am from USA if and only if I know the anthem.
+Assumption2: Loving McDonalds is caused by knowing the anthem of the USA.
+Proof: If I am from the USA, I love McDonalds.
+###
+Assumption1: Having a job means you work a lot.
+Assumption2: If you have a job, you make money.
+Proof: If you work a lot you make money.
+###
+Assumption1: If Dima drinks coffee he feels satisfied.
+Assumption2: Being satisfied produces dopamine in the brain.
+Proof: If Dima drinks coffee his brain produces dopamine.
+###
+Assumption1: Having Iphone implies having Icloud account.
+Assumption2: If you have an Icloud account, Fed steals all your data.
+Proof: If you have Iphone, Fed steals all your data.
+Troof: Having Iphone implies Fed stealing all your data.
+----------------------------------EXPERIMENT NUMBER 24--------------MODEL j1-jumbo--------------------
+Assumption1: If someone is from Mars, then he is foreign.
+Assumption2: If someone is foreign, then he is scary.
+Proof: If someone is from Mars, then he is scary.
+###
+Assumption1: Having a job means you work a lot.
+Assumption2: If you have a job, you make money.
+Proof: If you work a lot you make money.
+###
+Assumption1: High IQ implies cleverness.
+Assumption2: Cleverness implies sadness.
+Proof: High IQ implies sadness.
+###
+Assumption1: It rains if and only if it is cloudy.
+Assumption2: Bob is happy if and only if it rains.
+Proof: Bob is happy if it is cloudy.
+###
+Assumption1: If it is raining, the grass is wet.
+Assumption2: If the grass is wet, insects are happy.
+Proof: If it is raining the insects are happy.
+###
+Assumption1: Being a ttttt means you own a ghjkl.
+Assumption2: If you own a ghjkl you automatically have a ttyyyy.
+Proof: If you are a ttttt you have a ttyyyy.
+###
+Assumption1: Being an athlete gives you an ability to run fast.
+Assumption2: If you run fast you are fit.
+Proof: If you are an athlete, you are fit.
+###
+Assumption1: Happy family is implied by happy marriage.
+Assumption2: If you have a happy family, then you have a lot of children.
+Proof: If you have a happy marriage, you have a lot of children.
+###
+Assumption1: High IQ is implied by big brain.
+Assumption2: If you have a high IQ, then you have a high salary.
+Proof: If you have a big brain, you have a high salary.
+###
+Assumption1: X implies Y.
+Assumption2: Z is implied by Y.
+Proof: If X, then Z
+###
+Assumption1: Power is implied by connections.
+Assumption2: asdfg is implied by power.
+Proof: asdfg is implied by connections.
+###
+Assumption1: Having Iphone implies having Icloud account.
+Assumption2: If you have an Icloud account, Fed steals all your data.
+Proof: Having Iphone implies Fed stealing all your data.
+###
+Assumption1: If Dima drinks coffee he feels satisfied.
+Assumption2: Being satisfied produces dopamine in the brain.
+Proof: If Dima drinks coffee his brain produces dopamine.
+###
+Assumption1: It is ttttt if and only if qwertyu.
+Assumption2: qwertyu if and only if asddfg.
+Proof: ttttt implies asddfg.
+###
+Assumption1: Strength implies power.
+Assumption2: Power if and only if speed.
+Proof: If strength, then speed.
+###
+Assumption1: Illegal things are against the law.
+Assumption2: If it is against the law, then it is bad.
+Proof: Illegal things are bad.
+###
+Assumption1: I am from USA if and only if I know the anthem.
+Assumption2: Loving McDonalds is caused by knowing the anthem of the USA.
+Proof: If I am from the USA, I love McDonalds.
+###
+Assumption1: qwertyu is caused by ttttt.
+Assumption2: asdfg is caused by qwertyu.
+Proof: asdfg is caused by ttttt.
+###
+Assumption1: Rain causes clouds.
+Assumption2: Dollar rises in value if it is cloudy.
+Proof: Rain causes Dollar to rise.
+###
+Assumption1: asdf implies qwerty.
+Assumption2: qwerty implies high salaries.
+Proof: asdf implies high salaries.
+###
+Assumption1: It is cloudy if it rains.
+Assumption2: There is no sun if it is cloudy.
+Proof: If it rains, then it is cloudy.
+###
+Assumption1: qwertyu if it is sunny.
+Assumption2: tttttt if it is qwertyu.
+Proof: If it is sunny, tttttt.
+###
+Assumption1: If Joe has a degree, he went to school.
+Assumption2: If someone went to school, they studied a lot.
+Proof: If Joe has a degree, he studied a lot.
+###
+Assumption1: If I do not wake up, then I cannot go to work.
+Assumption2: If I cannot go to work, then I will not get paid.
+Proof: If I do not wake up, then I will not get paid.
+###
+Assumption1: Cloudiness is caused by rain.
+Assumption2: Joe's sadness is caused by cloudiness.
+Proof: If it rains, Joe is sad.
+###
+Assumption1: Mining cryptocurrency if and only if you want to get rich.
+Assumption2: If you mine cryptocurrency, then you are anonymous.
+Proof: If you want to get rich, you mine cryptocurrency.
+Troof: If you wany to get rich, then you are anonymous.
+----------------------------------EXPERIMENT NUMBER 25--------------MODEL j1-jumbo--------------------
+Assumption1: High IQ implies cleverness.
+Assumption2: Cleverness implies sadness.
+Proof: High IQ implies sadness.
+###
+Assumption1: Illegal things are against the law.
+Assumption2: If it is against the law, then it is bad.
+Proof: Illegal things are bad.
+###
+Assumption1: qwertyu is caused by ttttt.
+Assumption2: asdfg is caused by qwertyu.
+Proof: asdfg is caused by ttttt.
+###
+Assumption1: Rain causes clouds.
+Assumption2: Dollar rises in value if it is cloudy.
+Proof: Rain causes Dollar to rise.
+###
+Assumption1: If Dima drinks coffee he feels satisfied.
+Assumption2: Being satisfied produces dopamine in the brain.
+Proof: If Dima drinks coffee his brain produces dopamine.
+###
+Assumption1: Happy family is implied by happy marriage.
+Assumption2: If you have a happy family, then you have a lot of children.
+Proof: If you have a happy marriage, you have a lot of children.
+###
+Assumption1: It is cloudy if it rains.
+Assumption2: There is no sun if it is cloudy.
+Proof: If it rains, then it is cloudy.
+###
+Assumption1: It rains if and only if it is cloudy.
+Assumption2: Bob is happy if and only if it rains.
+Proof: Bob is happy if it is cloudy.
+###
+Assumption1: Power is implied by connections.
+Assumption2: asdfg is implied by power.
+Proof: asdfg is implied by connections.
+###
+Assumption1: asdf implies qwerty.
+Assumption2: qwerty implies high salaries.
+Proof: asdf implies high salaries.
+###
+Assumption1: Cloudiness is caused by rain.
+Assumption2: Joe's sadness is caused by cloudiness.
+Proof: If it rains, Joe is sad.
+###
+Assumption1: Cryptocurrency mining is implied by high energy costs.
+Assumption2: High profits are implied by cryptocurrency mining.
+Proof: High profits are implied by high energy costs.
+###
+Assumption1: Being a ttttt means you own a ghjkl.
+Assumption2: If you own a ghjkl you automatically have a ttyyyy.
+Proof: If you are a ttttt you have a ttyyyy.
+###
+Assumption1: It is ttttt if and only if qwertyu.
+Assumption2: qwertyu if and only if asddfg.
+Proof: ttttt implies asddfg.
+###
+Assumption1: Bobby is happy if and only if he ate ice cream.
+Assumption2: Bobby eating ice cream implies him doing homework.
+Proof: If bobby is happy, he is doing his homework.
+###
+Assumption1: I am from USA if and only if I know the anthem.
+Assumption2: Loving McDonalds is caused by knowing the anthem of the USA.
+Proof: If I am from the USA, I love McDonalds.
+###
+Assumption1: Being an athlete gives you an ability to run fast.
+Assumption2: If you run fast you are fit.
+Proof: If you are an athlete, you are fit.
+###
+Assumption1: If it is raining, the grass is wet.
+Assumption2: If the grass is wet, insects are happy.
+Proof: If it is raining the insects are happy.
+###
+Assumption1: If computer has a good CPU, then it is smart.
+Assumption2: If something is smart, then it can perform addition.
+Proof: If computer has a good CPU, then it can perform addition.
+###
+Assumption1: Mining cryptocurrency if and only if you want to get rich.
+Assumption2: If you mine cryptocurrency, then you are anonymous.
+Proof: If you wany to get rich, then you are anonymous.
+###
+Assumption1: qwertyu if it is sunny.
+Assumption2: tttttt if it is qwertyu.
+Proof: If it is sunny, tttttt.
+###
+Assumption1: If Joe has a degree, he went to school.
+Assumption2: If someone went to school, they studied a lot.
+Proof: If Joe has a degree, he studied a lot.
+###
+Assumption1: X implies Y.
+Assumption2: Z is implied by Y.
+Proof: If X, then Z
+###
+Assumption1: If someone is from Mars, then he is foreign.
+Assumption2: If someone is foreign, then he is scary.
+Proof: If someone is from Mars, then he is scary.
+###
+Assumption1: Having a job means you work a lot.
+Assumption2: If you have a job, you make money.
+Proof: If you work a lot you make money.
+###
+Assumption1: Strength implies power.
+Assumption2: Power if and only if speed.
+Proof: Strength implies speed.
+Troof: If strength, then speed.
+----------------------------------EXPERIMENT NUMBER 26--------------MODEL j1-jumbo--------------------
+Assumption1: If Dima drinks coffee he feels satisfied.
+Assumption2: Being satisfied produces dopamine in the brain.
+Proof: If Dima drinks coffee his brain produces dopamine.
+###
+Assumption1: Mining cryptocurrency if and only if you want to get rich.
+Assumption2: If you mine cryptocurrency, then you are anonymous.
+Proof: If you wany to get rich, then you are anonymous.
+###
+Assumption1: High IQ implies cleverness.
+Assumption2: Cleverness implies sadness.
+Proof: High IQ implies sadness.
+###
+Assumption1: Rain causes clouds.
+Assumption2: Dollar rises in value if it is cloudy.
+Proof: Rain causes Dollar to rise.
+###
+Assumption1: If computer has a good CPU, then it is smart.
+Assumption2: If something is smart, then it can perform addition.
+Proof: If computer has a good CPU, then it can perform addition.
+###
+Assumption1: CEOs have a big salary.
+Assumption2: People with big salaries are happy.
+Proof: CEOs are happy.
+###
+Assumption1: If it is raining, the grass is wet.
+Assumption2: If the grass is wet, insects are happy.
+Proof: If it is raining the insects are happy.
+###
+Assumption1: If Joe has a degree, he went to school.
+Assumption2: If someone went to school, they studied a lot.
+Proof: If Joe has a degree, he studied a lot.
+###
+Assumption1: It is cloudy if it rains.
+Assumption2: There is no sun if it is cloudy.
+Proof: If it rains, then it is cloudy.
+###
+Assumption1: Cryptocurrency mining is implied by high energy costs.
+Assumption2: High profits are implied by cryptocurrency mining.
+Proof: High profits are implied by high energy costs.
+###
+Assumption1: Power is implied by connections.
+Assumption2: asdfg is implied by power.
+Proof: asdfg is implied by connections.
+###
+Assumption1: asdf implies qwerty.
+Assumption2: qwerty implies high salaries.
+Proof: asdf implies high salaries.
+###
+Assumption1: qwertyu is caused by ttttt.
+Assumption2: asdfg is caused by qwertyu.
+Proof: asdfg is caused by ttttt.
+###
+Assumption1: Cloudiness is caused by rain.
+Assumption2: Joe's sadness is caused by cloudiness.
+Proof: If it rains, Joe is sad.
+###
+Assumption1: If I do not wake up, then I cannot go to work.
+Assumption2: If I cannot go to work, then I will not get paid.
+Proof: If I do not wake up, then I will not get paid.
+###
+Assumption1: I am from USA if and only if I know the anthem.
+Assumption2: Loving McDonalds is caused by knowing the anthem of the USA.
+Proof: If I am from the USA, I love McDonalds.
+###
+Assumption1: Strength implies power.
+Assumption2: Power if and only if speed.
+Proof: If strength, then speed.
+###
+Assumption1: If someone is from Mars, then he is foreign.
+Assumption2: If someone is foreign, then he is scary.
+Proof: If someone is from Mars, then he is scary.
+###
+Assumption1: Happy family is implied by happy marriage.
+Assumption2: If you have a happy family, then you have a lot of children.
+Proof: If you have a happy marriage, you have a lot of children.
+###
+Assumption1: Having Iphone implies having Icloud account.
+Assumption2: If you have an Icloud account, Fed steals all your data.
+Proof: Having Iphone implies Fed stealing all your data.
+###
+Assumption1: Having a job means you work a lot.
+Assumption2: If you have a job, you make money.
+Proof: If you work a lot you make money.
+###
+Assumption1: X implies Y.
+Assumption2: Z is implied by Y.
+Proof: If X, then Z
+###
+Assumption1: Illegal things are against the law.
+Assumption2: If it is against the law, then it is bad.
+Proof: Illegal things are bad.
+###
+Assumption1: It rains if and only if it is cloudy.
+Assumption2: Bob is happy if and only if it rains.
+Proof: Bob is happy if it is cloudy.
+###
+Assumption1: Being an athlete gives you an ability to run fast.
+Assumption2: If you run fast you are fit.
+Proof: If you are an athlete, you are fit.
+###
+Assumption1: High IQ is implied by big brain.
+Assumption2: If you have a high IQ, then you have a high salary.
+Proof: If you have a high IQ, you have a high salary.
+Troof: If you have a big brain, you have a high salary.
+----------------------------------EXPERIMENT NUMBER 27--------------MODEL j1-jumbo--------------------
+Assumption1: Having Iphone implies having Icloud account.
+Assumption2: If you have an Icloud account, Fed steals all your data.
+Proof: Having Iphone implies Fed stealing all your data.
+###
+Assumption1: Happy family is implied by happy marriage.
+Assumption2: If you have a happy family, then you have a lot of children.
+Proof: If you have a happy marriage, you have a lot of children.
+###
+Assumption1: CEOs have a big salary.
+Assumption2: People with big salaries are happy.
+Proof: CEOs are happy.
+###
+Assumption1: Cryptocurrency mining is implied by high energy costs.
+Assumption2: High profits are implied by cryptocurrency mining.
+Proof: High profits are implied by high energy costs.
+###
+Assumption1: High IQ implies cleverness.
+Assumption2: Cleverness implies sadness.
+Proof: High IQ implies sadness.
+###
+Assumption1: Illegal things are against the law.
+Assumption2: If it is against the law, then it is bad.
+Proof: Illegal things are bad.
+###
+Assumption1: High IQ is implied by big brain.
+Assumption2: If you have a high IQ, then you have a high salary.
+Proof: If you have a big brain, you have a high salary.
+###
+Assumption1: Being an athlete gives you an ability to run fast.
+Assumption2: If you run fast you are fit.
+Proof: If you are an athlete, you are fit.
+###
+Assumption1: qwertyu is caused by ttttt.
+Assumption2: asdfg is caused by qwertyu.
+Proof: asdfg is caused by ttttt.
+###
+Assumption1: X implies Y.
+Assumption2: Z is implied by Y.
+Proof: If X, then Z
+###
+Assumption1: If computer has a good CPU, then it is smart.
+Assumption2: If something is smart, then it can perform addition.
+Proof: If computer has a good CPU, then it can perform addition.
+###
+Assumption1: Bobby is happy if and only if he ate ice cream.
+Assumption2: Bobby eating ice cream implies him doing homework.
+Proof: If bobby is happy, he is doing his homework.
+###
+Assumption1: If someone is from Mars, then he is foreign.
+Assumption2: If someone is foreign, then he is scary.
+Proof: If someone is from Mars, then he is scary.
+###
+Assumption1: qwertyu if it is sunny.
+Assumption2: tttttt if it is qwertyu.
+Proof: If it is sunny, tttttt.
+###
+Assumption1: Having a job means you work a lot.
+Assumption2: If you have a job, you make money.
+Proof: If you work a lot you make money.
+###
+Assumption1: It rains if and only if it is cloudy.
+Assumption2: Bob is happy if and only if it rains.
+Proof: Bob is happy if it is cloudy.
+###
+Assumption1: Being a ttttt means you own a ghjkl.
+Assumption2: If you own a ghjkl you automatically have a ttyyyy.
+Proof: If you are a ttttt you have a ttyyyy.
+###
+Assumption1: If it is raining, the grass is wet.
+Assumption2: If the grass is wet, insects are happy.
+Proof: If it is raining the insects are happy.
+###
+Assumption1: It is ttttt if and only if qwertyu.
+Assumption2: qwertyu if and only if asddfg.
+Proof: ttttt implies asddfg.
+###
+Assumption1: Rain causes clouds.
+Assumption2: Dollar rises in value if it is cloudy.
+Proof: Rain causes Dollar to rise.
+###
+Assumption1: I am from USA if and only if I know the anthem.
+Assumption2: Loving McDonalds is caused by knowing the anthem of the USA.
+Proof: If I am from the USA, I love McDonalds.
+###
+Assumption1: If Joe has a degree, he went to school.
+Assumption2: If someone went to school, they studied a lot.
+Proof: If Joe has a degree, he studied a lot.
+###
+Assumption1: Cloudiness is caused by rain.
+Assumption2: Joe's sadness is caused by cloudiness.
+Proof: If it rains, Joe is sad.
+###
+Assumption1: It is cloudy if it rains.
+Assumption2: There is no sun if it is cloudy.
+Proof: If it rains, then it is cloudy.
+###
+Assumption1: asdf implies qwerty.
+Assumption2: qwerty implies high salaries.
+Proof: asdf implies high salaries.
+###
+Assumption1: Power is implied by connections.
+Assumption2: asdfg is implied by power.
+Proof: If asdfg, then power.
+Troof: asdfg is implied by connections.
+----------------------------------EXPERIMENT NUMBER 28--------------MODEL j1-jumbo--------------------
+Assumption1: Cloudiness is caused by rain.
+Assumption2: Joe's sadness is caused by cloudiness.
+Proof: If it rains, Joe is sad.
+###
+Assumption1: Rain causes clouds.
+Assumption2: Dollar rises in value if it is cloudy.
+Proof: Rain causes Dollar to rise.
+###
+Assumption1: It is cloudy if it rains.
+Assumption2: There is no sun if it is cloudy.
+Proof: If it rains, then it is cloudy.
+###
+Assumption1: Mining cryptocurrency if and only if you want to get rich.
+Assumption2: If you mine cryptocurrency, then you are anonymous.
+Proof: If you wany to get rich, then you are anonymous.
+###
+Assumption1: Having Iphone implies having Icloud account.
+Assumption2: If you have an Icloud account, Fed steals all your data.
+Proof: Having Iphone implies Fed stealing all your data.
+###
+Assumption1: qwertyu if it is sunny.
+Assumption2: tttttt if it is qwertyu.
+Proof: If it is sunny, tttttt.
+###
+Assumption1: If I do not wake up, then I cannot go to work.
+Assumption2: If I cannot go to work, then I will not get paid.
+Proof: If I do not wake up, then I will not get paid.
+###
+Assumption1: If Joe has a degree, he went to school.
+Assumption2: If someone went to school, they studied a lot.
+Proof: If Joe has a degree, he studied a lot.
+###
+Assumption1: It is ttttt if and only if qwertyu.
+Assumption2: qwertyu if and only if asddfg.
+Proof: ttttt implies asddfg.
+###
+Assumption1: If someone is from Mars, then he is foreign.
+Assumption2: If someone is foreign, then he is scary.
+Proof: If someone is from Mars, then he is scary.
+###
+Assumption1: It rains if and only if it is cloudy.
+Assumption2: Bob is happy if and only if it rains.
+Proof: Bob is happy if it is cloudy.
+###
+Assumption1: Bobby is happy if and only if he ate ice cream.
+Assumption2: Bobby eating ice cream implies him doing homework.
+Proof: If bobby is happy, he is doing his homework.
+###
+Assumption1: Power is implied by connections.
+Assumption2: asdfg is implied by power.
+Proof: asdfg is implied by connections.
+###
+Assumption1: Illegal things are against the law.
+Assumption2: If it is against the law, then it is bad.
+Proof: Illegal things are bad.
+###
+Assumption1: qwertyu is caused by ttttt.
+Assumption2: asdfg is caused by qwertyu.
+Proof: asdfg is caused by ttttt.
+###
+Assumption1: If it is raining, the grass is wet.
+Assumption2: If the grass is wet, insects are happy.
+Proof: If it is raining the insects are happy.
+###
+Assumption1: CEOs have a big salary.
+Assumption2: People with big salaries are happy.
+Proof: CEOs are happy.
+###
+Assumption1: Cryptocurrency mining is implied by high energy costs.
+Assumption2: High profits are implied by cryptocurrency mining.
+Proof: High profits are implied by high energy costs.
+###
+Assumption1: Being a ttttt means you own a ghjkl.
+Assumption2: If you own a ghjkl you automatically have a ttyyyy.
+Proof: If you are a ttttt you have a ttyyyy.
+###
+Assumption1: If computer has a good CPU, then it is smart.
+Assumption2: If something is smart, then it can perform addition.
+Proof: If computer has a good CPU, then it can perform addition.
+###
+Assumption1: High IQ implies cleverness.
+Assumption2: Cleverness implies sadness.
+Proof: High IQ implies sadness.
+###
+Assumption1: I am from USA if and only if I know the anthem.
+Assumption2: Loving McDonalds is caused by knowing the anthem of the USA.
+Proof: If I am from the USA, I love McDonalds.
+###
+Assumption1: If Dima drinks coffee he feels satisfied.
+Assumption2: Being satisfied produces dopamine in the brain.
+Proof: If Dima drinks coffee his brain produces dopamine.
+###
+Assumption1: Being an athlete gives you an ability to run fast.
+Assumption2: If you run fast you are fit.
+Proof: If you are an athlete, you are fit.
+###
+Assumption1: asdf implies qwerty.
+Assumption2: qwerty implies high salaries.
+Proof: asdf implies high salaries.
+###
+Assumption1: Happy family is implied by happy marriage.
+Assumption2: If you have a happy family, then you have a lot of children.
+Proof: If you have a happy marriage, you have a lot of children.
+Troof: If you have a happy marriage, you have a lot of children.
+----------------------------------EXPERIMENT NUMBER 29--------------MODEL j1-jumbo--------------------
+Assumption1: Being a ttttt means you own a ghjkl.
+Assumption2: If you own a ghjkl you automatically have a ttyyyy.
+Proof: If you are a ttttt you have a ttyyyy.
+###
+Assumption1: It is cloudy if it rains.
+Assumption2: There is no sun if it is cloudy.
+Proof: If it rains, then it is cloudy.
+###
+Assumption1: Happy family is implied by happy marriage.
+Assumption2: If you have a happy family, then you have a lot of children.
+Proof: If you have a happy marriage, you have a lot of children.
+###
+Assumption1: It rains if and only if it is cloudy.
+Assumption2: Bob is happy if and only if it rains.
+Proof: Bob is happy if it is cloudy.
+###
+Assumption1: qwertyu is caused by ttttt.
+Assumption2: asdfg is caused by qwertyu.
+Proof: asdfg is caused by ttttt.
+###
+Assumption1: asdf implies qwerty.
+Assumption2: qwerty implies high salaries.
+Proof: asdf implies high salaries.
+###
+Assumption1: High IQ implies cleverness.
+Assumption2: Cleverness implies sadness.
+Proof: High IQ implies sadness.
+###
+Assumption1: qwertyu if it is sunny.
+Assumption2: tttttt if it is qwertyu.
+Proof: If it is sunny, tttttt.
+###
+Assumption1: If it is raining, the grass is wet.
+Assumption2: If the grass is wet, insects are happy.
+Proof: If it is raining the insects are happy.
+###
+Assumption1: It is ttttt if and only if qwertyu.
+Assumption2: qwertyu if and only if asddfg.
+Proof: ttttt implies asddfg.
+###
+Assumption1: High IQ is implied by big brain.
+Assumption2: If you have a high IQ, then you have a high salary.
+Proof: If you have a big brain, you have a high salary.
+###
+Assumption1: CEOs have a big salary.
+Assumption2: People with big salaries are happy.
+Proof: CEOs are happy.
+###
+Assumption1: Being an athlete gives you an ability to run fast.
+Assumption2: If you run fast you are fit.
+Proof: If you are an athlete, you are fit.
+###
+Assumption1: Power is implied by connections.
+Assumption2: asdfg is implied by power.
+Proof: asdfg is implied by connections.
+###
+Assumption1: Mining cryptocurrency if and only if you want to get rich.
+Assumption2: If you mine cryptocurrency, then you are anonymous.
+Proof: If you wany to get rich, then you are anonymous.
+###
+Assumption1: Bobby is happy if and only if he ate ice cream.
+Assumption2: Bobby eating ice cream implies him doing homework.
+Proof: If bobby is happy, he is doing his homework.
+###
+Assumption1: Rain causes clouds.
+Assumption2: Dollar rises in value if it is cloudy.
+Proof: Rain causes Dollar to rise.
+###
+Assumption1: I am from USA if and only if I know the anthem.
+Assumption2: Loving McDonalds is caused by knowing the anthem of the USA.
+Proof: If I am from the USA, I love McDonalds.
+###
+Assumption1: X implies Y.
+Assumption2: Z is implied by Y.
+Proof: If X, then Z
+###
+Assumption1: If Joe has a degree, he went to school.
+Assumption2: If someone went to school, they studied a lot.
+Proof: If Joe has a degree, he studied a lot.
+###
+Assumption1: Strength implies power.
+Assumption2: Power if and only if speed.
+Proof: If strength, then speed.
+###
+Assumption1: If Dima drinks coffee he feels satisfied.
+Assumption2: Being satisfied produces dopamine in the brain.
+Proof: If Dima drinks coffee his brain produces dopamine.
+###
+Assumption1: Having a job means you work a lot.
+Assumption2: If you have a job, you make money.
+Proof: If you work a lot you make money.
+###
+Assumption1: Cloudiness is caused by rain.
+Assumption2: Joe's sadness is caused by cloudiness.
+Proof: If it rains, Joe is sad.
+###
+Assumption1: Illegal things are against the law.
+Assumption2: If it is against the law, then it is bad.
+Proof: Illegal things are bad.
+###
+Assumption1: Cryptocurrency mining is implied by high energy costs.
+Assumption2: High profits are implied by cryptocurrency mining.
+Proof: If cryptocurrency mining, then high profits.
+Troof: High profits are implied by high energy costs.
+----------------------------------EXPERIMENT NUMBER 30--------------MODEL j1-jumbo--------------------
+Assumption1: If computer has a good CPU, then it is smart.
+Assumption2: If something is smart, then it can perform addition.
+Proof: If computer has a good CPU, then it can perform addition.
+###
+Assumption1: It rains if and only if it is cloudy.
+Assumption2: Bob is happy if and only if it rains.
+Proof: Bob is happy if it is cloudy.
+###
+Assumption1: Mining cryptocurrency if and only if you want to get rich.
+Assumption2: If you mine cryptocurrency, then you are anonymous.
+Proof: If you wany to get rich, then you are anonymous.
+###
+Assumption1: Happy family is implied by happy marriage.
+Assumption2: If you have a happy family, then you have a lot of children.
+Proof: If you have a happy marriage, you have a lot of children.
+###
+Assumption1: It is cloudy if it rains.
+Assumption2: There is no sun if it is cloudy.
+Proof: If it rains, then it is cloudy.
+###
+Assumption1: Cloudiness is caused by rain.
+Assumption2: Joe's sadness is caused by cloudiness.
+Proof: If it rains, Joe is sad.
+###
+Assumption1: Having a job means you work a lot.
+Assumption2: If you have a job, you make money.
+Proof: If you work a lot you make money.
+###
+Assumption1: CEOs have a big salary.
+Assumption2: People with big salaries are happy.
+Proof: CEOs are happy.
+###
+Assumption1: Having Iphone implies having Icloud account.
+Assumption2: If you have an Icloud account, Fed steals all your data.
+Proof: Having Iphone implies Fed stealing all your data.
+###
+Assumption1: If Dima drinks coffee he feels satisfied.
+Assumption2: Being satisfied produces dopamine in the brain.
+Proof: If Dima drinks coffee his brain produces dopamine.
+###
+Assumption1: qwertyu if it is sunny.
+Assumption2: tttttt if it is qwertyu.
+Proof: If it is sunny, tttttt.
+###
+Assumption1: Illegal things are against the law.
+Assumption2: If it is against the law, then it is bad.
+Proof: Illegal things are bad.
+###
+Assumption1: asdf implies qwerty.
+Assumption2: qwerty implies high salaries.
+Proof: asdf implies high salaries.
+###
+Assumption1: It is ttttt if and only if qwertyu.
+Assumption2: qwertyu if and only if asddfg.
+Proof: ttttt implies asddfg.
+###
+Assumption1: Bobby is happy if and only if he ate ice cream.
+Assumption2: Bobby eating ice cream implies him doing homework.
+Proof: If bobby is happy, he is doing his homework.
+###
+Assumption1: If Joe has a degree, he went to school.
+Assumption2: If someone went to school, they studied a lot.
+Proof: If Joe has a degree, he studied a lot.
+###
+Assumption1: Rain causes clouds.
+Assumption2: Dollar rises in value if it is cloudy.
+Proof: Rain causes Dollar to rise.
+###
+Assumption1: If I do not wake up, then I cannot go to work.
+Assumption2: If I cannot go to work, then I will not get paid.
+Proof: If I do not wake up, then I will not get paid.
+###
+Assumption1: High IQ is implied by big brain.
+Assumption2: If you have a high IQ, then you have a high salary.
+Proof: If you have a big brain, you have a high salary.
+###
+Assumption1: Strength implies power.
+Assumption2: Power if and only if speed.
+Proof: If strength, then speed.
+###
+Assumption1: I am from USA if and only if I know the anthem.
+Assumption2: Loving McDonalds is caused by knowing the anthem of the USA.
+Proof: If I am from the USA, I love McDonalds.
+###
+Assumption1: If it is raining, the grass is wet.
+Assumption2: If the grass is wet, insects are happy.
+Proof: If it is raining the insects are happy.
+###
+Assumption1: Power is implied by connections.
+Assumption2: asdfg is implied by power.
+Proof: asdfg is implied by connections.
+###
+Assumption1: High IQ implies cleverness.
+Assumption2: Cleverness implies sadness.
+Proof: High IQ implies sadness.
+###
+Assumption1: If someone is from Mars, then he is foreign.
+Assumption2: If someone is foreign, then he is scary.
+Proof: If someone is from Mars, then he is scary.
+###
+Assumption1: X implies Y.
+Assumption2: Z is implied by Y.
+Proof: Z is implied by X.
+Troof: If X, then Z
