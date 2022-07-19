@@ -1,5 +1,6 @@
 import openai
 import requests
+import json
 
 class runner():
     experiments = []
@@ -89,4 +90,24 @@ class runner():
                 f.write(self.runOpenAI("text-davinci-002",experiment.getExp()))
                 f.write(f"Troof: {experiment.getTroof()}")
             n += 1
-        
+
+    def runTrials(self):
+        n = 1
+        results = {}
+        for experiment in self.experiments[0]:
+            a = f"----------------------------------EXPERIMENT NUMBER {n}--------------MODEL J1-Jumbo--------------------\n"
+            res = self.runAI21("j1-jumbo",experiment.getExp())
+            with open(self.path,"a") as f:
+                f.write(a)
+                f.write(experiment.getExp())
+                f.write(res)
+                f.write(f"Troof: {experiment.getTroof()}")
+            if res in results:
+                results[res] += 1
+            else:
+                results[res] = 1
+
+            
+        with open(self.path,"a") as f:
+            f.write("-----------------------------RESULTS---------------------------\n")
+            f.write(json.dumps(results))
