@@ -1,4 +1,4 @@
-from .ds import data, example
+from .ds import data, example, multiExp
 
 def parse(path):
     with open(path,"r") as f:
@@ -15,4 +15,20 @@ def parse(path):
                 d.add(ex)
                 ex = example()
                 continue
+    return d
+
+def parseMulti(path):
+    with open(path,"r") as f:
+        d = data()
+        ex = multiExp()
+        for line in f:
+            if "Assumption" in line:
+                ex.addAssumption(line)
+            elif "###" in line:
+                d.add(ex)
+                ex = multiExp()
+            else:
+                ex.addProofstr(line)
+                temp = line.split(" ",1)
+                ex.addProof(temp[0],temp[1])
     return d

@@ -72,6 +72,25 @@ class data():
             experiments.append(experi(exp = experiment,proof = exa.getProof()))
         return experiments
 
+    def makeMultiExps(self,num = 1):
+        assert num + 1 <= self.total(), f"Maximum possible in context examples {self.total() -1}, got {num}"
+        experiments = []
+        for exa in self.examples:
+            experiment = ""
+            ex = self.examples.copy()
+            ex.remove(exa)
+            random.shuffle(ex)
+            for _ in range(num):
+                a = ex.pop()
+                for ass in a.getAssumptions():
+                    experiment += ass
+                experiment += a.getProofstr() + "###\n"
+            for ass in exa.getAssumptions():
+                experiment += ass
+            
+            experiments.append(experi(exp = experiment,proof = exa.getProofstr()))
+        return experiments
+
 class example():
     assumptions = []
     proof = ""
@@ -95,12 +114,42 @@ class example():
     def __str__(self):
         return str(self.assumptions) + " " + self.proof
 
+class multiExp():
+    assumptions = []
+    proofs = {}
+    proofstr = ""
+
+    def __init__(self) -> None:
+        self.assumptions = []
+        self.proofs = {}
+        self.proofstr = ""
+
+    def addAssumption(self,assumption):
+        self.assumptions.append(assumption)
+    
+    def addProof(self,a,b):
+        self.proofs[a] = b
+    
+    def addProofstr(self,a):
+        self.proofstr = self.proofstr + a
+    
+    def getProofstr(self):
+        return self.proofstr
+
+    def getAssumptions(self):
+        return self.assumptions
+    
+
+
 class experi():
     exp = ""
     troof = ""
     def __init__(self,exp,proof):
         self.exp = exp
-        self.troof = proof.split("Proof: ")[1]
+        if "Proof" in proof:
+            self.troof = proof.split("Proof: ")[1]
+        else:
+            self.troof = proof
     def getExp(self):
         return self.exp
     def getTroof(self):

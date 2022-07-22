@@ -74,6 +74,31 @@ class runner():
                     f.write(self.runAI21(model,experiment.getExp()))
                 f.write(f"Troof: {experiment.getTroof()}")
             n += 1
+
+    def rumMulti(self):
+        n = 1
+        for experiment in self.experiments[0]:
+            a = f"----------------------------------EXPERIMENT NUMBER {n}--------------MODEL j1-jumbo--------------------\n"
+            with open(self.path,"a") as f:
+                f.write(a)
+                f.write(experiment.getExp())
+                out = requests.post(
+                "https://api.ai21.com/studio/v1/j1-jumbo/complete",
+                headers={"Authorization": self.AI21Key},
+                json={
+                    "prompt": experiment.getExp(), 
+                    "numResults": 1, 
+                    "maxTokens": 1024, 
+                    "stopSequences":["###"],
+                    "topKReturn": 0,
+                    "temperature": 0.0
+            }    
+            )
+                out = out.json()["completions"][0]["data"]["text"] +"\n"
+                f.write(out)
+                f.write("TROOF: \n")
+                f.write(experiment.getTroof())
+            n += 1
     
     def runModels(self):
         n = 1
